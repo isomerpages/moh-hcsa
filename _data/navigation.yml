@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: What is HCSA
     url: /contact-us/
-  - title: Example Page
+  - title: APPLY FOR LICENCE
     url: /example-page/
-  - title: Example Folder
+  - title: RESOURCES
+    collection: example-folder
+  - title: WHO WE ARE
     collection: example-folder
