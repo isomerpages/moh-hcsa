@@ -2,4 +2,5 @@ collections:
   apply-for-licence:
     output: true
     order:
+      - Licence Renewal.md
       - Instructions.md
