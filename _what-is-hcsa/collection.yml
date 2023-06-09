@@ -2,5 +2,6 @@ collections:
   what-is-hcsa:
     output: true
     order:
+      - Overview.md
       - General requirements.md
       - Licensable Healthcare Services.md
