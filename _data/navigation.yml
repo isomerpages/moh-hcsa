@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: WHAT IS HCSA
-    url: /what-is-hcsa
+    collection: what-is-hcsa
   - title: APPLY FOR LICENCE
     url: /example-page/
   - title: PHASE 3 TRANSITION
