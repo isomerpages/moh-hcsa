@@ -1,4 +1,5 @@
 collections:
   apply-for-licence:
     output: true
-    order: []
+    order:
+      - Instructions.md
