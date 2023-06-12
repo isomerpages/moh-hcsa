@@ -3,7 +3,7 @@ links:
   - title: WHAT IS HCSA
     collection: what-is-hcsa
   - title: APPLY FOR LICENCE
-    url: /example-page/
+    collection: apply-for-licence
   - title: PHASE 3 TRANSITION
     collection: example-folder
   - title: RESOURCES
