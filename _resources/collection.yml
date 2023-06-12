@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Announcements.md
       - Circulars.md
       - faq.md
