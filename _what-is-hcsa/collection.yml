@@ -2,7 +2,7 @@ collections:
   what-is-hcsa:
     output: true
     order:
-      - Contact Us.md
       - Overview.md
       - General Requirements.md
       - Licensable Healthcare Services.md
+      - Contact Us.md
