@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Blood Banking Service.md
-      - Cord Blood Banking Service.md
       - Clinical Laboratory Service.md
+      - Cord Blood Banking Service.md
       - Emergency Ambulance and Medical Transport Service.md
-      - Radiological Service.md
       - Human Tissue Banking Service.md
+      - Radiological Service.md
       - Nuclear Medicine Service.md
