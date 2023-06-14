@@ -1,4 +1,5 @@
 collections:
   clinical-support-services:
     output: true
-    order: []
+    order:
+      - Nuclear Medicine Service.md
