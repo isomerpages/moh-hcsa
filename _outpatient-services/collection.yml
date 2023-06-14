@@ -1,0 +1,4 @@
+collections:
+  outpatient-services:
+    output: true
+    order: []
