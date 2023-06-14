@@ -1,4 +1,5 @@
 collections:
   inpatient-services:
     output: true
-    order: []
+    order:
+      - Nursing Home Service.md
