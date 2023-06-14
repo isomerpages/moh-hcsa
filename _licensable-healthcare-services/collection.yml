@@ -1,4 +1,5 @@
 collections:
   licensable-healthcare-services:
     output: true
-    order: []
+    order:
+      - Acute Hospital Service.md
