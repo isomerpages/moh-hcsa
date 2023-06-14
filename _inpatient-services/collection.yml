@@ -2,4 +2,5 @@ collections:
   inpatient-services:
     output: true
     order:
+      - Community Hospital Service.md
       - Nursing Home Service.md
