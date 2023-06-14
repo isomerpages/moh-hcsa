@@ -2,6 +2,7 @@ collections:
   licensable-healthcare-services:
     output: true
     order:
+      - Outpatient Medical Service.md
       - Outpatient Renal Dialysis Service.md
       - Human Tissue Banking Service.md
       - Nuclear Medicine Service.md
