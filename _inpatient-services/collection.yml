@@ -1,0 +1,4 @@
+collections:
+  inpatient-services:
+    output: true
+    order: []
