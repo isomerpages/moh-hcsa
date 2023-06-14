@@ -2,4 +2,5 @@ collections:
   clinical-support-services:
     output: true
     order:
+      - Human Tissue Banking Service.md
       - Nuclear Medicine Service.md
