@@ -2,8 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: WHAT IS HCSA
     collection: what-is-hcsa
-  - title: LICENSABLE HEALTHCARE SERVICES
-    collection: licensable-healthcare-services
   - title: CLINICAL SUPPORT SERVICES
     collection: clinical-support-services
   - title: INPATIENT SERVICES
@@ -12,3 +10,5 @@ links:
     collection: outpatient-services
   - title: RESOURCES
     collection: resources
+  - title: LICENSABLE HEALTHCARE SERVICES
+    collection: licensable-healthcare-services
