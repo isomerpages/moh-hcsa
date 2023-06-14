@@ -2,8 +2,8 @@ collections:
   what-is-hcsa:
     output: true
     order:
-      - Phase 3 Transition.md
       - Overview.md
       - General Requirements.md
       - Licensable Healthcare Services.md
+      - Phase 3 Transition.md
       - Contact Us.md
