@@ -1,0 +1,4 @@
+collections:
+  licensable-healthcare-services:
+    output: true
+    order: []
