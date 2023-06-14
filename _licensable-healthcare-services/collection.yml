@@ -2,5 +2,6 @@ collections:
   licensable-healthcare-services:
     output: true
     order:
+      - Radiological Service.md
       - Ambulatory Surgical Centre Service.md
       - Acute Hospital Service.md
