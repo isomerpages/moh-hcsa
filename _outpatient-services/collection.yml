@@ -2,6 +2,7 @@ collections:
   outpatient-services:
     output: true
     order:
+      - Outpatient Renal Dialysis Service.md
       - Outpatient Medical Service.md
       - Outpatient Dental Service.md
       - Ambulatory Surgical Centre Service.md
