@@ -1,4 +1,5 @@
 collections:
   outpatient-services:
     output: true
-    order: []
+    order:
+      - Assisted Reproduction Service.md
