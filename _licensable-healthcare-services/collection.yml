@@ -2,6 +2,8 @@ collections:
   licensable-healthcare-services:
     output: true
     order:
+      - Acute Hospital Service.md
+      - Ambulatory Surgical Centre Service.md
       - Assisted Reproduction Service.md
       - Blood Banking Service.md
       - Clinical Laboratory Service.md
@@ -13,5 +15,3 @@ collections:
       - Human Tissue Banking Service.md
       - Nuclear Medicine Service.md
       - Radiological Service.md
-      - Ambulatory Surgical Centre Service.md
-      - Acute Hospital Service.md
