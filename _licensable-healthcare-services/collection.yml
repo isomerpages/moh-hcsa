@@ -2,6 +2,7 @@ collections:
   licensable-healthcare-services:
     output: true
     order:
+      - Clinical Laboratory Service.md
       - Cord Blood Banking Service.md
       - Emergency Ambulance and Medical Transport Service.md
       - Outpatient Dental Service.md
