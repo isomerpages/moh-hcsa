@@ -4,5 +4,11 @@ links:
     collection: what-is-hcsa
   - title: LICENSABLE HEALTHCARE SERVICES
     collection: licensable-healthcare-services
+  - title: CLINICAL SUPPORT SERVICES
+    collection: clinical-support-services
+  - title: INPATIENT SERVICES
+    collection: inpatient-services
+  - title: OUTPATIENT SERVICES
+    collection: outpatient-services
   - title: RESOURCES
     collection: resources
