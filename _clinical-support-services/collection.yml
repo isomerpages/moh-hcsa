@@ -2,6 +2,7 @@ collections:
   clinical-support-services:
     output: true
     order:
+      - Cord Blood Banking Service.md
       - Clinical Laboratory Service.md
       - Emergency Ambulance and Medical Transport Service.md
       - Radiological Service.md
