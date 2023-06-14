@@ -2,6 +2,7 @@ collections:
   licensable-healthcare-services:
     output: true
     order:
+      - Community Hospital Service.md
       - Acute Hospital Service.md
       - Ambulatory Surgical Centre Service.md
       - Assisted Reproduction Service.md
