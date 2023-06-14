@@ -2,5 +2,6 @@ collections:
   outpatient-services:
     output: true
     order:
+      - Outpatient Dental Service.md
       - Ambulatory Surgical Centre Service.md
       - Assisted Reproduction Service.md
