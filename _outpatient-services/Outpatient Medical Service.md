@@ -53,9 +53,15 @@ You do not have to pay additional fees beyond the OMS licence fee if you provide
 
 **Eligible for MOSD Fee Bundle**
 
-|    Combination of MOSDs | Examples | Fee |
+
+| Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Permanent premises + Remote + Temporary premises     |    Medical Clinic, Telemedicine, House Calls     | $360     |
+| Text     | Text     | Text     |
+
+
+| Combination of MOSDs | Examples | Fee |
+| -------- | -------- | -------- |
+| Permanent premises + Remote + Temporary premises | Medical Clinic, Telemedicine, House Calls     | $360     |
 | Conveyance + Remote + Temporary premises     |       Conveyance (e.g. OMS via a bus), Telemedicine, House Calls     | $360     |
 | Remote + Temporary premises     |    Telemedicine, House Calls     | $360     |
 
@@ -104,8 +110,6 @@ It should be conducted as soon as reasonably practicable if the fee information 
 |    the patient is a new patient of the licensee |    repeat prescriptions|
 | the patient is advised by the licensee to undergo a new treatment or procedure |    regular lab tests that are not MSH claimable |
 | there is a significant change in the licensee’s fees for the treatment or procedure that the patient is undergoing     |     |
-
-
 
 After the financial counselling is conducted for the patient or the patient’s authorised representative, you will need to obtain their written acknowledgement as part of the records for the financial counselling
 * For phone counselling, to record the acknowledgement in a manner that is easily obtainable and accessible
