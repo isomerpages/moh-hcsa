@@ -26,6 +26,25 @@ A service that is provided to an outpatient as a necessary supporting service in
 * any outpatient renal dialysis service or assisted reproduction service;
 * the provision of a servicefor the purpose of triaging a patient and determining whether the patient needs to be admitted as an inpatient of a holder of a licence granted under the Act to provide an acute hospital service, and (if it is determined that the patient need not be so admitted) to stabilise the patient’s medical condition;
 # Allowable Specified Services (SSes) and applicable Modes of Service Delivery (MOSD)
+**You will need to seek MOH's approval for each allowable Specified Services (SSes) _and_ applicable Modes of Service Delivery (MOSDs)
+**
 ![](/images/oms%20ss%20mosd.png)
 
-tes
+* Click "here" for more information on who needs to hold the licence
+* Click "here" for more information on which MOSD to apply for
+# Requirements for your Clinical Governance Officer (CGO)
+  Note that you 
+
+You may appoint more than one CGO for the same LHS, but you must ensure the following:
+
+1.Responsibilities of each CGO are clearly delineated
+
+2.CGOs are informed of their respective responsibilities.
+
+●
+
+You must also seek MOH’s approval for the appointment of each CGO.1. Reside in Singapore during the appointment as a CGO, AND
+2. Be a fully registered medical practitioner with SMC, AND
+3. Be registered as a specialist or family physician, OR 
+4. Practised as a clinician for not less than (i) 5 continuous years or (ii) 5 years out of a continuous period of 10 years in either an OMS, ASC, AHS, CHS or an equivalent healthcare institution under PHMCA
+5. [For Remote MOSD only] Completed telemedicine e-training course as specified by MOH
