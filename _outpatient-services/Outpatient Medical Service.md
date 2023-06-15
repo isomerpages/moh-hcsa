@@ -33,17 +33,14 @@ A service that is provided to an outpatient as a necessary supporting service in
 * Click "here" for more information on who needs to hold the licence
 * Click "here" for more information on which MOSD to apply for
 # Requirements for your Clinical Governance Officer (CGO)
-  Note that you 
+Note that you will need to appoint at least one CGO for your service. You may appoint multiple CGOs, but you must ensure the following:
+* Responsibilities of each CGO are clearly delineated, **and**
+* CGOs are informed of their respective responsibilities.
 
-You may appoint more than one CGO for the same LHS, but you must ensure the following:
+You must also seek MOH’s approval for the appointment of each CGO.
 
-1.Responsibilities of each CGO are clearly delineated
-
-2.CGOs are informed of their respective responsibilities.
-
-●
-
-You must also seek MOH’s approval for the appointment of each CGO.1. Reside in Singapore during the appointment as a CGO, AND
+**The following requirements need to be fulfilled to be a CGO:**
+1. Reside in Singapore during the appointment as a CGO, AND
 2. Be a fully registered medical practitioner with SMC, AND
 3. Be registered as a specialist or family physician, OR 
 4. Practised as a clinician for not less than (i) 5 continuous years or (ii) 5 years out of a continuous period of 10 years in either an OMS, ASC, AHS, CHS or an equivalent healthcare institution under PHMCA
