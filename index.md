@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Healthcare Services Act (HCSA)
-      subtitle: Test
       background: /images/20160114 ministry of health - i feel young in my singapore
         (3 of 85) v2.jpg
       key_highlights:
