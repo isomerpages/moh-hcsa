@@ -4,23 +4,22 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Healthcare Services Act (HCSA)
+      subtitle: Test
+      background: /images/20160114 ministry of health - i feel young in my singapore
+        (3 of 85) v2.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: 1 October 2023
+          description: Announcement A
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: 30 September 2023
+          description: Announcement 2
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: 24 July 2023
+          description: Announcement 3
           url: /privacy/
   - infobar:
       title: Infobar title
