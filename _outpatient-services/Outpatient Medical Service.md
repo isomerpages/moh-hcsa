@@ -86,3 +86,23 @@ To ensure price transparency during the provision of your service,
   * Consultation, procedural or dialysis fee applicable to the patient, AND
   * Any administrative fee or other charges imposed on the patient (e.g., investigations, treatments, procedures and medications).
 * Inform the patient, at their request, of the estimated applicable charges, including administrative charges, for any aspect of your service, including prior to billing.
+
+# Financial counselling
+Financial counselling is conducted for treatments or procedures that are **eligible for Medishield Life coverage**, such as EPO for CKD or cancer drug treatment. 
+
+It should be conducted as soon as reasonably practicable if the fee information is new to the patient or the patient’s authorised representative. The following information should be provided:
+
+* Estimated price or price range
+* Fee benchmark published by MOH (if available) for the same or similar treatment or procedure
+* Estimated MediSave withdrawal limits and coverage by MediShield Life, even if the coverage is zero
+
+| When to conduct financial counselling? | When is it NOT needed? |
+| -------- | -------- |
+|    the patient is a new patient of the licensee |    repeat prescriptions|
+| the patient is advised by the licensee to undergo a new treatment or procedure |    regular lab tests that are not MSH claimable |
+| there is a significant change in the licensee’s fees for the treatment or procedure that the patient is undergoing     |     |
+
+
+
+After the financial counselling is conducted for the patient or the patient’s authorised representative, you will need to obtain their written acknowledgement as part of the records for the financial counselling
+* For phone counselling, to record the acknowledgement in a manner that is easily obtainable and accessible
