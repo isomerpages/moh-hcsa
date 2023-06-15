@@ -2,8 +2,8 @@ title: Title
 url: https://moh.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#50e3c2"
-  secondary-color: "#7ed321"
+  primary-color: "#0dbb93"
+  secondary-color: "#1c71d3"
   media-colors:
     - title: media-color-one
       color: "#49759a"
