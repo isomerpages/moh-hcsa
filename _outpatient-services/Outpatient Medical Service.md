@@ -58,3 +58,18 @@ You do not have to pay additional fees beyond the OMS licence fee if you provide
 | Permanent premises + Remote + Temporary premises     |    Medical Clinic, Telemedicine, House Calls     | $360     |
 | Conveyance + Remote + Temporary premises     |       Conveyance (e.g. OMS via a bus), Telemedicine, House Calls     | $360     |
 | Remote + Temporary premises     |    Telemedicine, House Calls     | $360     |
+
+**NOT eligible for MOSD Fee Bundle**
+|    Combination of MOSDs | Examples | Fee |
+| -------- | -------- | -------- |
+| Permanent premises + Conveyance     |    Medical Clinic, Conveyance (e.g. OMS via a bus)     |    $360 + $360 = $720     |
+
+If you also choose to offer SSes, do note that there is an approval fee required to provide any SS.
+
+SSes may be categorized as “simple” or “complex” depending on the regulatory efforts involved. Most of the SSes that are applicable to OMS licensee are categorised as “Simple SSes”.
+
+MOH will offer lower fees for licensees that provide more than one Simple SS, i.e. the **SS Fee Bundle**.
+
+|    Combination of MOSDs | Examples | Fee |
+| -------- | -------- | -------- |
+| Permanent premises + Conveyance     |    Medical Clinic, Conveyance (e.g. OMS via a bus)     |    $360 + $360 = $720     |
