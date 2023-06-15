@@ -52,6 +52,7 @@ You may offer your service from any of the 4 MOSDs. To support the provision of 
 You do not have to pay additional fees beyond the OMS licence fee if you provide medical services via any of the combination of MOSDs below: 
 
 **Eligible for MOSD Fee Bundle**
+
 |    Combination of MOSDs | Examples | Fee |
 | -------- | -------- | -------- |
 | Permanent premises + Remote + Temporary premises     |    Medical Clinic, Telemedicine, House Calls     | $360     |
@@ -59,6 +60,7 @@ You do not have to pay additional fees beyond the OMS licence fee if you provide
 | Remote + Temporary premises     |    Telemedicine, House Calls     | $360     |
 
 **NOT eligible for MOSD Fee Bundle**
+
 |    Combination of MOSDs | Examples | Fee |
 | -------- | -------- | -------- |
 | Permanent premises + Conveyance     |    Medical Clinic, Conveyance (e.g. OMS via a bus)     |    $360 + $360 = $720     |
