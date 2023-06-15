@@ -70,6 +70,8 @@ SSes may be categorized as “simple” or “complex” depending on the regula
 
 MOH will offer lower fees for licensees that provide more than one Simple SS, i.e. the **SS Fee Bundle**.
 
-|    Combination of MOSDs | Examples | Fee |
-| -------- | -------- | -------- |
-| Permanent premises + Conveyance     |    Medical Clinic, Conveyance (e.g. OMS via a bus)     |    $360 + $360 = $720     |
+|    Service | LHS Fee (A) | SS Fee (B) | Licence Fee (A) + (B) |
+| -------- | -------- | --------  |-------- |
+|    OMS (permanent premises) LHS  with 1 simple SS   |    $360     |    $900     |$1260     |
+|    OMS (permanent premises) LHS with 2 simple SSes    |    $360     |    $1700     |$2060     |
+|    OMS (permanent premises) LHS  with 3 simple SSes     |    $360     |    $2500     |$2860     |
