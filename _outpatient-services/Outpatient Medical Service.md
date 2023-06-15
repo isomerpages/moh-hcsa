@@ -88,7 +88,7 @@ To ensure price transparency during the provision of your service,
 * Inform the patient, at their request, of the estimated applicable charges, including administrative charges, for any aspect of your service, including prior to billing.
 
 # Financial counselling
-Financial counselling is conducted for treatments or procedures that are **eligible for Medishield Life coverage**, such as EPO for CKD or cancer drug treatment. 
+Financial counselling is conducted for treatments or procedures that are **eligible for Medishield Life coverage**, such as EPO for CKD or cancer drug treatment. It must be **conducted by the doctor** providing care to the patient.
 
 It should be conducted as soon as reasonably practicable if the fee information is new to the patient or the patient’s authorised representative. The following information should be provided:
 
