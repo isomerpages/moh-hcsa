@@ -26,7 +26,6 @@ A service that is provided to an outpatient as a necessary supporting service in
 * any outpatient renal dialysis service or assisted reproduction service;
 * the provision of a servicefor the purpose of triaging a patient and determining whether the patient needs to be admitted as an inpatient of a holder of a licence granted under the Act to provide an acute hospital service, and (if it is determined that the patient need not be so admitted) to stabilise the patient’s medical condition;
 # Allowable Specified Services (SSes) and applicable Modes of Service Delivery (MOSD)
-
+![](/images/oms%20ss%20mosd.png)
 
 tes
-
