@@ -59,6 +59,7 @@ You do not have to pay additional fees beyond the OMS licence fee if you provide
 | Conveyance + Remote + Temporary premises     |       Conveyance (e.g. OMS via a bus), Telemedicine, House Calls     | $360     |
 | Remote + Temporary premises     |    Telemedicine, House Calls     | $360     |
 
+
 **NOT eligible for MOSD Fee Bundle**
 
 |    Combination of MOSDs | Examples | Fee |
