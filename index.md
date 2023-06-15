@@ -21,9 +21,13 @@ sections:
           description: Announcement 3
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: What is HCSA?
+      description: General Requirements | Licensable Healthcare Services | Apply for Licence
+      button: Overview
       url: /faq/
+  - infobar:
+      title: Phase 3 Transition
+      description: "Affected groups are: Nursing Homes"
+      button: Find out more
+      url: /what-is-hcsa/
 ---
