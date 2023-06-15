@@ -46,3 +46,14 @@ You must also seek MOH’s approval for the appointment of each CGO.
 3. Be registered as a specialist or family physician, OR 
 4. Practised as a clinician for not less than (i) 5 continuous years or (ii) 5 years out of a continuous period of 10 years in either an OMS, ASC, AHS, CHS or an equivalent healthcare institution under PHMCA
 5. [For Remote MOSD only] Completed telemedicine e-training course as specified by MOH
+
+# Licensing fees
+You may offer your service from any of the 4 MOSDs. To support the provision of holistic service models, some of the relevant MOSDs are bundled together, i.e. the **MOSD Bundle**. 
+
+You do not have to pay additional fees beyond the OMS licence fee if you provide medical services via any of the combination of MOSDs below: 
+
+
+|    Combination of MOSDs | Examples | Fee |
+| -------- | -------- | -------- |
+| Permanent premises + Remote + Temporary premises     |    Medical Clinic, Telemedicine, House Calls     | $360     |
+
