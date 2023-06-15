@@ -32,6 +32,7 @@ A service that is provided to an outpatient as a necessary supporting service in
 
 * Click "here" for more information on who needs to hold the licence
 * Click "here" for more information on which MOSD to apply for
+* Click "here" for more information on whether you need to apply for other licences in order to fully provide your service
 # Requirements for your Clinical Governance Officer (CGO)
 Note that you will need to appoint at least one CGO for your service. You may appoint multiple CGOs, but you must ensure the following:
 * Responsibilities of each CGO are clearly delineated, **and**
