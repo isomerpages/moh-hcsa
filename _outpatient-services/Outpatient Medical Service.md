@@ -79,10 +79,10 @@ MOH will offer lower fees for licensees that provide more than one Simple SS, i.
 To ensure price transparency during the provision of your service,
 * Issue a bill of the fees charged for every LHS provided to the patient, even if the patient has zero out-of-pocket (OOP) payment due to third party payors or government subsidies, **unless** the patient declines.
 
-![]()
+![](/images/sample%20bill.png)
 
 * Inform the patient about the status of your accreditation or participation in a public scheme where applicable, such as approval for Medisave withdrawal, MediShield Life Scheme Act, or accreditation as a CHAS clinic
-* Inform the patient, at their request, of the estimated applicable charges, including administrative charges, for any aspect of your service, including prior to billing.
 * Display or make available the charges that are applicable for your service, including:
   * Consultation, procedural or dialysis fee applicable to the patient, AND
   * Any administrative fee or other charges imposed on the patient (e.g., investigations, treatments, procedures and medications).
+* Inform the patient, at their request, of the estimated applicable charges, including administrative charges, for any aspect of your service, including prior to billing.
