@@ -1,0 +1,10 @@
+collections:
+  what-is-hcsa:
+    output: true
+    order:
+      - Overview.md
+      - General Requirements.md
+      - Licensable Healthcare Services.md
+      - Apply for Licence.md
+      - Phase 3 Transition.md
+      - Contact Us.md

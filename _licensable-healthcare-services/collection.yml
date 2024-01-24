@@ -1,0 +1,18 @@
+collections:
+  licensable-healthcare-services:
+    output: true
+    order:
+      - Acute Hospital Service.md
+      - Ambulatory Surgical Centre Service.md
+      - Assisted Reproduction Service.md
+      - Blood Banking Service.md
+      - Clinical Laboratory Service.md
+      - Community Hospital Service.md
+      - Cord Blood Banking Service.md
+      - Emergency Ambulance and Medical Transport Service.md
+      - Outpatient Dental Service.md
+      - Outpatient Medical Service.md
+      - Outpatient Renal Dialysis Service.md
+      - Human Tissue Banking Service.md
+      - Nuclear Medicine Service.md
+      - Radiological Service.md

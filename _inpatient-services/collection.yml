@@ -1,0 +1,7 @@
+collections:
+  inpatient-services:
+    output: true
+    order:
+      - Acute Hospital Service.md
+      - Community Hospital Service.md
+      - Nursing Home Service.md

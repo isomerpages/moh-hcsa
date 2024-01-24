@@ -1,0 +1,5 @@
+collections:
+  phase-3-transition:
+    output: true
+    order:
+      - What to Prepare.md

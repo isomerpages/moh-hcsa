@@ -1,0 +1,6 @@
+collections:
+  apply-for-licence:
+    output: true
+    order:
+      - Step by Step Guide.md
+      - Licence Renewal.md
