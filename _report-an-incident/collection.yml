@@ -2,4 +2,5 @@ collections:
   report-an-incident:
     output: true
     order:
+      - Reporting Requirements.md
       - Submit a Report.md
