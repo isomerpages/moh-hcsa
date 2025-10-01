@@ -1,0 +1,4 @@
+collections:
+  system-requirements:
+    output: true
+    order: []
