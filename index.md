@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: https://google.com
+          url: /introduction/
         - title: For Healthcare Providers
           description: ""
-          url: https://gmail.com
+          url: /organisational-roles-and-responsibilities/
         - title: For IT Vendors
           description: ""
           url: /privacy/
