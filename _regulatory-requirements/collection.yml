@@ -2,4 +2,5 @@ collections:
   regulatory-requirements:
     output: true
     order:
+      - Contribution of Data Types to NEHR.md
       - Organisational Roles and Responsibilities.md
