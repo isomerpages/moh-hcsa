@@ -2,6 +2,7 @@ collections:
   regulatory-requirements:
     output: true
     order:
+      - Use and Access to NEHR.md
       - Data Sharing Agreements.md
       - Cyber and Data Security Requirements.md
       - Contribution of Data Types to NEHR.md
