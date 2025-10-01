@@ -11,8 +11,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       title: Health Information Act (HIA)
-      background: /images/20160114 ministry of health - i feel young in my singapore
-        (3 of 85) v2.jpg
+      background: /images/download.jpg
       key_highlights:
         - title: For Public
           description: ""
@@ -47,10 +46,10 @@ sections:
   - infopic:
       title: Report an Incident
       id: infopic
-      description: ""
       button: Submit a Report
       url: a
       alt: Image alt text
+      image: /images/download_1.png
   - textcards:
       title: Help & Resources
       subtitle: Add informational text
