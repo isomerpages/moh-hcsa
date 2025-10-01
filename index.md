@@ -52,7 +52,6 @@ sections:
       image: /images/download_1.png
   - textcards:
       title: Help & Resources
-      subtitle: Add informational text
       id: textcards
       cards:
         - title: Implementation Support
