@@ -1,12 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: New folder
+  - title: Overview
     collection: overview
-  - title: New folder
+  - title: Regulatory Requirements
     collection: regulatory-requirements
-  - title: New folder
+  - title: System Requirements
     collection: system-requirements
-  - title: New folder
+  - title: Report an Incident
     collection: report-an-incident
-  - title: New folder
+  - title: Help & Resources
     collection: help-and-resources
