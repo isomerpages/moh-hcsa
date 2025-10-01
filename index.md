@@ -21,7 +21,7 @@ sections:
           url: /organisational-roles-and-responsibilities/
         - title: For IT Vendors
           description: ""
-          url: /system-onboarding/
+          url: /affected-vendors/
   - textcards:
       title: Regulation
       subtitle: Health Information
