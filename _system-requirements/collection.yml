@@ -2,5 +2,6 @@ collections:
   system-requirements:
     output: true
     order:
+      - Affected Vendors.md
       - System Onboarding.md
       - Whitelisted Vendors.md
