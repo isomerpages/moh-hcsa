@@ -47,7 +47,7 @@ sections:
       title: Report an Incident
       id: infopic
       button: Submit a Report
-      url: a
+      url: /submit-a-report/
       alt: Image alt text
       image: /images/download_1.png
   - textcards:
