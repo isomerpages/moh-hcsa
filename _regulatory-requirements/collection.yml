@@ -2,8 +2,8 @@ collections:
   regulatory-requirements:
     output: true
     order:
+      - Organisational Roles and Responsibilities.md
+      - Contribution of Data Types to NEHR.md
       - Use and Access to NEHR.md
       - Data Sharing Agreements.md
       - Cyber and Data Security Requirements.md
-      - Contribution of Data Types to NEHR.md
-      - Organisational Roles and Responsibilities.md
