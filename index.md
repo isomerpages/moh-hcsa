@@ -4,30 +4,82 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam, or visit
+  scamshield.gov.sg for more information.
 sections:
   - hero:
-      title: Healthcare Services Act (HCSA)
+      title: Health Information Act (HIA)
       background: /images/20160114 ministry of health - i feel young in my singapore
         (3 of 85) v2.jpg
       key_highlights:
-        - title: 1 October 2023
-          description: Announcement A
+        - title: For Public
+          description: ""
           url: https://google.com
-        - title: 30 September 2023
-          description: Announcement 2
+        - title: For Healthcare Providers
+          description: ""
           url: https://gmail.com
-        - title: 24 July 2023
-          description: Announcement 3
+        - title: For IT Vendors
+          description: ""
           url: /privacy/
-  - infobar:
-      title: What is HCSA?
-      description: General Requirements | Licensable Healthcare Services | Apply for Licence
-      button: Overview
-      url: /faq/
-  - infobar:
-      title: Phase 3 Transition
-      description: "Affected groups are: Nursing Homes"
-      button: Find out more
-      url: /what-is-hcsa/
+  - textcards:
+      title: Regulation
+      subtitle: Health Information
+      id: textcards
+      cards:
+        - title: Collection
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Access
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Sharing
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Protection
+          description: ""
+          linktext: Learn more
+          url: ""
+  - infopic:
+      title: Report an Incident
+      id: infopic
+      description: ""
+      button: Submit a Report
+      url: a
+      alt: Image alt text
+  - textcards:
+      title: Help & Resources
+      subtitle: Add informational text
+      id: textcards
+      cards:
+        - title: Implementation Support
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Educational Materials
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: FAQs
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Useful Links
+          description: ""
+          linktext: Learn more
+          url: ""
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: HIA
+          date: 01 October 2025
+          announcement: Content
+          link_text: Link to appropriate content page
+          link_url: gmail.com
 ---
