@@ -2,5 +2,6 @@ collections:
   overview:
     output: true
     order:
+      - Access to Health Information.md
       - Collection of Health Information.md
       - Introduction.md
