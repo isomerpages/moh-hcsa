@@ -30,19 +30,19 @@ sections:
         - title: Collection
           description: ""
           linktext: Learn more
-          url: ""
+          url: /collection-of-health-information/
         - title: Access
           description: ""
           linktext: Learn more
-          url: ""
+          url: /access-to-health-information/
         - title: Sharing
           description: ""
           linktext: Learn more
-          url: ""
+          url: /sharing-of-health-information/
         - title: Protection
           description: ""
           linktext: Learn more
-          url: ""
+          url: /protection-of-health-information/
   - infopic:
       title: Report an Incident
       id: infopic
