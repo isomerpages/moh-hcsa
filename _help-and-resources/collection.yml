@@ -2,5 +2,6 @@ collections:
   help-and-resources:
     output: true
     order:
+      - FAQs.md
       - Circulars and Advisories.md
       - Useful Links.md
