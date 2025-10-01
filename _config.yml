@@ -1,9 +1,9 @@
 title: Health Information Act (HIA)
-url: https://moh.gov.sg
+url: https://healthinfo-staging.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#00eac3"
-  secondary-color: "#fec802"
+  primary-color: "#febd02"
+  secondary-color: "#58d3bb"
   media-colors:
     - title: media-color-one
       color: "#49759a"
