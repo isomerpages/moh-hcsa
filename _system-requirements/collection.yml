@@ -1,4 +1,5 @@
 collections:
   system-requirements:
     output: true
-    order: []
+    order:
+      - System Onboarding.md
