@@ -21,7 +21,7 @@ sections:
           url: /organisational-roles-and-responsibilities/
         - title: For IT Vendors
           description: ""
-          url: /privacy/
+          url: /system-onboarding/
   - textcards:
       title: Regulation
       subtitle: Health Information
@@ -58,19 +58,19 @@ sections:
         - title: Implementation Support
           description: ""
           linktext: Learn more
-          url: ""
+          url: /implementation-support/
         - title: Educational Materials
           description: ""
           linktext: Learn more
-          url: ""
+          url: /educational-materials/
         - title: FAQs
           description: ""
           linktext: Learn more
-          url: ""
+          url: /faqs/
         - title: Useful Links
           description: ""
           linktext: Learn more
-          url: ""
+          url: /useful-links/
   - announcements:
       title: Announcements
       id: announcements
@@ -80,5 +80,5 @@ sections:
           date: 01 October 2025
           announcement: Content
           link_text: Link to appropriate content page
-          link_url: gmail.com
+          link_url: /introduction
 ---
