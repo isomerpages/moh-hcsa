@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Reporting Requirements</h1>
-<h2>What to report?</h2>
+<h3>What to report?</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>A notifiable cybersecurity incident, i.e., a cybersecurity incident in
@@ -21,7 +21,7 @@ to an affected individual or is (likely to be) of a significant scale</p>
 o&nbsp;&nbsp; Breach involves sensitive health information, or</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 o&nbsp;&nbsp; ≥500 individuals affected</p>
-<h2>Reporting timelines</h2>
+<h3>Reporting timelines</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Healthcare providers are required to:</p>
