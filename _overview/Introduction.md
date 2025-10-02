@@ -6,6 +6,7 @@ description: ""
 ---
 <h4>Objectives of the Health Information Act (HIA)</h4>
 <p>The Act is structured into Three Objectives:</p>
+<p></p>
 <p>1. Objective 1 provides the legislative basis for (i) mandatory contribution
 of selected health information to the NEHR, and (ii) access to the NEHR
 for patient care and other specified purposes.</p>
