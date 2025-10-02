@@ -4,8 +4,13 @@ permalink: /organisational-roles-and-responsibilities/
 variant: tiptap
 description: ""
 ---
-<h4>Responsibilities of the healthcare provider</h4>
-<p>• Objective 1</p>
+<h1>Organisational Roles and Responsibilities</h1>
+<h3>Responsibilities of the healthcare provider</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Objective 1</p>
+</li>
+</ul>
 <p>o MOH approval is required for entities’ access to NEHR.</p>
 <p>o Entities should ensure that only the personnel who require NEHR access
 for a HIA purpose are granted NEHR access.</p>
@@ -18,14 +23,22 @@ personnel has left organisation or changed role).</p>
 (e.g., by providing training, updating SOP).</p>
 <p>o Entity should establish internal mechanisms to track and flag inappropriate
 accesses.</p>
-<p>• Objective 2</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Objective 2</p>
+</li>
+</ul>
 <p>o Both discloser and recipient must abide by the conditions in the sharing
 agreement.</p>
 <p>o Recipient must ensure that the data is collected by only the authorised
 personnel stated in the sharing agreement.</p>
 <p>o Recipient must abide by the conditions in the sharing agreement when
 using the data</p>
-<p>• Objective 3</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Objective 3</p>
+</li>
+</ul>
 <p>o Designate an individual to ensure that they comply with cyber and data
 security requirements for IT systems and medical devices under HIA</p>
 <p>o Ensure that the confidentiality, integrity and availability of the health
@@ -40,7 +53,7 @@ notification).</p>
 as the loss of only financial data or account login details. However, they
 may still be required to report such data breaches to PDPC if it meets
 the PDPA's data breach notification criteria.</p>
-<h4>Outsourcing services to a vendor</h4>
+<h3>Outsourcing services to a vendor</h3>
 <p>• Examples of vendors e.g., HIMS providers and CS/DS providers.</p>
 <p>• Good practices/guidelines when choosing a vendor, e.g.,</p>
 <p>o Vendors must fulfil the relevant regulatory requirements</p>
