@@ -5,7 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h4>Glossary</h4>
-<p>• Definition of healthcare service</p>
-<p>• Definition of community health service</p>
-<p>• Definition of health information</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Definition of healthcare service</p>
+</li>
+<li>
+<p>Definition of community health service</p>
+</li>
+<li>
+<p>Definition of health information</p>
+</li>
+</ul>
 <p></p>
