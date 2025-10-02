@@ -4,4 +4,9 @@ permalink: /system-onboarding/
 variant: tiptap
 description: ""
 ---
-<p>• Link to Synapxe on onboarding CMS to NEHR</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Link to Synapxe on onboarding CMS to NEHR</p>
+</li>
+</ul>
+<p></p>
