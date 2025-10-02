@@ -36,11 +36,24 @@ in care delivery.</p>
 <p>Prohibited purposes:</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any employment purpose (except
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any employment purpose (except
 for statutory medical examinations prescribed under the HIA); or</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assessment of insurability.</p>
+<p>o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assessment of insurability.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Link to NEHR guidelines for more information</p>
@@ -58,13 +71,26 @@ emergencies.</p>
 circumstances:</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where required or permitted by other
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where required or permitted by other
 written law (e.g. the PSGA or CPC).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where requested on public health
+<p>o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where requested on public health
 grounds and approved for sharing by the Minister for Health or his delegated
 authorised officer.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Explain how to facilitate access restrictions for patients who wish to
@@ -79,9 +105,8 @@ for statutory medical examinations prescribed under the HIA); or assessment
 of insurability.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List of statutory medical examinations
-prescribed under the HIA</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List
+of statutory medical examinations prescribed under the HIA</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Identifiable health information may be extracted from NEHR for public
