@@ -4,9 +4,15 @@ permalink: /submit-a-report/
 variant: tiptap
 description: ""
 ---
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Link to reporting form 1</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Link to reporting form 2</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-etc</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Link to reporting form 1</p>
+</li>
+<li>
+<p>Link to reporting form 2</p>
+</li>
+<li>
+<p>etc</p>
+</li>
+</ul>
+<p></p>
