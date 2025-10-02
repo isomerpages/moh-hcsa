@@ -7,9 +7,9 @@ description: ""
 <h4><strong>Why is my health information collected?</strong></h4>
 <p>•&nbsp;&nbsp;Enable healthcare professionals across the ecosystem to provide
 patient care and ensure care continuity.</p>
-<p>o&nbsp;&nbsp;Explain this in terms of benefits to the patients, e.g.,
-HCPs can make better clinical decisions, minimise need for repeated lab/rad
-tests and repeat medical history taking</p>
+<p>o&nbsp;Explain this in terms of benefits to the patients, e.g., HCPs can
+make better clinical decisions, minimise need for repeated lab/rad tests
+and repeat medical history taking</p>
 <p>•&nbsp;&nbsp;&nbsp;Also for public health purposes, e.g., in the event
 of drug contamination requiring a nationwide drug recall, NEHR information
 may be required to identify affected individuals and advise them to seek
