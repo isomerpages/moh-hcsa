@@ -9,10 +9,9 @@ description: ""
 <li>
 <p>Enable healthcare professionals across the ecosystem to provide patient
 care and ensure care continuity.</p>
-<p>&nbsp;&nbsp;&nbsp;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explain this in
-terms of benefits to the patients, e.g., HCPs can make better clinical
-decisions, minimise need for repeated lab/rad tests and repeat medical
-history taking</p>
+<p>&nbsp;&nbsp;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explain this in terms
+of benefits to the patients, e.g., HCPs can make better clinical decisions,
+minimise need for repeated lab/rad tests and repeat medical history taking</p>
 </li>
 <li>
 <p>Also for public health purposes, e.g., in the event of drug contamination
