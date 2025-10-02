@@ -12,9 +12,12 @@ information will need to meet HIB cyber and data security requirements,
 e.g.,</p>
 </li>
 </ul>
-<p>o GP’s computer that contributes information to the NEHR</p>
-<p>o Nursing home’s computer system that has health information</p>
-<p>o An acute hospital’s HR or staff admin/leave system</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+o GP’s computer that contributes information to the NEHR</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+o Nursing home’s computer system that has health information</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+o An acute hospital’s HR or staff admin/leave system</p>
 <h1>Onboarding Clinic Management Systems to NEHR</h1>
 <ul data-tight="true" class="tight">
 <li>
