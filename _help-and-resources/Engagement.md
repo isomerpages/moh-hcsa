@@ -4,8 +4,12 @@ permalink: /engagement/
 variant: tiptap
 description: ""
 ---
-<h4>Active consultations </h4>
+<h1>Active consultations</h1>
 <p>NIL</p>
-<h4>Closed consultations</h4>
-<p>• Link to public consultation report</p>
+<h1>Closed consultations</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p>Link to public consultation report</p>
+</li>
+</ul>
 <p></p>
