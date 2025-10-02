@@ -11,10 +11,12 @@ description: ""
 to NEHR must</p>
 </li>
 </ul>
-<p>o Meet cybersecurity and data security requirements for IT systems and
-medical devices</p>
-<p>o Report confirmed cybersecurity incidents and data breaches to MOH and
-affected individuals in a timely manner</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;Meet
+cybersecurity and data security requirements for IT systems and medical
+devices</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;Report
+confirmed cybersecurity incidents and data breaches to MOH and affected
+individuals in a timely manner</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Strict penalties will be imposed for any contraventions to the HIA requirements</p>
@@ -59,9 +61,11 @@ via access logs on Health Hub.</p>
 to MOH.</p>
 </li>
 </ul>
-<p>o An initial report of the confirmed cybersecurity incident or data breach
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;
+An initial report of the confirmed cybersecurity incident or data breach
 must be provided to MOH within 2 hours.</p>
-<p>o The detailed incident report must be submitted after 14 days.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;
+The detailed incident report must be submitted after 14 days.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Healthcare providers are also required to notify the affected individuals
@@ -78,7 +82,8 @@ from accessing or collecting health information or require users to delete
 health information in their possession.</p>
 </li>
 </ul>
-<p>o Failure to comply with a MOH Direction will result in an offence.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;
+Failure to comply with a MOH Direction will result in an offence.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Strict penalties will apply to any authorised persons’ unauthorised access,
@@ -86,13 +91,29 @@ collection or use of NEHR information. There will also be enhanced penalties
 in place to serve as a deterrent in certain scenarios:</p>
 </li>
 </ul>
-<p>o Repeat offences carry penalties that are 2x higher than the first offence;</p>
-<p>o Access or collection of NEHR information for prohibited purposes (i.e.,
-for any employment or insurance purpose) will be subject to penalties that
-2x higher;</p>
-<p>o Unauthorised individuals’ who access or use of NEHR information will
-face penalties that are 2x higher, as these individuals were never allowed
-access to NEHR in the first place.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>o&nbsp;&nbsp; Repeat offences carry penalties that are 2x higher than
+the first offence;</p>
+<p>o&nbsp;&nbsp; Access or collection of NEHR information for prohibited
+purposes (i.e., for any employment or insurance purpose) will be subject
+to penalties that 2x higher;</p>
+<p>o&nbsp;&nbsp; Unauthorised individuals’ who access or use of NEHR information
+will face penalties that are 2x higher, as these individuals were never
+allowed access to NEHR in the first place.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>In the event of non-compliance or breach of HIA requirements, MOH has
