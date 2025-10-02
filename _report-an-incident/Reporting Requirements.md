@@ -4,7 +4,7 @@ permalink: /reporting-requirements/
 variant: tiptap
 description: ""
 ---
-<h1>Reporting Requirements </h1>
+<h1>Reporting Requirements</h1>
 <h2>What to report?</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,7 +19,8 @@ to an affected individual or is (likely to be) of a significant scale</p>
 </ul>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 o&nbsp;&nbsp; Breach involves sensitive health information, or</p>
-<p>o&nbsp;&nbsp; ≥500 individuals affected</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+o&nbsp;&nbsp; ≥500 individuals affected</p>
 <h2>Reporting timelines</h2>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Healthcare providers are required to:</p>
