@@ -9,17 +9,14 @@ description: ""
 <p>Circular - Cyber and Data Security Guidelines</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Cyber and Data Security Guidelines</p>
+<p>Cyber and Data Security Guidelines</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MOH Cir No 13_2025_Clarifications on the Implementation Support Measures
+<p>MOH Cir No 13_2025_Clarifications on the Implementation Support Measures
 for the Proposed HIB</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MOH Circulars on Cybersecurity</p>
+<p>MOH Circulars on Cybersecurity</p>
 </li>
 </ul>
 <p></p>
