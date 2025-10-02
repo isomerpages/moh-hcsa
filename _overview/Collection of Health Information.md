@@ -4,7 +4,7 @@ permalink: /collection-of-health-information/
 variant: tiptap
 description: ""
 ---
-<h2>Why is my health information collected?</h2>
+<h1>Why is my health information collected?</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enable healthcare professionals across the ecosystem to provide patient
@@ -15,18 +15,18 @@ and repeat medical history taking</p>
 </li>
 <li>
 <p>Also for public health purposes, e.g., in the event of drug contamination
-requiring a nationwide drug recall, NEHR information may be required to
-identify affected individuals and advise them to seek the necessary care
-from their healthcare providers.</p>
+requiring a nationwide drug recall, NEHR information be required to identify
+affected individuals and advise them to seek the necessary care from their
+healthcare providers.</p>
 </li>
 </ul>
-<h2>Health information is collected and stored in 3 different systems</h2>
+<h1>Health information is collected and stored in 3 different systems</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Explain difference between CMS, NEHR and HealthHub</p>
 </li>
 </ul>
-<h2>National Electronic Health Record (NEHR)</h2>
+<h1>National Electronic Health Record (NEHR)</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Purpose of NEHR, i.e., collects a copy of selected key health information
@@ -34,7 +34,7 @@ across different healthcare providers, and that it has been around since
 2011..</p>
 </li>
 </ul>
-<h2>What does mandatory contribution to NEHR mean?</h2>
+<h1>What does mandatory contribution to NEHR mean?</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Collection of health information to be contributed to NEHR only meant
