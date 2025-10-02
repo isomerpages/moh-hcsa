@@ -17,9 +17,11 @@ community health service</p>
 <p>Access to NEHR records not allowed for</p>
 </li>
 </ul>
-<p>o Any employment purpose (except for statutory medical examinations prescribed
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;
+Any employment purpose (except for statutory medical examinations prescribed
 under the HIA); or</p>
-<p>o Assessment of insurability.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o&nbsp;&nbsp;
+Assessment of insurability.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOH has developed a set of guidelines to guide healthcare professionals
@@ -58,23 +60,54 @@ purpose of patient care.</p>
 <p>Even if an individual has opted-out:</p>
 </li>
 </ul>
-<p>o A basic set of essential information will be viewable by all NEHR Users,
-to minimise impact to care. These are allergies and vaccinations records
-(together with key demographic information).</p>
-<p>o All their data can be accessed in a life-and-death medical emergency
-(“Break glass”).</p>
-<p>o Contribution of health information to NEHR is required even if an individual
-has opted out. This ensures that there are no gaps in their NEHR record
-should they choose to opt back in later.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>o&nbsp;&nbsp; A basic set of essential information will be viewable by
+all NEHR Users, to minimise impact to care. These are allergies and vaccinations
+records (together with key demographic information).</p>
+<p>o&nbsp;&nbsp; All their data can be accessed in a life-and-death medical
+emergency (“Break glass”).</p>
+<p>o&nbsp;&nbsp; Contribution of health information to NEHR is required even
+if an individual has opted out. This ensures that there are no gaps in
+their NEHR record should they choose to opt back in later.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sharing of opted out NEHR information will be allowed under the following
 circumstances:</p>
 </li>
 </ul>
-<p>o Where required or permitted by other written law (e.g. the PSGA or CPC).</p>
-<p>o Where requested on public health grounds and approved for sharing by
-the Minister for Health or his delegated authorised officer.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>o&nbsp;&nbsp; Where required or permitted by other written law (e.g. the
+PSGA or CPC).</p>
+<p>o&nbsp;&nbsp; Where requested on public health grounds and approved for
+sharing by the Minister for Health or his delegated authorised officer.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h1>I’ve changed my mind and want to remove the access restriction</h1>
 <ul data-tight="true" class="tight">
 <li>
