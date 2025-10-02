@@ -4,6 +4,12 @@ permalink: /whitelisted-vendors/
 variant: tiptap
 description: ""
 ---
-<p>• List of whitelisted HIA NEHR-compatible CMS systems</p>
-<p>• List of approved CS/DS providers</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>List of whitelisted HIA NEHR-compatible CMS systems</p>
+</li>
+<li>
+<p>List of approved CS/DS providers</p>
+</li>
+</ul>
 <p></p>
