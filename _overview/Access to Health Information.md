@@ -4,7 +4,7 @@ permalink: /access-to-health-information/
 variant: tiptap
 description: ""
 ---
-<h3>Authorised healthcare professionals may access your NEHR records</h3>
+<h1>Authorised healthcare professionals may access your NEHR records</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Summary of the types of users who can access NEHR</p>
@@ -26,21 +26,21 @@ under the HIA); or</p>
 on the appropriate use and access to NEHR records.</p>
 </li>
 </ul>
-<h3>How do I know who has assessed my NEHR records?</h3>
+<h1>How do I know who has assessed my NEHR records?</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Patients can check which institutions/clinics has viewed their NEHR records
 via access logs on Health Hub.</p>
 </li>
 </ul>
-<h3>Granting others access to your HealthHub records</h3>
+<h1>Granting others access to your HealthHub records</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Link to HealthHub’s FAQs on Am I able to decide who has access to my records
 and results?</p>
 </li>
 </ul>
-<h3>Can I refuse access to or sharing of my NEHR records?</h3>
+<h1>Can I refuse access to or sharing of my NEHR records?</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Individuals can (i) select which NEHR Users (e.g. institutions, clinics,
@@ -52,7 +52,7 @@ to all NEHR Users.</p>
 purpose of patient care.</p>
 </li>
 </ul>
-<h3>What happens after I exercise my access restriction rights?</h3>
+<h1>What happens after I exercise my access restriction rights?</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Even if an individual has opted-out:</p>
@@ -75,7 +75,7 @@ circumstances:</p>
 <p>o Where required or permitted by other written law (e.g. the PSGA or CPC).</p>
 <p>o Where requested on public health grounds and approved for sharing by
 the Minister for Health or his delegated authorised officer.</p>
-<h3>I’ve changed my mind and want to remove the access restriction</h3>
+<h1>I’ve changed my mind and want to remove the access restriction</h1>
 <ul data-tight="true" class="tight">
 <li>
 <p>Can opt back in via HealthHub</p>
