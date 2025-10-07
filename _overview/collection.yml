@@ -1,0 +1,10 @@
+collections:
+  overview:
+    output: true
+    order:
+      - Introduction.md
+      - Collection of Health Information.md
+      - Access to Health Information.md
+      - Sharing of Health Information.md
+      - Protection of Health Information.md
+      - Glossary.md
