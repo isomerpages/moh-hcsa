@@ -1,6 +1,6 @@
 ---
-title: Whitelisted Vendors
-permalink: /whitelisted-vendors/
+title: Whitelisting Requirements
+permalink: /whitelisting-requirements/
 variant: tiptap
 description: ""
 ---

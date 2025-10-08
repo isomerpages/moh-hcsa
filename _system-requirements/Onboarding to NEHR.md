@@ -1,6 +1,6 @@
 ---
-title: System Onboarding
-permalink: /system-onboarding/
+title: Onboarding to NEHR
+permalink: /onboarding-to-nehr/
 variant: tiptap
 description: ""
 ---
