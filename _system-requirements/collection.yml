@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Affected Vendors.md
-      - System Onboarding.md
+      - Onboarding to NEHR.md
       - Whitelisted Vendors.md
