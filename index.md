@@ -50,6 +50,7 @@ sections:
       url: /submit-a-report/
       alt: Image alt text
       image: /images/download_1.png
+      description: For cybersecurity incidents or data breaches only
   - textcards:
       title: Help & Resources
       id: textcards
