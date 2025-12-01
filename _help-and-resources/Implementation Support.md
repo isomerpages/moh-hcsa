@@ -4,22 +4,8 @@ permalink: /implementation-support/
 variant: tiptap
 description: ""
 ---
-<h1>Funding support</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Grants for GP clinics</p>
-</li>
-<li>
-<p>Grants for Community Care Organisations and Social Services Agencies</p>
-</li>
-<li>
-<p>Grants for SMEs</p>
-</li>
-</ul>
-<h1>Service providers</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Link to Whitelisted Vendors</p>
-</li>
-</ul>
+<h1>Funding </h1>
+<p>[content to be updated after 2R]</p>
+<h1>Starter Kit</h1>
+<p>[content to be updated after 2R]</p>
 <p></p>
