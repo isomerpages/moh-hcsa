@@ -66,4 +66,10 @@ sections:
         contribute key health information to NEHR to enable seamless information
         sharing
       alt: Image alt text
+  - infopic:
+      title: Robust Safeguards
+      id: infopic
+      description: Reinforced cyber and data security measures ensure comprehensive
+        protections and oversight
+      alt: Image alt text
 ---
