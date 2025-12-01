@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - Additional Information for Patients.md
       - Patient Safeguards under HIA/Restricting Access to Health Information.md
       - Patient Safeguards under HIA/Protecting Health Information.md
       - Patient Safeguards under HIA/.keep
