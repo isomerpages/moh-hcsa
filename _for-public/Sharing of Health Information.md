@@ -4,40 +4,36 @@ permalink: /sharing-of-health-information/
 variant: tiptap
 description: ""
 ---
-<h1>Health information beyond your NEHR records may be shared</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strategic shift from hospital to community to support ageing population
-and to reduce burden on acute care healthcare providers.</p>
-</li>
-<li>
-<p>Data sharing facilitates shared care and coordination across healthcare
-institutions and community partners.</p>
-</li>
-</ul>
-<h1>Specific provisions are in place to facilitate data sharing</h1>
+<h2>Beyond NEHR: Supporting National Health Initiatives</h2>
+<p>The HIB will also provide the legal basis to enable sharing of health
+information to facilitate shared care and coordination across different
+settings and between healthcare institutions and community partners. While
+the sharing of such information has benefits such as supporting outreach
+for national programmes (e.g. Healthier SG and Age Well SG) and better
+care quality, we recognise the potential risks of exposure should there
+be any unauthorised use.</p>
+<p>Therefore, the HIB will also&nbsp;<strong>introduce safeguards</strong>&nbsp;<strong>to ensure proper governance, cybersecurity and data security</strong>.</p>
+<p>A key safeguard is that the HIB enables&nbsp;<strong>sharing of health information only if it fulfils these requirements:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Data sharing is only permitted for specified purposes</p>
+<p>The parties who are permitted to share and receive your health information
+must be listed in the HIB</p>
 </li>
 <li>
-<p>Only for prescribed entities</p>
+<p>The specific use case for data sharing must be listed in the HIB</p>
 </li>
 <li>
-<p>A valid Data Sharing Agreement must be signed between the discloser and
-recipient</p>
+<p>Only the specific data types that are prescribed under the HIB can be
+shared and</p>
+</li>
+<li>
+<p>Your health information can be shared only for the use case listed in
+the HIB</p>
+<p></p>
 </li>
 </ol>
-<h1>Sharing of anonymised or aggregated data</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Goal of data sharing, i.e., to perform data analysis and obtain findings
-or insights that helps to develop better policies or medical treatments.</p>
-</li>
-<li>
-<p>MOH may impose conditions before the disclosure can take place. These
-include prohibiting the entities from re-identifying the individuals from
-the dataset.</p>
-</li>
-</ul>
+<p>MOH will also be able to stop any further unauthorised sharing of health
+information.</p>
+<p></p>
 <p></p>
