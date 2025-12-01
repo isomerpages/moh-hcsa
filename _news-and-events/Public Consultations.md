@@ -30,7 +30,8 @@ description: ""
 <p>11 Dec 2023 to 11 Jan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Consultation Report on the Health Information Bill 23/24</p>
+<p><a href="/files/Public Consultations/Feedback_Report_on_the_Public_Consultation_for_HIB_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Public Consultation Report on the Health Information Bill 23/24</a>
+</p>
 </td>
 </tr>
 <tr>
