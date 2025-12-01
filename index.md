@@ -54,7 +54,7 @@ sections:
         - title: For Health Data Intermediaries & CSDS Providers
           description: ""
           linktext: Learn more
-          url: /faqs/
+          url: /help-and-resources/for-health-data-intermediaries-csds-providers/
   - announcements:
       title: Announcements
       id: announcements
