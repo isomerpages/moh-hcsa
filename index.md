@@ -23,7 +23,7 @@ sections:
       title: One Patient, One Health Record
       id: infopic
       alt: Image alt text
-      image: /images/download_1.png
+      image: /images/HIB_Isomer_Graphics__1_.png
       description: HIB will enable more effective clinical care by ensuring all
         healthcare providers have access to key health information in NEHR
   - infopic:
