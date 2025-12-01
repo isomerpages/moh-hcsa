@@ -10,12 +10,12 @@ notification: Government officials will never ask you to transfer money or
   scamshield.gov.sg for more information.
 sections:
   - hero:
-      title: Health Information Act (HIA)
+      title: Health Information Bill (HIB)
       background: /images/download.jpg
       key_highlights:
         - title: For Public
           description: ""
-          url: /introduction/
+          url: /for-public/what-hia-means-for-patients/introduction/
         - title: For Organisations
           description: ""
           url: /organisational-roles-and-responsibilities/
