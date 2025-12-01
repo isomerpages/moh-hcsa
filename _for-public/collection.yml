@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Collection of Health Information.md
+      - Health Information and the NEHR.md
       - Access to Health Information.md
       - Sharing of Health Information.md
       - Protection of Health Information.md
