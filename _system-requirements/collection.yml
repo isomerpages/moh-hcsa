@@ -1,7 +1,0 @@
-collections:
-  system-requirements:
-    output: true
-    order:
-      - Affected Vendors.md
-      - Onboarding to NEHR.md
-      - Whitelisting Requirements.md
