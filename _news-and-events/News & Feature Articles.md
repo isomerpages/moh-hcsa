@@ -31,7 +31,7 @@ description: ""
 <p>Clinical Asst Prof Benny Loo Kai Guo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMA News (April 2024)</p>
+<p>SMA News (April 2024) Page 13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Highlights from the Honorary Secretary - meeting with MOH on HIB and NEHR</p>
@@ -46,7 +46,7 @@ description: ""
 <p>Adj A/Prof Ramond Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMA News (November 2024)</p>
+<p>SMA News (November 2024) Page 16 to 17</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Safe Health: Safety Includes Ensuring Cyber and Data Security in Your
