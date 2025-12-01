@@ -16,12 +16,9 @@ sections:
         - title: For Public
           description: ""
           url: /introduction/
-        - title: For Healthcare Providers
+        - title: For Organisations
           description: ""
           url: /organisational-roles-and-responsibilities/
-        - title: For IT Vendors
-          description: ""
-          url: /affected-vendors/
   - infopic:
       title: One Patient, One Health Record
       id: infopic
