@@ -29,36 +29,6 @@ sections:
       image: /images/download_1.png
       description: HIB will enable more effective clinical care by ensuring all
         healthcare providers have access to key health information in NEHR
-  - textcards:
-      title: Help & Resources
-      id: textcards
-      cards:
-        - title: Implementation Support
-          description: ""
-          linktext: Learn more
-          url: /implementation-support/
-        - title: Educational Materials
-          description: ""
-          linktext: Learn more
-          url: /educational-materials/
-        - title: FAQs
-          description: ""
-          linktext: Learn more
-          url: /faqs/
-        - title: Useful Links
-          description: ""
-          linktext: Learn more
-          url: /useful-links/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: HIA
-          date: 01 October 2025
-          announcement: Content
-          link_text: Link to appropriate content page
-          link_url: /introduction
   - infopic:
       title: Adopting Best Practices
       id: infopic
@@ -72,4 +42,30 @@ sections:
       description: Reinforced cyber and data security measures ensure comprehensive
         protections and oversight
       alt: Image alt text
+  - textcards:
+      title: Help & Resources
+      id: textcards
+      cards:
+        - title: For Patients
+          description: ""
+          linktext: Learn more
+          url: /implementation-support/
+        - title: For Healthcare Providers
+          description: ""
+          linktext: Learn more
+          url: /educational-materials/
+        - title: For Health Data Intermediaries & CSDS Providers
+          description: ""
+          linktext: Learn more
+          url: /faqs/
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: HIA
+          date: 01 October 2025
+          announcement: Content
+          link_text: Link to appropriate content page
+          link_url: /introduction
 ---
