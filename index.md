@@ -22,35 +22,13 @@ sections:
         - title: For IT Vendors
           description: ""
           url: /affected-vendors/
-  - textcards:
-      title: Regulation
-      subtitle: Health Information
-      id: textcards
-      cards:
-        - title: Collection
-          description: ""
-          linktext: Learn more
-          url: /collection-of-health-information/
-        - title: Access
-          description: ""
-          linktext: Learn more
-          url: /access-to-health-information/
-        - title: Sharing
-          description: ""
-          linktext: Learn more
-          url: /sharing-of-health-information/
-        - title: Protection
-          description: ""
-          linktext: Learn more
-          url: /protection-of-health-information/
   - infopic:
-      title: Report an Incident
+      title: One Patient, One Health Record
       id: infopic
-      button: Submit a Report
-      url: /submit-a-report/
       alt: Image alt text
       image: /images/download_1.png
-      description: For cybersecurity incidents or data breaches only
+      description: HIB will enable more effective clinical care by ensuring all
+        healthcare providers have access to key health information in NEHR
   - textcards:
       title: Help & Resources
       id: textcards
@@ -81,4 +59,11 @@ sections:
           announcement: Content
           link_text: Link to appropriate content page
           link_url: /introduction
+  - infopic:
+      title: Adopting Best Practices
+      id: infopic
+      description: All public and private healthcare providers shall be required to
+        contribute key health information to NEHR to enable seamless information
+        sharing
+      alt: Image alt text
 ---
