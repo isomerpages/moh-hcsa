@@ -46,7 +46,7 @@ sections:
         - title: For Patients
           description: ""
           linktext: Learn more
-          url: /implementation-support/
+          url: /help-and-resources/for-patients/
         - title: For Healthcare Providers
           description: ""
           linktext: Learn more
