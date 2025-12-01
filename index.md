@@ -61,11 +61,11 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: HIA
-          date: 01 October 2025
-          announcement: Content
-          link_text: Link to appropriate content page
-          link_url: /introduction
+        - title: Health Information Bill (HIB) - First Reading
+          date: 05 November 2025
+          announcement: The Health Information Bill (HIB) was read for the first time on 5
+            November 2025.
+          link_text: Bill No. 20/2025 - Health Information Bill
+          link_url: https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1
 ---
