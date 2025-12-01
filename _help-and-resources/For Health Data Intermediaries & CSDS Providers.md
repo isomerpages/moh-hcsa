@@ -8,3 +8,12 @@ description: ""
 <p>[insert forms]</p>
 <h2>For Cybersecurity &amp; Data Security Providers</h2>
 <p>[insert forms]</p>
+<h2>Service Providers</h2>
+<p>In today’s digital landscape, cybersecurity and data security are paramount
+for organisations of all sizes. Healthcare organisations will accordingly
+be required to comply with cyber and data security requirements under the
+Health Information Bill, including the Cyber and Data Security Guidelines.
+For assistance with implementing the necessary security measures, healthcare
+organisations may wish to approach any of the service providers in the
+table below.</p>
+<p></p>
