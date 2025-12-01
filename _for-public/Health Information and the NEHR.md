@@ -4,46 +4,36 @@ permalink: /for-public/health-information-and-the-nehr/
 variant: tiptap
 description: ""
 ---
-<h1>Why is my health information collected?</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Enable healthcare professionals across the ecosystem to provide patient
-care and ensure care continuity.</p>
-<p>&nbsp;&nbsp;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explain this in terms
-of benefits to the patients, e.g., HCPs can make better clinical decisions,
-minimise need for repeated lab/rad tests and repeat medical history taking</p>
-</li>
-<li>
-<p>Also for public health purposes, e.g., in the event of drug contamination
-requiring a nationwide drug recall, NEHR information be required to identify
-affected individuals and advise them to seek the necessary care from their
-healthcare providers.</p>
-</li>
-</ul>
-<h1>Health information is collected and stored in 3 different systems</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Explain difference between CMS, NEHR and HealthHub</p>
-</li>
-</ul>
-<h1>National Electronic Health Record (NEHR)</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Purpose of NEHR, i.e., collects a copy of selected key health information
-across different healthcare providers, and that it has been around since
-2011..</p>
-</li>
-</ul>
-<h1>What does mandatory contribution to NEHR mean?</h1>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collection of health information to be contributed to NEHR only meant
-for the provision of healthcare service and community health service</p>
-</li>
-<li>
-<p>Contribution of health information to NEHR is only for SG citizens, PRs
-and long-term residents with FIN</p>
-</li>
-</ul>
-<p></p>
+<h2>What is "Health Information"?</h2>
+<p>Health information includes:</p>
+<p><strong>Personal details</strong> - This refers to information like your
+name, address, phone number, and other personal details. This counts as
+health information when it is used for healthcare purposes.</p>
+<p><strong>Medical details</strong> - This refers to information about your
+physical and mental health, as well as details about your diagnosis, treatment,
+and care. Examples include your prescriptions, test results, medical procedures,
+and discharge notes when you leave the hospital.</p>
+<h2>Where will health information be stored?</h2>
+<p>When you visit a healthcare service, health information generated during
+that visit will be recorded in their health record systems. Under the HIB,&nbsp;<strong>a subset of these information will be contributed and stored in the National Electronic Health Record system (NEHR)</strong>.</p>
+<h2>National Electronic Health Record System (NEHR)</h2>
+<p>The NEHR is the national repository that <strong>collects and stores a selected copy of your health information</strong> across
+different healthcare providers. This <strong>contains important details about your medical history</strong> that<strong> </strong>healthcare
+professionals<strong> would generally need</strong> to make more informed
+medical decisions and deliver safe and better care.</p>
+<p>For example, drug allergies, laboratory test results and prescribed medications
+are types of health information that will be contributed to the NEHR. There
+may be occasions where you may not recall the type of medications you are
+on, or the tests already done, and your doctor can access the information
+in NEHR before determining the course of treatment.</p>
+<h2>What does mandatory contribution to NEHR mean?</h2>
+<p>The HIB will require all licensed healthcare providers and MOH-approved
+care providers (such as retail pharmacies) to contribute data to NEHR.
+In other words,<strong> selected health information generated from your care episode with your healthcare provider will be contributed and stored in NEHR</strong>.
+This means better care coordination across providers, fewer repeated tests,
+and more well-informed medical decisions. Over time, your NEHR will become
+an increasingly useful tool for healthcare professionals in delivering
+care to you.</p>
+<p>Read on to find out more about NEHR or&nbsp;<a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">visit Synapxe’s website</a>&nbsp;for
+more information.</p>
 <p></p>
