@@ -40,6 +40,7 @@ sections:
       description: Reinforced cyber and data security measures ensure comprehensive
         protections and oversight
       alt: Image alt text
+      image: /images/HIB_Isomer_Graphics__3_.png
   - textcards:
       title: Help & Resources
       id: textcards
