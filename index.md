@@ -33,6 +33,7 @@ sections:
         contribute key health information to NEHR to enable seamless information
         sharing
       alt: Image alt text
+      image: /images/HIB_Isomer_Graphics__2_.png
   - infopic:
       title: Robust Safeguards
       id: infopic
