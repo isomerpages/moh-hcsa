@@ -2,7 +2,7 @@
 layout: homepage
 title: Health Information Act (HIA)
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/moh_logo.png
 permalink: /
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
