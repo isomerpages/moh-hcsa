@@ -17,3 +17,7 @@ For assistance with implementing the necessary security measures, healthcare
 organisations may wish to approach any of the service providers in the
 table below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_Vendors_250313.png">
+</div>
+<p></p>
