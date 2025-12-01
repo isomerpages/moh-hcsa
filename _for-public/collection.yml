@@ -2,6 +2,7 @@ collections:
   for-public:
     output: true
     order:
+      - Patient Safeguards under HIA/.keep
       - How HIA Affects Patients/Access to Health Information.md
       - How HIA Affects Patients/Sharing of Health Information.md
       - How HIA Affects Patients/.keep
