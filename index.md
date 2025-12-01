@@ -11,7 +11,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       title: Health Information Bill (HIB)
-      background: /images/download.jpg
+      background: /images/2r website hero banner.jpg
       key_highlights:
         - title: For Public
           description: ""
