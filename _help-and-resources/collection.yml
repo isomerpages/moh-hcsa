@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Implementation Support.md
-      - Educational Materials.md
+      - Cyber and Data Security Guidelines.md
       - FAQs.md
       - Circulars and Advisories.md
       - Useful Links.md
