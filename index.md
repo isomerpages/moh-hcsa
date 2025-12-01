@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Health Information Act (HIA)
+title: Health Information Bill
 description: An Isomer site of the Singapore Government
 image: /images/moh_logo.png
 permalink: /
