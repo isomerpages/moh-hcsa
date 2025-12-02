@@ -29,7 +29,7 @@ third_nav_title: For Healthcare Providers
 <p>4 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Information] upcoming Health Information Bil - What It Means For
+<p>[For Information] Upcoming Health Information Bill - What It Means For
 You</p>
 </td>
 <td rowspan="1" colspan="1">
