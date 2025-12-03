@@ -9,6 +9,6 @@ third_nav_title: What Do We Need to Do
 <p>[To insert content]</p>
 <h2>Cybersecurity &amp; Data Security Ready Timelines</h2>
 <p>[To insert content]</p>
-<h2>Outsourcing to HIMS Providers and CSDS Providers</h2>
+<h2>Outsourcing to HIMS &amp; CSDS Providers</h2>
 <p>[To insert content]</p>
 <p></p>
