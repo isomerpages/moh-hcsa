@@ -2,9 +2,9 @@ collections:
   for-public:
     output: true
     order:
-      - What HIA Means for Individuals/.keep
-      - What HIA Means for Individuals/Introduction.md
-      - What HIA Means for Individuals/Health Information and the NEHR.md
+      - Overview/.keep
+      - Overview/Introduction.md
+      - Overview/Health Information and the NEHR.md
       - How HIA Affects Individuals/.keep
       - How HIA Affects Individuals/Access to Health Information.md
       - How HIA Affects Individuals/Sharing of Health Information.md
