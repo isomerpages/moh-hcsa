@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /for-public/what-hia-means-for-patients/introduction/
+          url: /for-public/introduction/
         - title: For Organisations
           description: ""
           url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
