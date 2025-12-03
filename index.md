@@ -58,7 +58,7 @@ sections:
         - title: For HIMS & CSDS Providers
           description: ""
           linktext: Learn more
-          url: /help-and-resources/for-health-data-intermediaries-csds-providers/
+          url: /help-and-resources/for-hims-csds-providers/
   - announcements:
       title: Announcements
       id: announcements
