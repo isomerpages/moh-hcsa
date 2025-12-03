@@ -55,7 +55,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /help-and-resources/for-healthcare-providers/implementation-support/
-        - title: For Health Data Intermediaries & CSDS Providers
+        - title: For HIMS & CSDS Providers
           description: ""
           linktext: Learn more
           url: /help-and-resources/for-health-data-intermediaries-csds-providers/
