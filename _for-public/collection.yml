@@ -4,7 +4,6 @@ collections:
     order:
       - Introduction.md
       - Overview/.keep
-      - Overview/Health Information and the NEHR.md
       - How HIA Affects Individuals/.keep
       - How HIA Affects Individuals/Access to Health Information.md
       - How HIA Affects Individuals/Sharing of Health Information.md
