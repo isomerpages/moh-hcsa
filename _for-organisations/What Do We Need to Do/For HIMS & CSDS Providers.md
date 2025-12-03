@@ -7,5 +7,5 @@ third_nav_title: What Do We Need to Do
 ---
 <h2>NEHR Onboarding Process</h2>
 <p>[To insert content]</p>
-<h2>Meeting MOH’s CSDS Essentials</h2>
+<h2>Meeting MOH’s Cyber &amp; Data Security Essentials</h2>
 <p>[To insert content]</p>
