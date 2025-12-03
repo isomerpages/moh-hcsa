@@ -34,7 +34,7 @@ description: ""
 <p>SMA News (April 2024) Page 13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Highlights from the Honorary Secretary - meeting with MOH on HIB and NEHR</p>
+<p>Highlights from the Honorary Secretary - Meeting with MOH on HIB and NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/News and Feature Articles/News_Article_SMA_News_April2024_Pg13.pdf" rel="noopener nofollow" target="_blank">SMA_News_(April 2024)_Pg13</a>
