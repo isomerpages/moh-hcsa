@@ -43,7 +43,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adj A/Prof Ramond Chua</p>
+<p>Adj A/Prof Raymond Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMA News (November 2024) Page 16 to 17</p>
