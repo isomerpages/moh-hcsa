@@ -29,9 +29,9 @@ sections:
   - infopic:
       title: Adopting Best Practices
       id: infopic
-      description: All public and private healthcare providers shall be required to
-        contribute key health information to NEHR to enable seamless information
-        sharing
+      description: HIB completes Singapore's health record by requiring all providers
+        to share key information, aligning with global best practices for
+        seamless, secure care.
       alt: Image alt text
       image: /images/HIB_Isomer_Graphics__2_.png
   - infopic:
