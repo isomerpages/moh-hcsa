@@ -23,7 +23,7 @@ sections:
       title: One Patient, One Health Record
       id: infopic
       alt: Image alt text
-      image: /images/HIB_Isomer_Graphics__1_.png
+      image: /images/Homepage___One_Patient_One_Health_Record.png
       description: HIB will enable more effective clinical care by ensuring all
         healthcare providers have access to key health information in NEHR
   - infopic:
@@ -33,7 +33,7 @@ sections:
         to share key information, aligning with global best practices for
         seamless, secure care
       alt: Image alt text
-      image: /images/HIB_Isomer_Graphics__2_.png
+      image: /images/Homepage___Adopting_Best_Practices.png
   - infopic:
       title: Robust Safeguards
       id: infopic
@@ -41,7 +41,7 @@ sections:
         penalties for unauthorised access ensure comprehensive protections &
         oversight
       alt: Image alt text
-      image: /images/HIB_Isomer_Graphics__3_.png
+      image: /images/Homepage___Robust_Safeguards.png
   - textcards:
       title: Help & Resources
       id: textcards
