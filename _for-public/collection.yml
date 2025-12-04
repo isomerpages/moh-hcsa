@@ -2,11 +2,11 @@ collections:
   for-public:
     output: true
     order:
-      - Help & Resources.md
-      - How HIA Affects Individuals/Health Information & the NEHR.md
       - How HIA Affects Individuals/.keep
+      - How HIA Affects Individuals/Health Information & the NEHR.md
       - How HIA Affects Individuals/Access to Health Information.md
       - How HIA Affects Individuals/Sharing of Health Information.md
       - Safeguards under HIA/.keep
       - Safeguards under HIA/Restricting Access to Health Information.md
       - Safeguards under HIA/Protecting Health Information.md
+      - Help & Resources.md
