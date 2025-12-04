@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /for-public/introduction/
+          url: /for-public/how-hib-affects-individuals/health-information-and-the-nehr/
         - title: For Healthcare Providers
           description: ""
           url: /for-healthcare-providers/what-hib-means-obligations/
