@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - What Do We Need to Do/.keep
-      - What Do We Need to Do/what do we need to do For Healthcare Providers.md
       - What Do We Need to Do/what do we need to do For HIMS & CSDS Providers.md
       - Help & Resources/.keep
       - Help & Resources/Implementation Support.md
