@@ -2,11 +2,11 @@ collections:
   for-healthcare-providers:
     output: true
     order:
-      - Help & Resources/References & Useful Links.md
-      - Help & Resources/Cyber & Data Security Guidelines.md
-      - Help & Resources/Circulars.md
-      - Help & Resources/Implementation Support.md
       - Help & Resources/.keep
+      - Help & Resources/Implementation Support.md
+      - Help & Resources/Circulars.md
+      - Help & Resources/Cyber & Data Security Guidelines.md
+      - Help & Resources/References & Useful Links.md
       - What Do We Need to Do/.keep
       - What Do We Need to Do/For Healthcare Providers.md
       - What Do We Need to Do/For HIMS & CSDS Providers.md
