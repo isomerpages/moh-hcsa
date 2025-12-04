@@ -50,7 +50,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Safe Health: Safety Includes Ensuring Cyber and Data Security in Your
-Healthcare Too!</p>
+Healthcare Practices Too!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/News and Feature Articles/News_Article_SMA_News_Nov2024_Pg16_17.pdf" rel="noopener nofollow" target="_blank">SMA_News_(Nov 2024)_Pg16_to_17</a>
