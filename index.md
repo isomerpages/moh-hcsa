@@ -18,7 +18,7 @@ sections:
           url: /for-public/introduction/
         - title: For Healthcare Providers
           description: ""
-          url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
+          url: /for-healthcare-providers/what-hib-means-obligations/
         - title: For Healthcare Professionals
           description: ""
           url: /for-healthcare-professionals/what-hib-means-obligations/
