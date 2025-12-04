@@ -60,6 +60,10 @@ sections:
           description: ""
           linktext: Learn more
           url: /help-and-resources/for-healthcare-providers/implementation-support/
+        - title: For Healthcare Professionals
+          description: ""
+          linktext: Learn more
+          url: /for-healthcare-professionals/help-resources/
         - title: For HIMS & CSDS Providers
           description: ""
           linktext: Learn more
