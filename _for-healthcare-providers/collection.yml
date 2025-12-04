@@ -2,6 +2,7 @@ collections:
   for-healthcare-providers:
     output: true
     order:
+      - Help & Resources/.keep
       - What HIA Means & Obligations/.keep
       - What HIA Means & Obligations/For Healthcare Providers.md
       - What HIA Means & Obligations/For HIMS & CSDS Providers.md
