@@ -1,5 +1,5 @@
 collections:
-  for-organisations:
+  for-healthcare-providers:
     output: true
     order:
       - What HIA Means & Obligations/.keep
