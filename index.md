@@ -24,9 +24,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/HIB_Isomer_Graphics__1_.png
-      description: HIB enables effective care & reduces duplicate tests by connecting
-        all providers, supporting Singapore's shift to community-based care for
-        our ageing population
+      description: HIB will enable more effective clinical care by ensuring all
+        healthcare providers have access to key health information in NEHR
   - infopic:
       title: Adopting Best Practices
       id: infopic
@@ -38,9 +37,9 @@ sections:
   - infopic:
       title: Robust Safeguards
       id: infopic
-      description: Robust safeguards include role-based access, regular audits,
-        patient monitoring, mandatory incident reporting, and strict penalties
-        for unauthorised access
+      description: Reinforced cyber & data security measures alongside strict
+        penalties for unauthorised access ensure comprehensive protections &
+        oversight
       alt: Image alt text
       image: /images/HIB_Isomer_Graphics__3_.png
   - textcards:
