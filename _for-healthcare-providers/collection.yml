@@ -2,14 +2,14 @@ collections:
   for-healthcare-providers:
     output: true
     order:
+      - What Do We Need to Do/.keep
+      - What Do We Need to Do/For Healthcare Providers.md
+      - What Do We Need to Do/For HIMS & CSDS Providers.md
       - Help & Resources/.keep
       - Help & Resources/Implementation Support.md
       - Help & Resources/Circulars.md
       - Help & Resources/Cyber & Data Security Guidelines.md
       - Help & Resources/References & Useful Links.md
-      - What Do We Need to Do/.keep
-      - What Do We Need to Do/For Healthcare Providers.md
-      - What Do We Need to Do/For HIMS & CSDS Providers.md
       - Report An Incident/.keep
       - Report An Incident/Reporting Requirements & Timelines.md
       - Report An Incident/Reporting Forms.md
