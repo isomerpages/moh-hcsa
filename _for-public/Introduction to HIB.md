@@ -23,7 +23,7 @@ Ong at World Organisation of Family Doctors Asia Pacific Regional Conference
 <p>As our population ages, medical conditions become more complex, and seeing
 a single doctor (whether public or private) may no longer be enough.</p>
 <p>Patients may need to be referred to various specialists to manage different
-medical conditions. Or they may need access to additional services like
+medical conditions, or they may need access to additional services like
 health screening, rehabilitation, or physiotherapy.</p>
 <p>Whether patients are seeing their family doctor, a specialist, or a surgeon
 for the first time, when healthcare providers can immediately access patients'
