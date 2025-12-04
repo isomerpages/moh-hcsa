@@ -37,7 +37,7 @@ description: ""
 <p>Highlights from the Honorary Secretary - Meeting with MOH on HIB and NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News and Feature Articles/News_Article_SMA_News_April2024_Pg13.pdf" rel="noopener nofollow" target="_blank">SMA_News_(April 2024)_Pg13</a>
+<p><a href="/files/News and Events/News and Feature Articles/News_Article_SMA_News_April2024_Pg13.pdf" rel="noopener nofollow" target="_blank">SMA_News_(April 2024)_Pg13</a>
 </p>
 </td>
 </tr>
@@ -53,7 +53,7 @@ description: ""
 Healthcare Practices Too!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News and Feature Articles/News_Article_SMA_News_Nov2024_Pg16_17.pdf" rel="noopener nofollow" target="_blank">SMA_News_(Nov 2024)_Pg16_to_17</a>
+<p><a href="/files/News and Events/News and Feature Articles/News_Article_SMA_News_Nov2024_Pg16_17.pdf" rel="noopener nofollow" target="_blank">SMA_News_(Nov 2024)_Pg16_to_17</a>
 </p>
 </td>
 </tr>
