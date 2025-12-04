@@ -46,10 +46,10 @@ sections:
       title: Help & Resources
       id: textcards
       cards:
-        - title: For Patients
+        - title: For Individuals
           description: ""
           linktext: Learn more
-          url: /help-and-resources/for-patients/
+          url: /help-and-resources/for-individuals/
         - title: For Healthcare Providers
           description: ""
           linktext: Learn more
