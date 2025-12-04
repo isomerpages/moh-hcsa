@@ -1,10 +1,14 @@
 logo: /images/moh_logo.png
 links:
+  - title: Overview
+    collection: overview
   - title: For Public
     collection: for-public
   - title: For Healthcare Providers
     collection: for-healthcare-providers
+  - title: For Healthcare Professionals
+    collection: for-healthcare-professionals
+  - title: For HIMS & CSDS Providers
+    collection: for-hims-and-csds-providers
   - title: News & Events
     collection: news-and-events
-  - title: Overview
-    collection: overview
