@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /for-public/introduction/
+          url: /for-public/introduction-to-hib/
         - title: For Organisations
           description: ""
           url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
