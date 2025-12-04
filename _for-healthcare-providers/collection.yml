@@ -2,7 +2,7 @@ collections:
   for-healthcare-providers:
     output: true
     order:
-      - For HIMS & CSDS Providers.md
+      - Obligations For HIMS & CSDS Providers.md
       - Help & Resources/References & Useful Links.md
       - Help & Resources/Cyber & Data Security Guidelines.md
       - Help & Resources/Circulars.md
