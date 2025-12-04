@@ -2,6 +2,5 @@ collections:
   help-and-resources:
     output: true
     order:
-      - Cyber & Data Security Guidelines.md
       - For Healthcare Providers/.keep
       - For HIMS & CSDS Providers.md
