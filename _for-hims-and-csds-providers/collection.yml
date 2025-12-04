@@ -2,4 +2,5 @@ collections:
   for-hims-and-csds-providers:
     output: true
     order:
+      - Obligations For HIMS & CSDS Providers.md
       - For HIMS & CSDS Providers.md
