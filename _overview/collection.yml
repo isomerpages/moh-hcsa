@@ -2,5 +2,5 @@ collections:
   overview:
     output: true
     order:
-      - Introduction.md
+      - Introduction to HIB.md
       - Objectives of HIB.md
