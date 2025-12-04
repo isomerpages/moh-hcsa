@@ -2,7 +2,7 @@ collections:
   for-public:
     output: true
     order:
-      - For Individuals.md
+      - Help & Resources.md
       - How HIA Affects Individuals/Health Information & the NEHR.md
       - How HIA Affects Individuals/.keep
       - How HIA Affects Individuals/Access to Health Information.md
