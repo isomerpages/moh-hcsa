@@ -1,4 +1,5 @@
 collections:
   overview:
     output: true
-    order: []
+    order:
+      - Objectives of HIB.md
