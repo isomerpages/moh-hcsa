@@ -19,6 +19,9 @@ sections:
         - title: For Organisations
           description: ""
           url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
+        - title: For Healthcare Professionals
+          description: ""
+          url: /for-healthcare-professionals/what-hib-means-obligations/
   - infopic:
       title: One Patient, One Health Record
       id: infopic
