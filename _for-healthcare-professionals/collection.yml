@@ -1,4 +1,5 @@
 collections:
   for-healthcare-professionals:
     output: true
-    order: []
+    order:
+      - What HIB Means & Obligations.md
