@@ -22,6 +22,9 @@ sections:
         - title: For Healthcare Professionals
           description: ""
           url: /for-healthcare-professionals/what-hib-means-obligations/
+        - title: For HIMS & CSDS Providers
+          description: ""
+          url: /for-hims-csds-providers/what-hib-means-and-obligations/
   - infopic:
       title: One Patient, One Health Record
       id: infopic
