@@ -33,7 +33,7 @@ third_nav_title: For Healthcare Providers
 You</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Circulars/MOH_Cir_4Nov25_Notification_for_HIB.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Circular Nov 2025</a>
+<p><a href="/files/Help and Resources/For Healthcare Providers/MOH_Cir_4Nov25_Notification_for_HIB.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Circular Nov 2025</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ You</p>
 Health Information Bill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Circulars/MOH_Cir_No_13_2025_21Mar25_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Circular No 13/2025</a>
+<p><a href="/files/Help and Resources/For Healthcare Providers/MOH_Cir_No_13_2025_21Mar25_Health_Information_Bill.pdf" rel="noopener noreferrer nofollow" target="_blank">MOH Circular No 13/2025</a>
 </p>
 </td>
 </tr>
