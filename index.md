@@ -16,7 +16,7 @@ sections:
         - title: For Public
           description: ""
           url: /for-public/introduction/
-        - title: For Organisations
+        - title: For Healthcare Providers
           description: ""
           url: /for-organisations/what-hia-means-and-obligations/for-healthcare-providers/
         - title: For Healthcare Professionals
