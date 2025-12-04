@@ -2,4 +2,5 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
+      - What Do We Need to Do.md
       - What HIB Means & Obligations.md
