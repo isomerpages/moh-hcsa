@@ -18,6 +18,7 @@ and disclosure of NEHR information eg audits and training</p>
 <p>-Notify MOH of confirmed cybersecurity incidents and data breaches in
 a timely manner</p>
 <p>Pairchat:</p>
+<p></p>
 <h1>Healthcare Provider Responsibilities Under HIB</h1>
 <p>Healthcare providers play a critical role in maintaining the integrity
 and security of Singapore's National Electronic Health Record (NEHR) system.
@@ -96,8 +97,7 @@ Information Bill. This includes:</p>
 <p>Providing information as specified to enable appropriate response</p>
 </li>
 <li>
-<p>Cooperating with MOH as required under the legislationCooperating with
-MOH as required under the legislation</p>
+<p>Cooperating with MOH as required under the legislation</p>
 </li>
 </ul>
 <hr>
