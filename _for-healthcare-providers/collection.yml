@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - What Do We Need To Do/.keep
-      - What HIB Means & Obligations.md
       - What Do We Need to Do.md
       - Report An Incident/.keep
       - Report An Incident/Reporting Requirements & Timelines.md
