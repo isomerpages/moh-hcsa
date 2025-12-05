@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Timelines.md
-      - What Do We Need To Do/Report An Incident.md
       - What Do We Need To Do/.keep
       - What Do We Need To Do/NEHR Contribution & Access.md
       - What Do We Need To Do/Protect NEHR Information.md
+      - What Do We Need To Do/Report An Incident.md
       - Report An Incident/.keep
       - Report An Incident/Reporting Requirements & Timelines.md
       - Report An Incident/Reporting Forms.md
