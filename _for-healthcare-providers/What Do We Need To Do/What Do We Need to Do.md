@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Do
 ---
-<h2>NEHR Contribution Timelines</h2>
-<p>[To insert content]</p>
+<h2></h2>
 <h2>Cybersecurity &amp; Data Security Ready Timelines</h2>
 <p>[To insert content]</p>
 <h2>Outsourcing to HIMS &amp; CSDS Providers</h2>
