@@ -2,6 +2,7 @@ collections:
   for-healthcare-providers:
     output: true
     order:
+      - What Do We Need To Do/What HIB Means & Obligations.md
       - What Do We Need To Do/.keep
       - What Do We Need to Do.md
       - Report An Incident/.keep
