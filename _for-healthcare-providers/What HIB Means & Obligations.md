@@ -4,8 +4,6 @@ permalink: /for-healthcare-providers/what-hib-means-obligations/
 variant: tiptap
 description: ""
 ---
-<h2>Healthcare Providers</h2>
-<p></p>
 <h2>Healthcare Providers must ensure accurate and timely contribution to NEHR and secure handling of data</h2>
 <h3>Contribute</h3>
 <p>-Ensure the accurate, timely and complete contribution of health information
