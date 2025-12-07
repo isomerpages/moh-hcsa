@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Do
 ---
+<h3>Report</h3>
+<p>-Notify MOH of confirmed cybersecurity incidents and data breaches in
+a timely manner</p>
 <h2>Reporting Requirements</h2>
 <p>[To insert content]</p>
 <h2>Reporting Timelines</h2>
@@ -14,5 +17,5 @@ third_nav_title: What Do We Need To Do
 <p>[To insert Link to form]</p>
 <h3>Suspected Cyber Security Incident</h3>
 <p>[To insert Link to form]</p>
-<h3>Suspected Data Security </h3>
+<h3>Suspected Data Security</h3>
 <p></p>
