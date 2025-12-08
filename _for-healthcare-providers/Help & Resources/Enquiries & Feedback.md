@@ -29,7 +29,7 @@ etc.)</p>
 <p>Others</p>
 </li>
 </ul>
-<h2>For HCSA-related queries</h2>
+<h2>Healthcare Services Act (HCSA)</h2>
 <p>If you have any general queries related to HCSA, or if your queries are
 specific to the General Regulations, Advertisement Regulations or price
 transparency requirements under the HCSA, please visit <a href="http://www.go.gov.sg/askmoh-hcsa" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/askmoh-hcsa</a> to
