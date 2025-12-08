@@ -2,9 +2,6 @@ collections:
   for-public:
     output: true
     order:
-      - Help & Resources/.keep
-      - Help & Resources/FAQs & Additional Information.md
-      - Help & Resources/Feedback.md
       - How HIB Affects Individuals/.keep
       - How HIB Affects Individuals/Health Information & the NEHR.md
       - How HIB Affects Individuals/Access to Health Information.md
@@ -12,3 +9,6 @@ collections:
       - Safeguards under HIB/.keep
       - Safeguards under HIB/Restricting Access to Health Information.md
       - Safeguards under HIB/Protecting Health Information.md
+      - Help & Resources/.keep
+      - Help & Resources/FAQs & Additional Information.md
+      - Help & Resources/Feedback.md
