@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Implementation Suppot</h2>
+<h2>Implementation Support</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whitelist of NEHR-compatible systems that meet HIB's cyber and data security
@@ -45,4 +45,4 @@ costs</p>
 </li>
 </ul>
 <h2>Starter Kit</h2>
-<p>[content to be updated after 2R]</p>
+<p>[content to be updated after 2R]r</p>
