@@ -8,6 +8,4 @@ description: ""
 <p>[To insert content]</p>
 <h2>Cybersecurity &amp; Data Security Ready Timelines</h2>
 <p>[To insert content]</p>
-<h2>Outsourcing to HIMS &amp; CSDS Providers</h2>
-<p>[To insert content]</p>
 <p></p>
