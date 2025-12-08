@@ -16,8 +16,7 @@ requirements</p>
 <p>Alternate contribution channel to support pen-and-paper clinics</p>
 </li>
 <li>
-<p><s>Whitelist of CSDS service providers to work with</s>
-</p>
+<p>Whitelist of CSDS service providers to work with</p>
 </li>
 <li>
 <p>CSDS self-assessment tool and courses with local training provides</p>
