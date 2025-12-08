@@ -2,9 +2,9 @@ collections:
   for-public:
     output: true
     order:
-      - Help & Resources/Feedback.md
-      - Help & Resources/FAQs & Additional Information.md
       - Help & Resources/.keep
+      - Help & Resources/FAQs & Additional Information.md
+      - Help & Resources/Feedback.md
       - How HIB Affects Individuals/.keep
       - How HIB Affects Individuals/Health Information & the NEHR.md
       - How HIB Affects Individuals/Access to Health Information.md
