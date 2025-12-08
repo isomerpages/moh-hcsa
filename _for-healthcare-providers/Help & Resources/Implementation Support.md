@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Implementation Support</h2>
-<p></p>
+<h2>Implementation Suppot</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Whitelist of NEHR-compatible systems that meet HIB's cyber and data security
