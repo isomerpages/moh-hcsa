@@ -23,9 +23,10 @@ of national health programmes and initiatives.</p>
 the HIB will set out cybersecurity and data security standards for healthcare
 providers and Health Information Management Systems (HIMS).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/objectives_of_hib.jpg">
-</div>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graphic_Overview_of_NEHR_Contribution.png">
+</div>
 <p></p>
