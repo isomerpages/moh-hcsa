@@ -52,7 +52,7 @@ sections:
       title: Help & Resources
       id: textcards
       cards:
-        - title: For Individuals
+        - title: For Public
           description: ""
           linktext: Learn more
           url: /help-and-resources/for-individuals/
