@@ -13,9 +13,45 @@ a timely manner</p>
 <h2>Reporting Timelines</h2>
 <p>[To insert content]</p>
 <h2>Reporting Forms</h2>
-<h3>Unauthorised Access</h3>
+<p>[to insert preamble]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Incident</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Reporting Form</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unauthorised Access</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>[To insert Link to form]</p>
-<h3>Suspected Cyber Security Incident</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suspected Cyber Security Incident</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>[To insert Link to form]</p>
-<h3>Suspected Data Security</h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suspected Data Security Incident</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[To insert Link to form]</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
