@@ -6,7 +6,7 @@ description: ""
 third_nav_title: What Do We Need To Know
 ---
 <h2>Adopt / Integrate Health Information Management System (HIMS) / IT Solution</h2>
-<p>[executive Summary] Ensure a secure connection to NEHR by meeting minimum
+<p>[Executive Summary] Ensure a secure connection to NEHR by meeting minimum
 cyber and data security requirements</p>
 <p>[Starter Kit] Healthcare Services Act (HCSA) licensees and approved healthcare
 providers must use authorised systems to contribute data to the National
