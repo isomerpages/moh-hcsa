@@ -24,7 +24,7 @@ security.</p>
 <p>[To insert content]</p>
 <h2>Liability for Data Breaches involving Health Information Management Systems (HIMS)</h2>
 <p>If licensed healthcare providers have exercised due diligence in choosing
-a whitelisted HIB-complaint HIMS and in maintaining appropriate cybersecurity
+a whitelisted HIB-compliant HIMS and in maintaining appropriate cybersecurity
 and data security (CSDS) practices, providers will not be held liable for
 lapses arising solely from the HIMS. That said, providers will still need
 to develop and implement appropriate SOPs and staff training to meet the
