@@ -2,11 +2,11 @@ collections:
   for-healthcare-providers:
     output: true
     order:
-      - What Do We Need To Do/.keep
-      - What Do We Need To Do/NEHR Contribution.md
-      - What Do We Need To Do/NEHR Access.md
-      - What Do We Need To Do/Use of Health Information Management Systems.md
-      - What Do We Need To Do/Report An Incident.md
+      - What Do We Need To Know/.keep
+      - What Do We Need To Know/NEHR Contribution.md
+      - What Do We Need To Know/NEHR Access.md
+      - What Do We Need To Know/Use of Health Information Management Systems.md
+      - What Do We Need To Know/Report An Incident.md
       - Help & Resources/.keep
       - Help & Resources/Implementation Support.md
       - Help & Resources/Circulars.md
