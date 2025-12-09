@@ -5,39 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h2>Introduction</h2>
-<p>With Singapore's rapidly ageing population and higher life expectancy,
-healthcare needs will continue growing and there will be more chronic diseases
-requiring sustained care.</p>
-<p>Healthcare delivery extends beyond hospitals to clinics, community partners,
-caregivers. If care is shifting from hospitals to community, so must other
-aspects of healthcare such as patient data, which needs to flow across
-different healthcare providers and settings. The Health Information Act
-(HIA) is developed to improve the current situation of data collection
-and sharing.</p>
+<p>Given Singapore's ageing population and a greater burden of chronic diseases,
+there is a need for sustained and coordinated care across health settings.
+While we have the National Electronic Health Record system (NEHR) that
+functions as Singapore’s centralised repository for key health information,
+not all healthcare providers are onboarded yet, resulting in fragmented
+health records across different settings.</p>
 <h2>Improving the patient journey through our healthcare ecosystem</h2>
 <blockquote>
 <p>“…better flow of patients’ data drives higher quality of care” – Minister
 Ong at World Organisation of Family Doctors Asia Pacific Regional Conference
 2024</p>
 </blockquote>
-<p>As our population ages, medical conditions become more complex, and seeing
-a single doctor (whether public or private) may no longer be enough.</p>
-<p>Patients may need to be referred to various specialists to manage different
-medical conditions, or they may need access to additional services like
-health screening, rehabilitation, or physiotherapy.</p>
-<p>Whether patients are seeing their family doctor, a specialist, or a surgeon
-for the first time, when healthcare providers can immediately access patients'
-medical history, drug allergies, and recent diagnostic images, they can
-make better and faster decisions about patients’ treatment.</p>
-<p>To do this, the healthcare system must be able to coordinate across these
-different touchpoints seamlessly to deliver a higher quality of care for
-patients. This requires patients' health information from previous visits
-to be collected, stored, and shared for doctors and healthcare providers.</p>
-<h2>Support outreach efforts for vulnerable patients in the community</h2>
-<p>• Support vulnerable patients/seniors who are isolated in the community.</p>
-<p>• Sharing health information enables community care teams to reach out
-and identify these seniors before their isolation leads to serious health
-crises.</p>
-<p></p>
-<p></p>
+<p>The HIB aims to close the last mile by requiring all healthcare providers
+to contribute key health information to NEHR. Healthcare providers will
+also be granted access to NEHR to support their provision of healthcare
+services. This will enable Singaporeans as well as those residing in Singapore
+to enjoy better care quality (e.g. by reducing inappropriate medication),
+lower costs (e.g. by reducing duplicate investigations), and better coordinate
+care across hospitals, clinics and community healthcare partners.</p>
 <p></p>
