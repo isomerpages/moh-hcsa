@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Questions on HIB?</h2>
+<h2>Feedback topics</h2>
+<h3>Health Information Bill (HIB) Matters</h3>
 <p>If you have any queries or feedback regarding the <strong>Health Information Bill (HIB)</strong>,
 please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form.</a>
 </p>
-<h2>Feedback topics</h2>
 <h3>Hospital/Polyclinic Matters</h3>
 <p><strong>Step 1: </strong>Read the <a href="https://www.moh.gov.sg/others/inquiries-and-complaints-guide/" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener noreferrer nofollow" target="_blank">Inquiries and Complaints Guide</a> which
 better assures you that your concern or complaint will reach the right
