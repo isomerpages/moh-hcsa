@@ -24,16 +24,15 @@ in HIB’s First schedule</p>
 <p>• Use of whitelisted NEHR-compatible system</p>
 <h2>What Information Needs to Be Contributed to NEHR</h2>
 <p>The Bill will only require the contribution of key health information
-that is necessary for continuity of care across health settings and healthcare
+necessary for continuity of care across healthcare settings and healthcare
 providers e.g., allergies, vaccination records, prescribed medications
 and discharge summaries; detailed information on what will be required
 will be shared/published as part of the HIB’s implementation. Raw clinical
-notes will not need to be contributed.</p>
-<p>Healthcare providers will be required to contribute the health information
-of Singaporeans, Permanent Residents and individuals with Foreign Identification
-Numbers (FIN). The contribution of health information of short-term visitors,
-such as tourists, would not be required. There is no need for healthcare
-providers to obtain patient consent to contribute.</p>
+notes will not be contributed. Patient consent is not required.</p>
+<p>Only health information of Singaporeans, Permanent Residents and individuals
+with Foreign Identification Numbers (FIN) will need to be contributed.
+The contribution of health information of short-term visitors, such as
+tourists, would not be required.</p>
 <h2>NEHR Contribution Timelines</h2>
 <p>[To insert content]</p>
 <p></p>
