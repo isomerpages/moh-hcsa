@@ -59,7 +59,7 @@ sections:
         - title: For Healthcare Providers
           description: ""
           linktext: Learn more
-          url: /help-and-resources/for-healthcare-providers/implementation-support/
+          url: /for-healthcare-providers/help-and-resources/implementation-support/
         - title: For Healthcare Professionals
           description: ""
           linktext: Learn more
