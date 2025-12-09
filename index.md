@@ -35,9 +35,8 @@ sections:
   - infopic:
       title: Adopting Best Practices
       id: infopic
-      description: HIB completes Singapore's health record by requiring all providers
-        to share key information, aligning with global best practices for
-        seamless, secure care
+      description: HIB requires all providers to share key information, aligning with
+        global best practices for seamless, secure care
       alt: Image alt text
       image: /images/Homepage___Adopting_Best_Practices.png
   - infopic:
