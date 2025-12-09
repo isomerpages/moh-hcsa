@@ -2,6 +2,7 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
+      - Help & Resources/Useful Links.md
       - Help & Resources/Guidelines.md
       - Help & Resources/Enquiries & Feedback.md
       - Help & Resources/.keep
