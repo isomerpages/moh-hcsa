@@ -29,7 +29,6 @@ etc.)</p>
 <p>Others</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h2>Healthcare Services Act (HCSA)</h2>
 <p>If you have any general queries related to HCSA, or if your queries are
 specific to the General Regulations, Advertisement Regulations or price
