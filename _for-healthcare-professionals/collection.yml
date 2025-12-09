@@ -2,6 +2,7 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
+      - Access Restrictions.md
       - Role of NEHR.md
       - NEHR Access.md
       - What Do We Need To Do.md
