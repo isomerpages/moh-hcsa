@@ -2,5 +2,6 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
+      - NEHR Access.md
       - What Do We Need To Do.md
       - Help & Resources.md
