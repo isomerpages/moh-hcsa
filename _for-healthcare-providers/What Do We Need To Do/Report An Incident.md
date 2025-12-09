@@ -5,16 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Do
 ---
-<p>[to insert Title]</p>
-<h2>Report [to use as preamble]</h2>
-<p>-Notify MOH of confirmed cybersecurity incidents and data breaches in
-a timely manner</p>
+<h2>Report An Incident</h2>
+<p>A.Notify MOH of confirmed cybersecurity incidents and data breaches in
+a timely manner.</p>
+<p><a href="http://B.Healthcare" rel="noopener noreferrer nofollow" target="_blank">B.Healthcare</a> providers
+are responsible for timely incident reporting to MOH. Prompt identification,
+assessment and reporting allow the healthcare provider to take swift action
+to mitigate potential harm and safeguard patient health information. Reporting
+also enables MOH to provide necessary guidance, investigate incident causes,
+and implement preventive measures across the healthcare sector.</p>
+<p>The Healthcare Information Act (HIA) mandates reporting of specified cybersecurity
+incidents and health data breaches.</p>
 <h2>Reporting Requirements</h2>
 <p>[To insert content]</p>
 <h2>Reporting Timelines</h2>
 <p>[To insert content]</p>
 <h2>Reporting Forms</h2>
-<p>[to insert preamble]</p>
+<p>If you encounter any of the following incidents, please submit a report
+via the respective online reporting forms.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,7 +39,7 @@ a timely manner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unauthorised Access</p>
+<p>Unauthorised Access to NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[To insert Link to form]</p>
@@ -39,7 +47,7 @@ a timely manner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suspected Cyber Security Incident</p>
+<p>Cyber Security Incident</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[To insert Link to form]</p>
@@ -47,7 +55,7 @@ a timely manner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suspected Data Security Incident</p>
+<p>Data Breach</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[To insert Link to form]</p>
