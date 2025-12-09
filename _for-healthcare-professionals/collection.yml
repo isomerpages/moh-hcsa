@@ -2,12 +2,12 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
-      - What Do We Need To Know/Derived Information.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Access.md
       - What Do We Need To Know/Role of NEHR.md
       - What Do We Need To Know/Access Restrictions.md
       - What Do We Need To Know/Disclosure of NEHR Information.md
+      - What Do We Need To Know/Derived Information.md
       - Help & Resources/.keep
       - Help & Resources/Guidelines.md
       - Help & Resources/Useful Links.md
