@@ -55,7 +55,7 @@ sections:
         - title: For Public
           description: ""
           linktext: Learn more
-          url: /help-and-resources/for-individuals/
+          url: /for-public/help-and-resources/additional-information-and-faqs/
         - title: For Healthcare Providers
           description: ""
           linktext: Learn more
