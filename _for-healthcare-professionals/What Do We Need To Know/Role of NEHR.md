@@ -14,6 +14,6 @@ NEHR could be used as an adjunctive tool to the healthcare professionals
 if they require further clinical information about the patients and if
 patients could not recall such information clearly. NEHR and the information
 within should be used in accordance with relevant professional standards
-such as the Singapore Medical Concil and the Singapore Dental Council’s
+such as the Singapore Medical Council and the Singapore Dental Council’s
 Ethical Code and Ethical Guidelines (ECEG).</p>
 <p></p>
