@@ -2,6 +2,7 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
+      - Disclosure of NEHR Information.md
       - Access Restrictions.md
       - Role of NEHR.md
       - NEHR Access.md
