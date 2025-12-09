@@ -2,10 +2,10 @@ collections:
   for-healthcare-professionals:
     output: true
     order:
-      - Help & Resources/Useful Links.md
-      - Help & Resources/Guidelines.md
-      - Help & Resources/Enquiries & Feedback.md
       - Help & Resources/.keep
+      - Help & Resources/Guidelines.md
+      - Help & Resources/Useful Links.md
+      - Help & Resources/Enquiries & Feedback.md
       - What Do We Need To Know & Do/NEHR Access.md
       - What Do We Need To Know & Do/Role of NEHR.md
       - What Do We Need To Know & Do/Access Restrictions.md
