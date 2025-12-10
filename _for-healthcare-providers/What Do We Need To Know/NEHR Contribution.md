@@ -6,14 +6,14 @@ description: ""
 third_nav_title: What Do We Need To Know
 ---
 <h2>NEHR Contribution</h2>
-<p>A. Healthcare Providers will be required to ensure accurate, timely and
-complete contribution of health information to NEHR.</p>
-<p>B. All licensed healthcare providers — including private clinics, clinical
-laboratories, radiological services, and other MOH-licensed entities —
-will be required to contribute key health information to the National Electronic
-Health Record system (NEHR). These providers will also be granted NEHR
-access to support care continuity and patient safety.</p>
-<p>C. Key health information is contributed</p>
+<p>[Executive Summary] Healthcare Providers will be required to ensure accurate,
+timely and complete contribution of health information to NEHR.</p>
+<p>[Starter Kit] All licensed healthcare providers — including private clinics,
+clinical laboratories, radiological services, and other MOH-licensed entities
+— will be required to contribute key health information to the National
+Electronic Health Record system (NEHR). These providers will also be granted
+NEHR access to support care continuity and patient safety.</p>
+<p>[GPC Deck] Key health information is contributed</p>
 <p>• HCSA licensees and retail pharmacy will be required to contribute key
 health information that provides clinical value for continuity of care
 to NEHR</p>
