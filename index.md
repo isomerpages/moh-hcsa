@@ -30,21 +30,21 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Homepage___One_Patient_One_Health_Record.png
-      description: HIB will enable more effective clinical care by ensuring all
-        healthcare providers have access to key health information in NEHR
+      description: Under HIB, patients will have a unified health record for better
+        care continuity & to protect patient welfare
   - infopic:
       title: Adopting Best Practices
       id: infopic
-      description: HIB requires all providers to share key information, aligning with
-        global best practices for seamless, secure care
+      description: All healthcare providers shall be required to contribute & will
+        have access to NEHR, aligning with global best practices for seamless
+        information sharing
       alt: Image alt text
       image: /images/Homepage___Adopting_Best_Practices.png
   - infopic:
       title: Robust Safeguards
       id: infopic
-      description: Reinforced cyber & data security measures alongside strict
-        penalties for unauthorised access ensure comprehensive protections &
-        oversight
+      description: Strict safeguards are in place to protect patients’ health
+        information, including access and cybersecurity requirements
       alt: Image alt text
       image: /images/Homepage___Robust_Safeguards.png
   - textcards:
