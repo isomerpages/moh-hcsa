@@ -6,14 +6,14 @@ description: ""
 third_nav_title: What Do We Need To Know
 ---
 <h2>Report An Incident</h2>
-<p>A.Notify MOH of confirmed cybersecurity incidents and data breaches in
-a timely manner.</p>
-<p><a href="http://B.Healthcare" rel="noopener noreferrer nofollow" target="_blank">B.Healthcare</a> providers
-are responsible for timely incident reporting to MOH. Prompt identification,
-assessment and reporting allow the healthcare provider to take swift action
-to mitigate potential harm and safeguard patient health information. Reporting
-also enables MOH to provide necessary guidance, investigate incident causes,
-and implement preventive measures across the healthcare sector.</p>
+<p>[Executive Summary] Notify MOH of confirmed cybersecurity incidents and
+data breaches in a timely manner.</p>
+<p>[Starter Kit] Healthcare providers are responsible for timely incident
+reporting to MOH. Prompt identification, assessment and reporting allow
+the healthcare provider to take swift action to mitigate potential harm
+and safeguard patient health information. Reporting also enables MOH to
+provide necessary guidance, investigate incident causes, and implement
+preventive measures across the healthcare sector.</p>
 <p>The Healthcare Information Act (HIA) mandates reporting of specified cybersecurity
 incidents and health data breaches.</p>
 <h2>Reporting Requirements</h2>
