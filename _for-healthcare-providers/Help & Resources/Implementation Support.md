@@ -44,13 +44,13 @@ costs</p>
 <p>Leverage existing funding sources for healthcare providers</p>
 </li>
 </ul>
-<h2>1. Support for Cyber and Data Security (CSDS) Requirements</h2>
+<h2>Support for Cyber and Data Security (CSDS) Requirements</h2>
 <p>MOH has simplified CSDS requirements and will provide concise checklists,
 infographics, and training programmes to help clinics understand the steps
 needed. For clinics that need help, MOH has published a whitelist of CSDS
 service providers that offer professional services to help clinics implement
 CSDS requirements.</p>
-<h2>2. Cost and Financial Support</h2>
+<h2>Cost and Financial Support</h2>
 <p>MOH will provide one-off grant support for healthcare providers to subscribe
 to whitelisted HIB-compliant HIMS to contribute data to NEHR and to engage
 professional CSDS service providers to implement the CSDS requirements.
@@ -59,7 +59,7 @@ vendor, they should first check if their vendor is NEHR compatible, and
 if not, request that their vendor engage Synapxe early for NEHR integration.
 This allows time for clinics to switch HIMS vendors should there be a need
 to do so.</p>
-<h2>3. Support for Pen-and-Paper Clinics</h2>
+<h2>Support for Pen-and-Paper Clinics</h2>
 <p>Clinics are strongly encouraged to digitise their operations, adopt a
 HIMS to achieve efficiency gains and improve care delivery. For clinics
 that require additional time to purchase or implement a HIMS, MOH is developing
