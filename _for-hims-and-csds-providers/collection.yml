@@ -2,5 +2,5 @@ collections:
   for-hims-and-csds-providers:
     output: true
     order:
-      - What Do We Need to Do.md
+      - What Do We Need to Know.md
       - Help & Resources.md
