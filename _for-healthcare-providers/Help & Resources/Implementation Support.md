@@ -68,3 +68,12 @@ whilst completing their digitisation journey. However, automatic data transmissi
 from a NEHR-compatible HIMS to NEHR remains the preferred long-term approach.</p>
 <h2>Starter Kit</h2>
 <p>[content to be updated after 2R]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Schedule_Pg_130_137_v3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Schedule_Pg_138_143_v3.png">
+</div>
+<p></p>
