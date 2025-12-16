@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<h2>Derived Information (For Research and Public Health)[RL10]</h2>
+<h2>Derived Information (For Research and Public Health)</h2>
 <p>&nbsp;Derived information is aggregated or anonymised data extracted from
 NEHR for research, public health, or policy purposes, distinct from regular
 NEHR access for patient care. It falls into two categories: Type 1 information
@@ -22,7 +22,7 @@ population-level data, undertaking quality improvement projects needing
 patient cohort data across multiple providers, participating in public
 health investigations, or engaging in health services planning. These uses
 extend beyond individual patient care and require analysis across multiple
-patients or healthcare encounters.[WP11]</p>
+patients or healthcare encounters.</p>
 <h2>Application Process and Restrictions</h2>
 <p>Submit an application to MOH specifying your intended purpose. MOH evaluates
 requests based on public interest and necessity. If approved, you must
