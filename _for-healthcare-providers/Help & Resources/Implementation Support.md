@@ -68,12 +68,31 @@ whilst completing their digitisation journey. However, automatic data transmissi
 from a NEHR-compatible HIMS to NEHR remains the preferred long-term approach.</p>
 <h2>Starter Kit</h2>
 <p>[content to be updated after 2R]</p>
+<h2>First Schedule</h2>
+<p>The table below sets out the specified contributors or classes of specified
+contributors who are required to contribute health information to NEHR,
+and the types of health information that each specified contributor or
+class of specified contributors must contribute under Part 1 of the First
+Schedule.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/First_Schedule_Table.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table</a>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Schedule_Pg_130_137_v3.png">
-</div>
+</li>
+</ul>
+<h2>Second Schedule</h2>
+<p>The table below sets out the specified users or classes of specified users
+who may access and collect accessible health information from NEHR, and
+the authorised individuals or classes of authorised individuals who may
+access and collect such information on behalf of each specified user or
+class of specified users under Part 1 of the Second Schedule.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Second_Schedule_Table__final_.pdf" rel="noopener nofollow" target="_blank">Second_Schedule_Table</a>
+<br>
+</p>
+</li>
+</ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Second_Schedule_Pg_138_143_v3.png">
-</div>
 <p></p>
