@@ -1,5 +1,5 @@
 collections:
-  for-hims-and-csds-providers:
+  for-hims-providers:
     output: true
     order:
       - What Do We Need to Know.md
