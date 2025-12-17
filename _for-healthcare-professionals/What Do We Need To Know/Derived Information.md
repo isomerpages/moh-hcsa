@@ -33,7 +33,6 @@ requests based on public interest and necessity. If approved, you must
 use the information only for approved purposes, cannot disclose it to others
 without MOH approval, must delete it after your purpose is fulfilled, and
 cannot attempt to re-identify individuals from anonymised data.</p>
-<p>&nbsp;</p>
 <p>Most clinical care activities don't require derived information—they're
 covered by your regular NEHR access rights. Derived information is specifically
 for research, surveillance, and policy purposes beyond direct patient care</p>
