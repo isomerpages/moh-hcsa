@@ -46,7 +46,6 @@ that require additional time to purchase or implement a HIMS, MOH is developing
 an alternative contribution channel to help them meet NEHR submission requirements
 whilst completing their digitisation journey. However, automatic data transmission
 from a NEHR-compatible HIMS to NEHR remains the preferred long-term approach.</p>
-<p></p>
 <h2>First Schedule</h2>
 <p>The table below sets out the specified contributors or classes of specified
 contributors who are required to contribute health information to NEHR,
