@@ -5,23 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
+<h2>Healthcare Providers</h2>
+<p>Healthcare providers include:</p>
+<p>• Healthcare Services Act (HCSA) Licensees</p>
+<p>- Public and Private hospitals</p>
+<p>- Outpatient medical and dental clinics</p>
+<p>- Clinical and radiological laboratories</p>
+<p>• Retail pharmacy licensees</p>
+<p>• Public agencies providing healthcare services (eg SAF and SCDF)</p>
 <h2>NEHR Contribution</h2>
-<p>[Executive Summary] Healthcare Providers will be required to ensure accurate,
-timely and complete contribution of health information to NEHR.</p>
-<p>[Starter Kit] All licensed healthcare providers — including private clinics,
-clinical laboratories, radiological services, and other MOH-licensed entities
-— will be required to contribute key health information to the National
-Electronic Health Record system (NEHR). These providers will also be granted
-NEHR access to support care continuity and patient safety.</p>
-<p>[GPC Deck] Key health information is contributed</p>
-<p>• HCSA licensees and retail pharmacy will be required to contribute key
-health information that provides clinical value for continuity of care
-to NEHR</p>
-<p>- These contributors are referred to as Specified Contributors; detailed
-in HIB’s First schedule</p>
-<p>Requirements for accurate contributions</p>
-<p>• Ensure accurate, timely and complete contribution of health information</p>
-<p>• Use of whitelisted NEHR-compatible system</p>
+<p>All licensed healthcare providers will be required to ensure accurate,
+timely and complete contribution of health information to the National
+Electronic Health Record system (NEHR). These contributors are referred
+to as “Specified Contributors”.</p>
 <h2>What Information Needs to Be Contributed to NEHR</h2>
 <p>The Bill will only require the contribution of key health information
 necessary for continuity of care across healthcare settings and healthcare
@@ -33,7 +29,7 @@ notes will not be contributed. Patient consent is not required.</p>
 with Foreign Identification Numbers (FIN) will need to be contributed.
 The contribution of health information of short-term visitors, such as
 tourists, would not be required.</p>
-<h2>NEHR Contribution Timelines</h2>
+<p>NEHR Contribution Timelines</p>
 <p>[To insert content]</p>
 <p></p>
 <p></p>
