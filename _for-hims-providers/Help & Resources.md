@@ -11,6 +11,6 @@ description: ""
 </p>
 </li>
 </ul>
-<h2>For Cyber &amp; Data Security (CSDS) Providers</h2>
+<h2></h2>
 <p></p>
 <p></p>
