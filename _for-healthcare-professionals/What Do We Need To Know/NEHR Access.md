@@ -10,7 +10,10 @@ third_nav_title: What Do We Need To Know
 conducting approved statutory medical examinations (list will be made available
 by MOH in due course).</p>
 <h2>When NEHR should not be accessed</h2>
-<p>NEHR should not be accessed for insurance- or employment- related purposes
+<p>NEHR should not be accessed for insurance or employment-related purposes
 unless they are related to an approved statutory medical examination. NEHR
-should also not be accessed for other non-patient care purposes such as
-research, audits, and teaching/education.</p>
+should not be accessed for other non-patient care purposes such as research,
+audits, and teaching/education. In general, healthcare providers should
+refer to their own medical records or obtain the required information from
+patients directly for non-patient care purposes.</p>
+<p></p>
