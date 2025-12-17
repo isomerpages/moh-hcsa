@@ -5,21 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<h2>Report An Incident</h2>
-<p>[Executive Summary] Notify MOH of confirmed cybersecurity incidents and
-data breaches in a timely manner.</p>
-<p>[Starter Kit] Healthcare providers are responsible for timely incident
-reporting to MOH. Prompt identification, assessment and reporting allow
-the healthcare provider to take swift action to mitigate potential harm
-and safeguard patient health information. Reporting also enables MOH to
-provide necessary guidance, investigate incident causes, and implement
-preventive measures across the healthcare sector.</p>
-<p>The Healthcare Information Act (HIA) mandates reporting of specified cybersecurity
-incidents and health data breaches.</p>
-<h2>Reporting Requirements</h2>
-<p>[To insert content]</p>
-<h2>Reporting Timelines</h2>
-<p>[To insert content]</p>
+<h2>What happens if you encounter a cybersecurity incident or a data breach?</h2>
+<p>The HIB will require healthcare providers report<strong> cybersecurity incidents or data breaches to MOH</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>An initial report of the confirmed cybersecurity incident or data breach
+must be provided to MOH&nbsp;<strong>within 2 hours</strong>.</p>
+</li>
+<li>
+<p>The detailed incident report must be submitted&nbsp;<strong>within 14 days</strong>.</p>
+</li>
+</ul>
+<p>The mandatory reporting of such incidents enables MOH to&nbsp;<strong>coordinate and respond to incidents that may adversely impact patient safety and privacy</strong>.
+It also allows MOH to spot patterns that&nbsp;<strong>signal a larger-scale attack&nbsp;</strong>and<strong>&nbsp;pre-emptively take action to protect the integrity</strong>&nbsp;of
+our healthcare system.</p>
+<p>Healthcare providers will also be required to<strong>&nbsp;notify the affected individuals in the event of a notifiable data breach that is likely to result in significant harm</strong>.</p>
+<p></p>
+<p></p>
 <h2>Reporting Forms</h2>
 <p>If you encounter any of the following incidents, please submit a report
 via the respective online reporting forms.</p>
