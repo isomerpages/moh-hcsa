@@ -20,8 +20,6 @@ must be provided to MOH&nbsp;<strong>within 2 hours</strong>.</p>
 It also allows MOH to spot patterns that&nbsp;<strong>signal a larger-scale attack&nbsp;</strong>and<strong>&nbsp;pre-emptively take action to protect the integrity</strong>&nbsp;of
 our healthcare system.</p>
 <p>Healthcare providers will also be required to<strong>&nbsp;notify the affected individuals in the event of a notifiable data breach that is likely to result in significant harm</strong>.</p>
-<p></p>
-<p></p>
 <h2>Reporting Forms</h2>
 <p>If you encounter any of the following incidents, please submit a report
 via the respective online reporting forms.</p>
