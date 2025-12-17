@@ -6,12 +6,11 @@ description: ""
 third_nav_title: What Do We Need To Know
 ---
 <h2>Adopt / Integrate Health Information Management System (HIMS) / IT Solution</h2>
-<p>[Executive Summary] Ensure a secure connection to NEHR by meeting minimum
-cyber and data security requirements</p>
-<p>[Starter Kit] Healthcare Services Act (HCSA) licensees and approved healthcare
-providers must use authorised systems to contribute data to the National
-Electronic Health Record system (NEHR).</p>
-<h2>Health Information Management Systems</h2>
+<p>Healthcare Services Act (HCSA) licensees and approved healthcare providers
+must use authorised systems to contribute data to the National Electronic
+Health Record system (NEHR) and ensure a secure connection to NEHR by meeting
+minimum cyber and data security requirements.</p>
+<h2>Health Information Management Systems (HIMS)</h2>
 <p>A Health Information Management System (HIMS) is a comprehensive digital
 platform designed to collect, store, manage, and exchange health-related
 data and information within healthcare organisations and across healthcare
@@ -20,8 +19,15 @@ Synapxe, the System Operator of NEHR, manages the qualification process
 for certifying HIMS for the purpose of HIA. These systems must meet rigorous
 criteria in three crucial areas: data quality, cybersecurity, and data
 security.</p>
-<h2>Outsourcing to HIMS &amp; CSDS Providers</h2>
-<p>[To insert content]</p>
+<h2>Selection of a NEHR-compatible Health Information Management System (HIMS)</h2>
+<p>i. If you are not digitalised (using paper records): You must adopt a
+HIB-compliant HIMS (whitelist will be published by MOH) to meet mandatory
+NEHR contribution requirement.</p>
+<p>ii. If you are digitalised but not connected to NEHR: Check if your HIMS
+vendor is in the whitelist. If yes, contact your HIMS vendor to initiate
+NEHR integration. If no, you can request your current vendor to get whitelisted
+(direct them to <a href="mailto:nehr.vendorengagement@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.vendorengagement@synapxe.sg</a>)
+or switch to a whitelisted HIMS vendor.</p>
 <h2>Liability for Data Breaches involving Health Information Management Systems (HIMS)</h2>
 <p>If licensed healthcare providers have exercised due diligence in choosing
 a whitelisted HIB-compliant HIMS and in maintaining appropriate cybersecurity
@@ -37,8 +43,4 @@ time to adopt support measures, in meeting the HIB requirements.</p>
 Providers are encouraged to verify their current HIMS compatibility with
 NEHR early and engage Synapxe for integration support if needed. For more
 information on NEHR integration and technical requirements, healthcare
-providers may reach out to Synapxe email at <a href="mailto:nehr.participation@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.participation@synapxe.sg</a>
-</p>
-<p></p>
-<h3></h3>
-<p></p>
+providers may reach out to Synapxe email at <a href="mailto:nehr.participation@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.participation@synapxe.sg</a>.</p>
