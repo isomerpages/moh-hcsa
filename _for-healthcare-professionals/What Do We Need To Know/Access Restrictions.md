@@ -9,8 +9,9 @@ third_nav_title: What Do We Need To Know
 <p>Individuals may limit access to NEHR to all or select healthcare providers.
 In such cases, only basic information (viz. allergies and vaccination records)
 will still be available to healthcare providers to support continuity of
-care. Doctors may also ‘break glass’ and override Access Restrictions during
-medical emergencies where they have judged that accessing NEHR is needed.</p>
+care.&nbsp;Doctors may also ‘break glass’ and override Access Restrictions
+during medical emergencies where they have judged that accessing NEHR is
+needed.</p>
 <h2>Understanding Patient Access Restrictions</h2>
 <p>Patients can restrict who accesses their NEHR information. When a patient
 imposes a full access restriction, most of their information will be hidden
@@ -25,9 +26,9 @@ particular purposes, or defined time periods.</p>
 <p>You may access restricted information only when the access is necessary
 to respond to an emergency that threatens the life or health of the patient,
 whether or not the patient consents or is able to consent to the access
-at that time.[WP4]&nbsp;[R(5] &nbsp;Certain information types prescribed
-by MOH may also be exempt from restrictions and remain accessible regardless
-of patient-imposed blocks.</p>
+at that time.&nbsp;Certain information types prescribed by MOH may also
+be exempt from restrictions and remain accessible regardless of patient-imposed
+blocks.</p>
 <h2>What You Cannot Do</h2>
 <p>You cannot access restricted information simply because a patient requests
 it—patient consent does not override formally imposed restrictions. Similarly,
@@ -39,4 +40,5 @@ specific emergency override criteria.</p>
 lacking mental capacity, court-appointed deputies or legal representatives
 can request restrictions on their behalf. Restrictions take effect once
 Synapxe processes them and apply to all subsequent access attempts until
-modified or removed by the patient.</p>
+modified or removed by the patient</p>
+<p></p>
