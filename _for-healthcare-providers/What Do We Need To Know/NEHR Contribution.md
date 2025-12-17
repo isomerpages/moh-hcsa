@@ -29,7 +29,6 @@ notes will not be contributed. Patient consent is not required.</p>
 with Foreign Identification Numbers (FIN) will need to be contributed.
 The contribution of health information of short-term visitors, such as
 tourists, would not be required.</p>
-<p>NEHR Contribution Timelines</p>
-<p>[To insert content]</p>
+<p></p>
 <p></p>
 <p></p>
