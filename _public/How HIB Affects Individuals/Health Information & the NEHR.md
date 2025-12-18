@@ -34,7 +34,7 @@ in NEHR before determining the course of treatment.</p>
 </p>
 <p><em>Some health information is best discussed directly with your healthcare provider, who can explain your results in context and answer your questions.</em>
 </p>
-<p><em>MOH is actively working to make more health information available to patients through HealthHub. If you have questions about your health information, please speak with your healthcare provider.</em>
+<p><em>MOH is actively working to make more health information available to individuals through HealthHub. If you have questions about your health information, please speak with your healthcare provider.</em>
 </p>
 <h2>What does mandatory contribution to NEHR mean?</h2>
 <p>The HIB will require all licensed healthcare providers and MOH-approved
