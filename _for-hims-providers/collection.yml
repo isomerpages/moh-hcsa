@@ -2,6 +2,7 @@ collections:
   for-hims-providers:
     output: true
     order:
+      - What Do We Need to Know/Roles & Responsibilities.md
       - What Do We Need to Know/Health Information Management Systems (HIMS).md
       - What Do We Need to Know/.keep
       - Help & Resources.md
