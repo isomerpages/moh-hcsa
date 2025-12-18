@@ -1,5 +1,5 @@
 collections:
-  for-hims-providers:
+  health-info-mgmt-sys-providers:
     output: true
     order:
       - What Do We Need to Know/.keep
