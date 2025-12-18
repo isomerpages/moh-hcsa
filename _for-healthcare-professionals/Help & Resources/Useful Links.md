@@ -42,10 +42,6 @@ related to the Health Information Bill.</p>
 <p><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.csa.gov.sg/Explore/who-we-are/our-identity/about-singcert/resources" rel="noopener noreferrer nofollow" target="_blank">Singapore Community Emergency Response Team (SingCERT)</a>
-</p>
-</li>
 </ul>
 <h1>Personal Data Protection Commission (PDPC) Resources</h1>
 <ul data-tight="true" class="tight">
