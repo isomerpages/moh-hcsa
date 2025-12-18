@@ -21,7 +21,7 @@ sections:
           url: /for-healthcare-providers/what-do-we-need-to-know/nehr-contribution/
         - title: For Healthcare Professionals
           description: ""
-          url: /for-healthcare-professionals/what-hib-means-obligations/
+          url: /for-healthcare-professionals/what-do-we-need-to-know/nehr-access/
         - title: For Health Information Management Systems Providers
           description: ""
           url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/health-information-management-systems/
