@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<h2>Adopt / Integrate Health Information Management System (HIMS) / IT Solution</h2>
+<h2>Adopt / Integrate Health Information Management Systems (HIMS) / IT Solutions</h2>
 <p>Healthcare Services Act (HCSA) licensees and approved healthcare providers
 must use <strong>authorised systems</strong> to contribute data to the National
 Electronic Health Record system (NEHR) and ensure a secure connection to
