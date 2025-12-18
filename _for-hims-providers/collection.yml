@@ -2,6 +2,7 @@ collections:
   for-hims-providers:
     output: true
     order:
+      - Help & Resources/Help & Resources.md
       - Help & Resources/.keep
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Health Information Management Systems (HIMS).md
