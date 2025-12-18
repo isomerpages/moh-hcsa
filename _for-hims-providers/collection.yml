@@ -2,5 +2,6 @@ collections:
   for-hims-providers:
     output: true
     order:
+      - What Do We Need to Know/What Do We Need to Know.md
       - What Do We Need to Know/.keep
       - Help & Resources.md
