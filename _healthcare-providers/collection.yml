@@ -1,5 +1,5 @@
 collections:
-  for-healthcare-providers:
+  healthcare-providers:
     output: true
     order:
       - What Do We Need To Know/.keep
