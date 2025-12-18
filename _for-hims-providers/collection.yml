@@ -2,10 +2,10 @@ collections:
   for-hims-providers:
     output: true
     order:
-      - Help & Resources/Enquiries & Feedback.md
-      - Help & Resources/Useful Links.md
-      - Help & Resources/MOH Guidelines & Circulars.md
       - Help & Resources/.keep
+      - Help & Resources/MOH Guidelines & Circulars.md
+      - Help & Resources/Useful Links.md
+      - Help & Resources/Enquiries & Feedback.md
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Health Information Management Systems (HIMS).md
       - What Do We Need to Know/Roles & Responsibilities.md
