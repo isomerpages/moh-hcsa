@@ -66,7 +66,7 @@ sections:
         - title: For Health Info Management Systems Providers
           description: ""
           linktext: Learn more
-          url: /for-hims-and-csds-providers/help-and-resources/
+          url: /for-health-info-mgmt-sys-providers/moh-guidelines-and-circulars/
   - announcements:
       title: Announcements
       id: announcements
