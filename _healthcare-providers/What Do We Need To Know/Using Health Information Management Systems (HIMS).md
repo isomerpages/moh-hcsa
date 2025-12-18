@@ -7,9 +7,9 @@ third_nav_title: What Do We Need To Know
 ---
 <h2>Adopt / Integrate Health Information Management System (HIMS) / IT Solution</h2>
 <p>Healthcare Services Act (HCSA) licensees and approved healthcare providers
-must use authorised systems to contribute data to the National Electronic
-Health Record system (NEHR) and ensure a secure connection to NEHR by meeting
-minimum cyber and data security requirements.</p>
+must use <strong>authorised systems</strong> to contribute data to the National
+Electronic Health Record system (NEHR) and ensure a secure connection to
+NEHR by meeting minimum cyber and data security requirements.</p>
 <h2>Health Information Management Systems (HIMS)</h2>
 <p>A Health Information Management System (HIMS) is a comprehensive digital
 platform designed to collect, store, manage, and exchange health-related
