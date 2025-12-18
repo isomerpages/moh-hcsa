@@ -27,6 +27,15 @@ are types of health information that will be contributed to the NEHR. There
 may be occasions where you may not recall the type of medications you are
 on, or the tests already done, and your doctor can access the information
 in NEHR before determining the course of treatment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_HIMS_to_NEHR_to_HH.png">
+</div>
+<p><em>Note: The NEHR contains key health information such as diagnoses, medications, test results, and procedures to support coordinated care. Daily consultation notes are not contributed, as these often contain professional communications between providers with technical medical terminology that may be confusing or lead to misunderstandings.</em>
+</p>
+<p><em>Some health information is best discussed directly with your healthcare provider, who can explain your results in context and answer your questions.</em>
+</p>
+<p><em>MOH is actively working to make more health information available to patients through HealthHub. If you have questions about your health information, please speak with your healthcare provider.</em>
+</p>
 <h2>What does mandatory contribution to NEHR mean?</h2>
 <p>The HIB will require all licensed healthcare providers and MOH-approved
 care providers (such as retail pharmacies) to contribute data to NEHR.
