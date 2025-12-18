@@ -2,8 +2,8 @@ logo: /images/moh_logo.png
 links:
   - title: Overview
     collection: overview
-  - title: For Public
-    collection: for-public
+  - title: Public
+    collection: public
   - title: For Healthcare Providers
     collection: for-healthcare-providers
   - title: Healthcare Professionals
