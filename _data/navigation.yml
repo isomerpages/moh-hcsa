@@ -4,8 +4,8 @@ links:
     collection: overview
   - title: Public
     collection: public
-  - title: For Healthcare Providers
-    collection: for-healthcare-providers
+  - title: Healthcare Providers
+    collection: healthcare-providers
   - title: Healthcare Professionals
     collection: healthcare-professionals
   - title: Health Info Mgmt Sys Providers
