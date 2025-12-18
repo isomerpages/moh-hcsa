@@ -1,5 +1,5 @@
 collections:
-  for-public:
+  public:
     output: true
     order:
       - How HIB Affects Individuals/.keep
