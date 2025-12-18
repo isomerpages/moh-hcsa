@@ -12,3 +12,6 @@ links:
     collection: health-info-mgmt-sys-providers
   - title: News & Events
     collection: news-and-events
+  - title: Health Info Mgmt Sys Providers
+    url: /permalink
+    sublinks: []
