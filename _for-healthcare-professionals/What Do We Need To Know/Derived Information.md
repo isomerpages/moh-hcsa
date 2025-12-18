@@ -9,12 +9,15 @@ third_nav_title: What Do We Need To Know
 <p>Derived information is aggregated or anonymised data extracted from NEHR
 for research, public health, or policy purposes, distinct from regular
 NEHR access for patient care. It falls into two categories:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Type 1: &nbsp;information that can
-identify individuals</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Type 2: &nbsp;aggregated or
-anonymised information that cannot identify individuals.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Type 1: &nbsp;information that can identify individuals</p>
+</li>
+<li>
+<p>Type 2: &nbsp;aggregated or anonymised information that cannot identify
+individuals</p>
+</li>
+</ul>
 <h2>Who Can Access Derived Information</h2>
 <p>Only MOH-approved organisations can access derived information through
 a separate application process. This access is granted specifically for
