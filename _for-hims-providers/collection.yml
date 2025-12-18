@@ -2,6 +2,7 @@ collections:
   for-hims-providers:
     output: true
     order:
+      - Help & Resources/Useful Links.md
       - Help & Resources/MOH Guidelines & Circulars.md
       - Help & Resources/.keep
       - What Do We Need to Know/.keep
