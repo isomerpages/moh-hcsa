@@ -63,7 +63,7 @@ sections:
           description: ""
           linktext: Learn more
           url: /for-healthcare-professionals/help-and-resources/guidelines/
-        - title: For HIMS & CSDS Providers
+        - title: For Health Info Management Systems Providers
           description: ""
           linktext: Learn more
           url: /for-hims-and-csds-providers/help-and-resources/
