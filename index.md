@@ -29,7 +29,7 @@ sections:
       title: One Patient, One Health Record
       id: infopic
       alt: Image alt text
-      image: /images/Homepage___One_Patient_One_Health_Record.png
+      image: /images/Homepage_one_patient_one_health_record.png
       description: Under HIB, patients will have a unified health record for better
         care continuity & to protect patient welfare
   - infopic:
@@ -39,14 +39,14 @@ sections:
         have access to NEHR, aligning with global best practices for seamless
         information sharing
       alt: Image alt text
-      image: /images/Homepage___Adopting_Best_Practices.png
+      image: /images/Homepage___Adopting_Best_Practices__1_.png
   - infopic:
       title: Robust Safeguards
       id: infopic
       description: Strict safeguards are in place to protect patients’ health
         information, including access and cybersecurity requirements
       alt: Image alt text
-      image: /images/Homepage___Robust_Safeguards.png
+      image: /images/HIB_Isomer_Graphics__4_.png
   - textcards:
       title: Help & Resources
       id: textcards
