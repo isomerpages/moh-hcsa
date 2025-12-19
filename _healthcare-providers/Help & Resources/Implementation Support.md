@@ -56,6 +56,10 @@ Schedule.</p>
 <li>
 <p><a href="/files/First_Schedule_Table.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table</a>
 </p>
+</li>
+<li>
+<p><a href="/files/First_Schedule_Pg_130_137_v4__poppins__with_comment.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table_with_Definitions</a>
+</p>
 <p></p>
 </li>
 </ul>
