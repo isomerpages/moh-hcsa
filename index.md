@@ -24,7 +24,7 @@ sections:
           url: /for-healthcare-professionals/what-do-we-need-to-know/key-responsibilities/
         - title: For Health Information Management Systems Providers
           description: ""
-          url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/health-information-management-systems/
+          url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/key-responsibilities/
   - infopic:
       title: One Patient, One Health Record
       id: infopic
