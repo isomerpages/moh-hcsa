@@ -28,6 +28,15 @@ vendor is in the whitelist. If yes, contact your HIMS vendor to initiate
 NEHR integration. If no, you can request your current vendor to get whitelisted
 (direct them to <a href="mailto:nehr.vendorengagement@synapxe.sg" rel="noopener noreferrer nofollow" target="_blank">nehr.vendorengagement@synapxe.sg</a>)
 or switch to a whitelisted HIMS vendor.</p>
+<h2>Cybersecurity &amp; data security standards</h2>
+<p>HIB sets out the cybersecurity and data security standards that will be
+imposed on healthcare providers if they contribute to or access NEHR or
+share data under the HIB.</p>
+<p>This&nbsp;<strong>ensures the safe and secure handling of health information</strong>.
+HIMS vendors that support healthcare providers to access or contribute
+data to NEHR will also need to meet cybersecurity and data security standards.</p>
+<p>MOH will also&nbsp;<strong>conduct audits</strong>&nbsp;to ensure that
+healthcare providers have fulfilled the security measures.</p>
 <h2>Liability for Data Breaches involving Health Information Management Systems (HIMS)</h2>
 <p>If licensed healthcare providers have exercised due diligence in choosing
 a whitelisted HIB-compliant HIMS and in maintaining appropriate cybersecurity
