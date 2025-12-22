@@ -54,7 +54,7 @@ class of specified contributors must contribute under Part 1 of the First
 Schedule.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/First_Schedule_Pg_130_137_v4__poppins__with_comment.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table_with_Definitions</a>
+<p><a href="/files/First_Schedule_v4_poppins_with_definitions__first_draft_.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table_with_Definitions</a>
 </p>
 <p></p>
 </li>
@@ -67,7 +67,7 @@ access and collect such information on behalf of each specified user or
 class of specified users under Part 1 of the Second Schedule.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Second_Schedule_Table__final_.pdf" rel="noopener nofollow" target="_blank">Second_Schedule_Table</a>
+<p><a href="/files/Second_Schedule_v4__poppins__with_definitions__first_draft_.pdf" rel="noopener nofollow" target="_blank">Second_Schedule_Table_with_Definitions</a>
 <br>
 </p>
 </li>
