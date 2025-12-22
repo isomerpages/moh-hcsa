@@ -42,5 +42,8 @@ to assist healthcare providers in meeting these requirements.</p>
 and data breaches in a timely manner. Prompt reporting enables swift action
 to mitigate risks and protect patient information.</p>
 <h3>Medico-legal Guidance</h3>
-<h3>MOH will provide clarity on the medico-legal obligations related to contributing to, accessing, and sharing health information through NEHR. This guidance will address concerns raised by healthcare providers regarding their legal responsibilities.</h3>
+<p>MOH will provide clarity on the medico-legal obligations related to contributing
+to, accessing, and sharing health information through NEHR. This guidance
+will address concerns raised by healthcare providers regarding their legal
+responsibilities.</p>
 <p></p>
