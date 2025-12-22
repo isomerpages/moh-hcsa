@@ -77,6 +77,11 @@ class of specified users under Part 1 of the Second Schedule.</p>
 are carried out for the purposes of section 19(3), organised by category.
 Each written law listed authorises specific types of examinations that
 may require access to health information from NEHR under the Third Schedule.</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Third_Schedule_Draft_1.pdf" rel="noopener nofollow" target="_blank">Third_Schedule</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
