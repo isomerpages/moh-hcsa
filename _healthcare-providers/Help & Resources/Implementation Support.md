@@ -54,10 +54,6 @@ class of specified contributors must contribute under Part 1 of the First
 Schedule.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/First_Schedule_Table.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table</a>
-</p>
-</li>
-<li>
 <p><a href="/files/First_Schedule_Pg_130_137_v4__poppins__with_comment.pdf" rel="noopener nofollow" target="_blank">First_Schedule_Table_with_Definitions</a>
 </p>
 <p></p>
