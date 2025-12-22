@@ -18,7 +18,7 @@ sections:
           url: /for-public/how-hib-affects-individuals/health-information-and-the-nehr/
         - title: For Healthcare Providers
           description: ""
-          url: /for-healthcare-providers/what-do-we-need-to-know/nehr-contribution/
+          url: /for-healthcare-providers/what-do-we-need-to-know/key-responsibilities/
         - title: For Healthcare Professionals
           description: ""
           url: /for-healthcare-professionals/what-do-we-need-to-know/nehr-access/
