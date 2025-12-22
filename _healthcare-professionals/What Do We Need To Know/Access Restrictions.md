@@ -5,13 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<h2>Access Restrictions</h2>
-<p>Individuals may limit access to NEHR to all or select healthcare providers.
-In such cases, only basic information (viz. allergies and vaccination records)
-will still be available to healthcare providers to support continuity of
-care.&nbsp;Doctors may also ‘break glass’ and override Access Restrictions
-during medical emergencies where they have judged that accessing NEHR is
-needed.</p>
 <h2>Understanding Patient Access Restrictions</h2>
 <p>Patients can restrict who accesses their NEHR information. When a patient
 imposes a full access restriction, most of their information will be hidden
