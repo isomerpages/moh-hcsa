@@ -5,6 +5,30 @@ variant: tiptap
 description: ""
 third_nav_title: Safeguards under HIB
 ---
+<h2>Individuals’ NEHR information will be strongly safeguarded</h2>
+<h3>User controls</h3>
+<p><strong>Only authorised users</strong> can access NEHR for <strong>specific purposes</strong>:</p>
+<p>i. the <strong>provision of patient care</strong> e.g. doctor providing
+medical care to a patient with flu</p>
+<p>ii. <strong>community health services</strong> e.g. coordination of care
+in the community</p>
+<p>iii. any <strong>public health purpose</strong> approved by MOH e.g. disease
+surveillance</p>
+<p>NEHR <strong>cannot be accessed</strong> for:</p>
+<p>i. <strong>employment purposes</strong> e.g. pre-employment medical screenings</p>
+<p>ii. <strong>insurance-related purposes</strong> e.g. medical assessments
+for insurance applications</p>
+<p><em>Except for statutory medical examinations listed in HIB.</em>
+</p>
+<h3>Technical and System Controls</h3>
+<p>Access limited to <strong>data types required for user’s clinical duties</strong>
+</p>
+<p>-E.g. Retail pharmacists do not have access to radiological images</p>
+<p>•<strong>Built-in technical controls</strong> limit access to <strong>individuals registered</strong> in
+healthcare providers’ care only limit inappropriate access e.g. multiple/bulk
+searches</p>
+<p>•<strong>Regular backend audits</strong> (e.g.of access logs) are performed
+to flag inappropriate access for review</p>
 <h2>How we prevent improper access and use of NEHR information</h2>
 <p>The HIB also has safeguards in place to govern the safe access, collection
 and use of NEHR information. These safeguards include:</p>
