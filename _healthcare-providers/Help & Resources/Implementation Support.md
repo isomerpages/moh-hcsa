@@ -10,7 +10,7 @@ third_nav_title: Help & Resources
 security requirements</p>
 <p>• Alternate contribution channel to support pen-and-paper clinics</p>
 <p>• Whitelist of CSDS service providers to work with</p>
-<p>• CSDS self-assessment tool and courses with local training provides</p>
+<p>• CSDS self-assessment tool and courses with local training providers</p>
 <h2>Funding Support</h2>
 <p>• HIB support packages to defray NEHR onboarding and CSDS implementation
 costs</p>
