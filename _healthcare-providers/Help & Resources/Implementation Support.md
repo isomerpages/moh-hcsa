@@ -5,6 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
+<h2>Implementation Support</h2>
+<p>• Whitelist of NEHR-compatible systems that meet HIB's cyber and data
+security requirements</p>
+<p>• Alternate contribution channel to support pen-and-paper clinics</p>
+<p>• Whitelist of CSDS service providers to work with</p>
+<p>• CSDS self-assessment tool and courses with local training provides</p>
+<h2>Funding Support</h2>
+<p>• HIB support packages to defray NEHR onboarding and CSDS implementation
+costs</p>
+<p>• Leverage existing funding sources for healthcare providers</p>
+<p>Given the range of support measures available, healthcare providers will
+only need to ensure their in-clinic security measures are adequate e.g.
+training staff on the appropriate use of NEHR</p>
+<p></p>
 <h2>NEHR-compatible Systems</h2>
 <p>[Whitelist of NEHR-compatible systems that meet HIB's cyber and data security
 requirements]</p>
