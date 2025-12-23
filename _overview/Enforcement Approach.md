@@ -4,7 +4,8 @@ permalink: /enforcement-approach/
 variant: tiptap
 description: ""
 ---
-<h2>MOH will take a calibrated approach toward enforcement, enabled by a range of levers in HIB</h2>
+<h2>Enforcement Approach</h2>
+<h3>MOH will take a calibrated approach toward enforcement, enabled by a range of levers in HIB</h3>
 <p>1. MOH will work with healthcare providers to resolve non-compliance (e.g.
 technical challenges leading to non-contribution; log-in using wrong account)</p>
 <p>2. If necessary, MOH may issue directions to require the healthcare provider
@@ -17,4 +18,5 @@ to directions.</p>
 <p>4. For persistent or deliberate non-compliance, we will prosecute.</p>
 <p>Penalties calibrated based on nature and impact of offence (see Annex
 C)</p>
+<h3></h3>
 <p></p>
