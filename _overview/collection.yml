@@ -2,8 +2,8 @@ collections:
   overview:
     output: true
     order:
-      - A Community for Health.md
       - Introduction to HIB.md
       - Objectives of HIB.md
+      - A Community for Health.md
       - Enforcement Approach.md
       - Responding to Threats.md
