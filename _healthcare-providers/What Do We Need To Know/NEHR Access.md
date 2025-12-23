@@ -35,8 +35,5 @@ NEHR e.g. training Authorised Individuals on when access is allowed</p>
 only accessing NEHR of individuals they provide care to</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Comply with MOH’s directions</strong> e.g.
 to delete or destroy copies of NEHR information in their possession</p>
-<p>*<strong>Non-compliance with is punishable </strong>up to $50,000 and/or
-2 years’ imprisonment → Penalty <strong>doubled </strong>if (i) it is a <strong>repeat offence</strong>,
-(ii) NEHR was <strong>accessed for employment/insurance purposes </strong>or
-(iii) an <strong>unauthorised person </strong>accessed NEHR</p>
+<p></p>
 <p></p>
