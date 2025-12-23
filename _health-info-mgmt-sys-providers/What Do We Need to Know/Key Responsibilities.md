@@ -6,6 +6,15 @@ description: ""
 third_nav_title: What Do We Need to Know
 ---
 <h2>Key Responsibilities of Health Information Management Systems (HIMS) Providers</h2>
+<h3>System Integration Standards</h3>
+<p>Ensure systems meet NEHR compatibility requirements for data quality,
+cybersecurity, and data security.</p>
+<h3>Access Control</h3>
+<p>Ensure only your authorized staff can access NEHR information through
+their systems.</p>
+<h3>Contribution Facilitation</h3>
+<p>Transmit their health information to NEHR accurately and on time in the
+correct format.</p>
 <h3>Data Security</h3>
 <p>Secure health information within their possession or under their control
 from unauthorised access or disclosure.</p>
@@ -13,11 +22,13 @@ from unauthorised access or disclosure.</p>
 <p>Dispose of all records containing health information properly, once the
 healthcare provider no longer has any legal or business requirements to
 retain it.</p>
-<h3>Incident Notification</h3>
+<h3>Incident Notification </h3>
 <p>Promptly notify affected healthcare providers of any notifiable cybersecurity
 incident or data breaches</p>
-<h3>Data Portability</h3>
+<h3>Data Portability </h3>
 <p>Maintain health information such that the information can be easily transferred
 if the healthcare provider decides to switch to another vendor. (As per
-the Code of Practice (COP) on Data Portabiliy for HIMS Vendors)</p>
+the Code of Practice (COP) on Data Portabiliy for HIMS Vendors) Information
+must be structured, commonly used, and machine-readable.</p>
+<p></p>
 <p></p>
