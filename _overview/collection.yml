@@ -2,5 +2,6 @@ collections:
   overview:
     output: true
     order:
+      - Enforcement Approach.md
       - Introduction to HIB.md
       - Objectives of HIB.md
