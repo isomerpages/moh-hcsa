@@ -26,7 +26,7 @@ sections:
           description: ""
           url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/key-responsibilities/
   - infopic:
-      title: One Patient, One Health Record
+      title: One Patient, One Health Record, One Care Journey
       id: infopic
       alt: Image alt text
       image: /images/Homepage___One_Patient_One_Health_Record.png
