@@ -50,7 +50,7 @@ description: ""
 <p>[Placeholder]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minister Ong</p>
+<p>Minister for Health, Ong Ye Kung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Placeholder: Speech by Minister Ong]</p>
