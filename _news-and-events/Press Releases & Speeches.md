@@ -36,24 +36,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>xxx</p>
+<p>[Placeholder]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMS Tan</p>
+<p>Senior Minister of State (SMS) for Health, Tan Kiat How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opening Address by SMS Tan</p>
+<p>[Placeholder: Opening Address by SMS Tan]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>xxx</p>
+<p>[Placeholder]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minister Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Speech by Minister Ong</p>
+<p>[Placeholder: Speech by Minister Ong]</p>
 </td>
 </tr>
 </tbody>
