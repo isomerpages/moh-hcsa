@@ -25,10 +25,8 @@ view a basic set of health information for patient safety purposes, including:</
 </ul>
 <p>This subset helps reduce risks of inappropriate prescriptions or immunisations
 when patients visit new healthcare providers.</p>
-<p>Emergency Access ("Break-Glass")</p>
-<p>During medical emergencies that threaten patient life or health, healthcare
-providers may override access restrictions through a "break-glass" feature.
-This emergency access is subject to strict controls:</p>
+<h2>Emergency Access ("Break-Glass")</h2>
+<h2>During medical emergencies that threaten patient life or health, healthcare providers may override access restrictions through a "break-glass" feature. This emergency access is subject to strict controls:</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Only doctors can override restrictions</p>
