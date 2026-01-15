@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Cyber &amp; Data Security Essentials</h2>
+<h2>Cybersecurity &amp; Data Security (CSDS) Essentials</h2>
 <p>This infographic provides an overview of the cyber and data security requirements
 while the HIA CSDS Guidelines (Dec 2023) for Service Providers are being
 revised. The revised requirements will align with CSA’s Cyber Essentials
