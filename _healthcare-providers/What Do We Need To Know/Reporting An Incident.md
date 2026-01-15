@@ -62,12 +62,9 @@ can respond swiftly.</p>
 <p><strong>2.&nbsp;Confirm and Contain</strong>
 </p>
 <p>Once investigation confirms an incident has occurred:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secure
-systems and limit further exposure</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assess
-the extent of the incident</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determine
-whether it meets the criteria for notifiable incidents to MOH</p>
+<p>Secure systems and limit further exposure</p>
+<p>Assess the extent of the incident</p>
+<p>Determine whether it meets the criteria for notifiable incidents to MOH</p>
 <p><strong>3.&nbsp;Report to MOH</strong>
 </p>
 <p>If the incident is assessed to be notifiable, submit initial notification
