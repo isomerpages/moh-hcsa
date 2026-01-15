@@ -2,12 +2,12 @@ collections:
   healthcare-providers:
     output: true
     order:
-      - What Do We Need To Know/Cybersecurity & Data Security (CSDS) Standards.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/Introduction.md
       - What Do We Need To Know/Using Health Information Management Systems
         (HIMS).md
       - What Do We Need To Know/NEHR Contribution.md
+      - What Do We Need To Know/Cybersecurity & Data Security (CSDS) Standards.md
       - What Do We Need To Know/Data Migration.md
       - What Do We Need To Know/Reporting An Incident.md
       - Help & Resources/.keep
