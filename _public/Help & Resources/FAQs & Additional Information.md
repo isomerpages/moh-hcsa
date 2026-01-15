@@ -31,4 +31,4 @@ your healthcare and benefit from the improved services available to you.</p>
 </p>
 </li>
 </ul>
-<p>[To be updated after 2R]</p>
+<p></p>
