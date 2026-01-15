@@ -5,12 +5,28 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Feedback topics</h2>
-<h3>Health Information Bill (HIB) Matters</h3>
-<p>If you have any queries or feedback regarding the <strong>Health Information Bill (HIB)</strong>,
-please fill up this <a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">online form.</a>
+<h2>Feedback Form Submission</h2>
+<p>If you have any feedback or enquiries regarding the following topics,
+please select the relevant forms linked below:</p>
+<h3>Health Information Act (HIA)</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/hia-enquiries" rel="noopener nofollow" target="_blank">HIA-related feedback or enquiries</a>
 </p>
-<h3>Hospital/Polyclinic Matters</h3>
+</li>
+</ul>
+<h3>General &amp; Non-HIA related</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/682467b0d5480314912145ab" rel="noopener noreferrer nofollow" target="_blank">MOH-related feedback or enquiries</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/vifapcovid" rel="noopener noreferrer nofollow" target="_blank">Vaccine Injury Financial Assistance Programme for COVID-19 Vaccination Application Form</a>
+</p>
+</li>
+</ul>
+<h2>Hospital/Polyclinic Matters</h2>
 <p><strong>Step 1: </strong>Read the <a href="https://www.moh.gov.sg/others/inquiries-and-complaints-guide/" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener noreferrer nofollow" target="_blank">Inquiries and Complaints Guide</a> which
 better assures you that your concern or complaint will reach the right
 service provider.</p>
@@ -41,10 +57,9 @@ and select the relevant hospital/polyclinic.
 <br>
 <br><strong>b) <a href="https://www.nuh.com.sg/about-nuh/contact-nuh" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">National University Hospital (NUH)</a> and <a href="https://www.nup.com.sg/Pages/NUi-wbnt-to/oivu-feedoacktcomtlime/e-feedbck-form" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">NUH Polyclinics</a></strong>
 <br>
-<br><strong>c) <a href="https://www.singhealth.com.sg/feedback" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">SingHealth Hospitals</a> and </strong>
-<a href="https://polyclinic.singhealth.com.sg/clinic-visit/give-feedback" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">SingHealth Polyclinics</a>
+<br><strong>c) <a href="https://www.singhealth.com.sg/feedback" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">SingHealth Hospitals</a> and <a href="https://polyclinic.singhealth.com.sg/clinic-visit/give-feedback" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">SingHealth Polyclinics</a></strong>
 </p>
-<h3>Regulatory and Compliance Matters</h3>
+<h2>Regulatory and Compliance Matters</h2>
 <p><strong>Step 1</strong>: If you are not satisfied with your service provider’s
 reply, concerning regulatory or compliance matters, you can write to the
 MOH, Singapore Medical Council (SMC), Singapore Nursing Board (SNB), Singapore
@@ -62,18 +77,6 @@ investigate and respond to your concerns.</p>
 </li>
 <li>
 <p><a href="mailto:sdc@spb.gov.sg" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">SDC</a>
-</p>
-</li>
-</ul>
-<h2>Feedback form submission</h2>
-<p>Please select the relevant form/category below:</p>
-<ul>
-<li>
-<p><a href="https://form.gov.sg/682467b0d5480314912145ab" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">MOH-related feedback or enquiries</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/vifapcovid" class="focus-visible:bg-utility-highlight focus-visible:text-base-content-strong focus-visible:decoration-transparent focus-visible:shadow-focus-visible focus-visible:outline-0 focus-visible:transition-none focus-visible:hover:decoration-transparent outline-none outline-0" rel="noopener nofollow" target="_blank">Vaccine Injury Financial Assistance Programme for COVID-19 Vaccination Application Form</a>
 </p>
 </li>
 </ul>
