@@ -5,63 +5,56 @@ variant: tiptap
 description: ""
 third_nav_title: Safeguards & Controls
 ---
-<h2>Access Restrictions</h2>
-<p>Individuals may limit access to NEHR to all or select healthcare providers.
-In such cases, only basic information (viz. allergies and vaccination records)
-will still be available to healthcare providers to support continuity of
-care.&nbsp;Doctors may also ‘break glass’ and override Access Restrictions
-during medical emergencies where they have judged that accessing NEHR is
-needed.</p>
-<h2>Can access to or sharing of NEHR be refused/denied?</h2>
-<p>If you do not want any healthcare professional to access your health record,&nbsp;<strong>you can choose to restrict access to your NEHR</strong>.
-Once access is restricted,&nbsp;<strong>healthcare professionals must not access your NEHR even for care purposes</strong>.
-You can already restrict such access to NEHR today by opting out of sharing
-through the NEHR.</p>
-<p>Under the proposed HIB in future, MOH will refine the access restriction
-regime to enable greater autonomy and enhance patient safety:</p>
+<p>Patients can restrict access to their NEHR information, allowing only
+selected healthcare providers to access their records. This Access Restriction
+feature is similar to approaches adopted by Australia, Estonia and Hong
+Kong.</p>
+<p>Currently, patients can submit access restriction requests at public healthcare
+institutions. From the second half of 2026, this will be available through
+the HealthHub app with enhanced access controls under the HIA.</p>
+<h2>What Remains Accessible</h2>
+<p>Even with access restrictions in place, healthcare providers can still
+view a basic set of health information for patient safety purposes, including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We will enable patients to
-select the healthcare providers who can access their NEHR information.</p>
+<p>Critical allergies and vaccination information</p>
+</li>
+<li>
+<p>Name, NRIC or FIN, date of birth, race and gender</p>
 </li>
 </ul>
+<p>This subset helps reduce risks of inappropriate prescriptions or immunisations
+when patients visit new healthcare providers.</p>
+<p>Emergency Access ("Break-Glass")</p>
+<p>During medical emergencies that threaten patient life or health, healthcare
+providers may override access restrictions through a "break-glass" feature.
+This emergency access is subject to strict controls:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A basic set of health information
-(i.e. allergies, vaccination records, together with key demographic information
-i.e. name, NRIC or FIN, date of birth, race and gender) will remain accessible
-to healthcare providers even if an access restriction is in place. These
-are essential health information for patient safety purposes and will be
-available to the attending medical team to ensure safe care.</p>
+<p>Only doctors can override restrictions</p>
 </li>
 <li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the event of a medical emergency
-that threatens the life or health of the patient, healthcare providers
-may override access restrictions. This enhances speed and quality of care,
-which is critical during medical emergencies. It is also a feature in jurisdictions
-such as Finland, Australia and Hong Kong which have national health repositories
-similar to NEHR. &nbsp;</p>
+<p>Doctors must re-verify credentials and declare a medical emergency before
+accessing</p>
+</li>
+<li>
+<p>Every override instance is subject to audits</p>
 </li>
 </ul>
-<p>The enhanced access controls will be made available on the HealthHub application
-in the second half of 2026.</p>
-<p>MOH will audit cases where your access restriction is overridden&nbsp;by
-the healthcare professional. Healthcare professionals who inappropriately
-override access restrictions to NEHR may be subject to legal penalties
-under the HIB and disciplinary action from the respective professional
-bodies, such as the Singapore Medical Council.</p>
-<h2>What happens after an access restriction is placed?</h2>
-<p>If you restrict access to your NEHR, your doctor will not be able to access
-them, even to provide care to you.</p>
-<p>While healthcare professionals will be blocked from accessing your NEHR,
-the background&nbsp;contribution of selected health information to NEHR
-will continue. This ensures that there will be&nbsp;no gaps in your NEHR&nbsp;if
-you choose to remove the access restriction in future.</p>
-<p>Additionally, this ensures that you will receive appropriate care during
-emergency situations when there is a need to override the restrictions.</p>
-<p>Today, you can already check the NEHR Access History in HealthHub, to
-see if your NEHR have been accessed.</p>
-<p>If you wish to restrict access, more details on the opt-out process is
-available in the <strong><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs by Synapxe.</a></strong>
-</p>
+<p>Inappropriate overrides face legal penalties under the HIA and potential
+disciplinary action from professional bodies such as the Singapore Medical
+Council.</p>
+<h2>Monitoring Access</h2>
+<p>You can view your health information and see which healthcare providers
+have accessed your health records through the NEHR Access History section
+in HealthHub. If you suspect wrongful access, notify Synapxe for investigation.</p>
+<h2>Continuity of Records</h2>
+<p>Health information will continue to be contributed to NEHR even when access
+restrictions are placed, ensuring no gaps in records if restrictions are
+later removed and enabling appropriate care during emergencies.</p>
+<p>While access restriction is available, it is not encouraged as it may
+adversely affect care quality. Healthcare providers need access to key
+health information to deliver holistic and effective care in a timely manner.</p>
+<p>More details on the access restriction process are available in the FAQs
+by Synapxe.</p>
 <p></p>
