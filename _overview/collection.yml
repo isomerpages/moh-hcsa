@@ -2,5 +2,5 @@ collections:
   overview:
     output: true
     order:
-      - Objectives of HIB.md
+      - Objectives of the HIA.md
       - A Community for Health.md
