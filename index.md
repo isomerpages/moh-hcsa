@@ -26,11 +26,11 @@ sections:
           description: ""
           url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/key-responsibilities/
   - infopic:
-      title: One Patient, One Health Record, One Care Journey
+      title: One Patient, One Health Summary, One Care Journey
       id: infopic
       alt: Image alt text
       image: /images/Homepage___One_Patient_One_Health_Record.png
-      description: Under HIB, patients will have a unified health record for better
+      description: Under HIA, patients will have a unified health record for better
         care continuity & to protect patient welfare
   - infopic:
       title: Adopting Best Practices
