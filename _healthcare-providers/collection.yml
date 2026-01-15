@@ -2,7 +2,7 @@ collections:
   healthcare-providers:
     output: true
     order:
-      - What Do We Need To Know/Key Responsibilities.md
+      - What Do We Need To Know/Introduction.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Contribution.md
       - What Do We Need To Know/NEHR Access.md
