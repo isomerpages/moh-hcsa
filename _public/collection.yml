@@ -2,10 +2,10 @@ collections:
   public:
     output: true
     order:
-      - How HIB Affects Individuals/.keep
-      - How HIB Affects Individuals/Health Information & the NEHR.md
-      - How HIB Affects Individuals/Access to Health Information.md
-      - How HIB Affects Individuals/Sharing of Health Information.md
+      - How HIA Affects Individuals/.keep
+      - How HIA Affects Individuals/Health Information & the NEHR.md
+      - How HIA Affects Individuals/Access to Health Information.md
+      - How HIA Affects Individuals/Sharing of Health Information.md
       - Safeguards under HIB/.keep
       - Safeguards under HIB/Restricting Access to Health Information.md
       - Safeguards under HIB/Protecting Health Information.md
