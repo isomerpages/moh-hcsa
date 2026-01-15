@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Help & Resources
 ---
 <h2>Starter Kit for Healthcare Providers</h2>
-<p>[Placeholder]</p>
-<h2><strong><u><br></u></strong>Staff Training and Compliance Culture</h2>
+<p>
+<br>Staff Training and Compliance Culture</p>
 <p>Healthcare providers should ensure all staff and contractors receive training
 on HIA’s CSDS requirements, covering their specific roles in health information
 handling and incident response.</p>
