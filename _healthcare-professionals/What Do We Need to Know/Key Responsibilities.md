@@ -5,29 +5,66 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Key Responsibilities for Healthcare Professionals</h2>
+<h2>Key Responsibilities</h2>
 <p>Healthcare professionals play a vital role in safeguarding patient information
 whilst using the National Electronic Health Record (NEHR) system. Understanding
 your responsibilities helps ensure appropriate use of NEHR and addresses
 medico-legal concerns.</p>
-<h3>Accessing Patient Records</h3>
-<p>Healthcare professionals must only access NEHR records of individuals
-they are providing care to, and solely for the purpose of delivering patient
-care. Access for employment or insurance purposes is not permitted, except
-for statutory medical examinations specifically listed in the Health Information
-Bill (HIB) (see “NEHR Access” Section).</p>
-<h3>Account Security</h3>
-<p>Healthcare professionals must not share their NEHR accounts with others.
-Each account is assigned to an individual practitioner and sharing credentials
-compromises patient confidentiality and system security.</p>
-<h3>Clinical Practice and NEHR Use</h3>
-<p>Healthcare professionals are not expected to access NEHR for every consultation.
-NEHR serves as a supplementary tool for patient care and does not replace
-or change existing clinical practices such as thorough history taking and
-physical examinations. Clinical judgement remains paramount in determining
-when NEHR access would benefit patient care.</p>
-<h3>Medico-legal Guidance</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Responsibilities:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Responsible Access to NEHR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Access NEHR records of individuals that you are providing care to solely
+for the purpose of delivering patient care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Understand Patient Access Restrictions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Always respect Patient Access Restrictions unless you meet the specific
+emergency override criteria</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NEHR Account Security</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ensure system security by not sharing your NEHR account with others</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manage &amp; Utilise NEHR Data</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Follow MOH guidelines on proper contribution, access and use of NEHR data</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Medico-legal Guidance</h2>
 <p>The Ministry of Health (MOH) will publish a set of guidelines on the appropriate
 use of NEHR information to address the medico-legal concerns of healthcare
 professionals in greater detail. These guidelines will provide clarity
 on medico-legal obligations and liabilities when using NEHR.</p>
+<p></p>
