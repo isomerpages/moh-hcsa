@@ -2,5 +2,6 @@ collections:
   overview:
     output: true
     order:
+      - Implementation & Enforcement of HIA.md
       - Objectives of the HIA.md
       - A Community for Health.md
