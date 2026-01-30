@@ -2,9 +2,9 @@ collections:
   public:
     output: true
     order:
+      - One Patient, One Health Summary & One Care Journey.md
       - Access & Sharing of Health Information.md
       - Health Information & the NEHR.md
-      - One Patient, One Health Summary & One Care Journey.md
       - Safeguards & Controls/.keep
       - Safeguards & Controls/Access Restrictions to NEHR.md
       - Safeguards & Controls/Protecting Health Information.md
