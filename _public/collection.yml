@@ -2,6 +2,7 @@ collections:
   public:
     output: true
     order:
+      - One Patient, One Health Summary & One Care Journey.md
       - How HIA Affects Individuals/.keep
       - How HIA Affects Individuals/Health Information & the NEHR.md
       - How HIA Affects Individuals/Access & Sharing of Health Information.md
