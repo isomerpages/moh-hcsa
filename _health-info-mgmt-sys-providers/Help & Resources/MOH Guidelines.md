@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Help & Resources
 ---
 <h2>Guidelines</h2>
+<p>[Placeholder]</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Code of Practice for Clinic Management System Data Portability</u></a>
