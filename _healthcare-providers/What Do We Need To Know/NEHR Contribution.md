@@ -5,30 +5,23 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<p>Under the HIA, there are two types of healthcare providers who contribute
-health information to the NEHR:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Specified Contributors</strong> – These are healthcare providers
-who are legally required to contribute specific types of health information
-to NEHR to ensure essential patient information is available across the
-healthcare system for continuity of care. For details on specified contributors
-and types of health information to be contributed, refer to: <strong>[HIA's First Schedule].</strong>
-</p>
-</li>
-<li>
-<p><strong>Approved Contributors</strong> – These refer to other healthcare
-providers or public agencies who may apply for MOH’s approval to contribute
-health information to NEHR. Once approved, they must comply with the specified
-conditions, including the types of information to be contributed and the
-patient groups covered. Once approved, these contributors, as well as the
-data types they may contribute, will be published in the Government Gazette.</p>
-</li>
-</ul>
-<p>The NEHR's effectiveness depends on the quality of data contributed to
-it. All contributors are responsible for ensuring the accuracy, completeness,
-and timeliness of submitted information. Contributors must follow prescribed
-requirements for format, timing, and technical specifications set by MOH.</p>
+<h2>Who Needs to Contribute to NEHR</h2>
+<p>Under HIA, all healthcare providers licensed under Healthcare Services
+Act (HCSA) 2020 and retail pharmacies licensed under Health Products Act
+(HPA) 2007 must contribute key health information about patients to NEHR.
+Additionally, certain public agencies that provide patient care, such as
+the Singapore Armed Forces (SAF) and the Singapore Civil Defence Force
+(SCDF), can be gazetted under the Act to contribute key health information
+to NEHR.</p>
+<p>This contribution requirement applies to Singapore citizens, permanent
+residents, and patients with long-term immigration passes, as these groups
+are most likely to seek ongoing care in Singapore over time. Health information
+of transient visitors, such as tourists, does not need to be contributed.</p>
+<p>HIA requires you to contribute accurate and complete health information
+in a timely manner, which ultimately benefits your patients by enabling
+you, as their healthcare providers, to access all relevant health information
+to provide the best care.</p>
+<h2>Contribution Requirements</h2>
 <p>The following table outlines the key responsibilities for data contributors
 and HIMS providers:</p>
 <table style="minWidth: 75px">
@@ -57,7 +50,7 @@ and HIMS providers:</p>
 <br>(e.g., HCSA licensees)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HIMS Providers</p>
+<p>HIMS Providers (e.g. CMS, EMR, LIS etc.)</p>
 </td>
 </tr>
 <tr>
@@ -102,12 +95,12 @@ and HIMS providers:</p>
 <p>Relevance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Licensees to contribute relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed
-here: [Placeholder]</p>
+<p>Licensees to contribute relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed <strong><u>here</u></strong>:
+[Placeholder]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure that all relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed
-here: [Placeholder] is sent over to NEHR.</p>
+<p>Ensure that all relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed <strong><u>here</u></strong>:
+[Placeholder] is sent over to NEHR.</p>
 </td>
 </tr>
 <tr>
@@ -139,12 +132,9 @@ here: [Placeholder] is sent over to NEHR.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submit encoded clinical data to NEHR for</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SNOMED CT;</p>
-<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-LOINC;</p>
-<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SDD&nbsp;</p>
+<p>(i) SNOMED CT;</p>
+<p>(ii) LOINC;</p>
+<p>(iii) SDD&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,8 +181,19 @@ MOH License Number and HCI Code as provided by Licensee.</p>
 </tr>
 </tbody>
 </table>
-<p>For data contribution issues, contact your HIMS provider or refer to:
-[linked here] for Synapxe's NEHR technical support contact information.</p>
-<p></p>
+<p>For data contribution issues, contact your HIMS provider or refer to Synapxe's <strong><u>NEHR technical support</u></strong> for
+assistance.</p>
+<h2>What Health Information to Contribute to NEHR</h2>
+<p>The key health information required includes details crucial for continuity
+of care, such as allergies, vaccinations, diagnoses, medications, laboratory
+test results, radiological images, and discharge summaries. <strong><u>The First Schedule </u></strong>specifies
+exactly what health information each licensee category needs to contribute,
+based on the patient care functions they provide.</p>
+<p>HIA only requires you to contribute health information from care provided
+in Singapore. If patients bring overseas medical records to you, you are
+not required to contribute that overseas information directly to NEHR.
+However, if you review those overseas records and include relevant details
+in your own Singapore medical records during patient care, then that incorporated
+information will be contributed to NEHR as part of your records.</p>
 <p></p>
 <p></p>
