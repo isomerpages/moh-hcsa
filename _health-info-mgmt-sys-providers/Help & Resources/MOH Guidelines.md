@@ -12,6 +12,6 @@ third_nav_title: Help & Resources
 </p>
 </li>
 </ul>
-<h2>Circulars</h2>
+<h2></h2>
 <p></p>
 <p></p>
