@@ -5,17 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
+<h2>Downloadable Resources</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Downloadable Resources</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Starter Kit for Healthcare Providers</p>
@@ -50,18 +46,13 @@ third_nav_title: Help & Resources
 </tr>
 </tbody>
 </table>
-<p></p>
+<h2>Additional Support for Meeting CSDS Requirements</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Additional Support for Meeting CSDS Requirements</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NTUC Learning Hub Training Courses</p>
