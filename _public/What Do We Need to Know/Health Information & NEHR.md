@@ -6,7 +6,7 @@ description: ""
 third_nav_title: What Do We Need to Know
 ---
 <h2>What "Health Information" Means</h2>
-<p>Health information includes:</p>
+<p>Health Information includes:</p>
 <p><strong>Personal details</strong> - This refers to information like your
 name, address, phone number, and other personal details. This counts as
 health information when it is used for healthcare purposes.</p>
