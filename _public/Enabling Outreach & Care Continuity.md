@@ -4,48 +4,29 @@ permalink: /public/enabling-outreach-and-care-continuity/
 variant: tiptap
 description: ""
 ---
-<p>The HIA establishes a comprehensive framework that enables Singapore's
-healthcare system to better serve our community through the responsible
-sharing of health information.</p>
-<h2>Leveraging Health Information for Public Benefit</h2>
-<p>The Minister may approve use of NEHR information for public health or
-public interest purposes, with safeguards in place. This provision allows
-for:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sharing of identifiable NEHR information for public health purposes</p>
-</li>
-<li>
-<p>Sharing of non-identifiable NEHR information for public interest purposes</p>
-</li>
-</ol>
-<p>When sharing identifiable information, the Minister may impose conditions
-and restrictions to limit access to relevant NEHR information only, such
-as granting special accounts that limit NEHR access to certain records
-or data types only.</p>
-<p>Persons who gain access to NEHR information for these purposes must comply
-with certain obligations, including ensuring information obtained is only
-used or disclosed for the purpose approved by the Minister.</p>
-<h2>Enabling Community Healthcare Partnerships</h2>
-<p>The HIA enables the sharing of identifiable health information outside
-NEHR if the following 3 conditions are met:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Information sharing is limited to specified entities, starting with key
-public healthcare stakeholders, including Agency of Integrated Care (AIC),
-healthcare clusters and public agencies. In future, this could extend to
-other private and community healthcare partners.</p>
-</li>
-<li>
-<p>Information sharing is restricted to specified use cases that support
-continuity of care and outreach to benefit target populations.</p>
-</li>
-<li>
-<p>Information sharing is confined to specified datatypes or sets for each
-use case.</p>
-</li>
-</ol>
-<p>The HIA creates a foundation for collaborative healthcare that protects
-individual privacy whilst enabling our healthcare community to work together
-more effectively for the benefit of all Singaporeans.</p>
-<p></p>
+<h2>Sharing of Non-NEHR Health Information for Community-based Care</h2>
+<p>We are also making it easier to share certain health information outside
+NEHR to help you receive better community-based care. This supports our
+goal of <strong>'One Patient, One Health Summary, One Care Journey'</strong> to
+ensure your care is coordinated seamlessly across different healthcare
+providers and community services.</p>
+<p>We understand this involves your personal information, so we have built
+in <strong>three strict safeguards</strong>. Non-NEHR health information
+can only be shared without your specific consent when <strong><u>all three criteria are met</u></strong>:</p>
+<p>1.&nbsp;Sharing can only happen between <strong>approved organisations</strong>.
+This includes key public healthcare stakeholders, Public Healthcare Institutions,
+Agency for Integrated Care, and relevant government agencies – all organisations
+you already trust with your healthcare.</p>
+<p>2.&nbsp;Your information can only be shared for specific purposes that
+directly benefit your care. These are tied to national programmes like
+Healthier SG and Age Well SG. For example, if you are a senior, your public
+healthcare institution might share your contact details with Agency for
+Integrated Care so they can reach out and connect you with community services
+and activities that suit your needs.</p>
+<p>3.&nbsp;We limit what information can be shared to only what is necessary
+for each specific purpose. This typically means basic details like your
+name and contact information, and if needed, general health indicators
+such as whether you have frailty or chronic conditions – but not your detailed
+medical diagnoses.</p>
+<p>Note: The specified use cases and organisations for which non-NEHR information
+may be shared is listed in the <strong>Fourth Schedule</strong> linked <strong><u>here</u></strong>.</p>
