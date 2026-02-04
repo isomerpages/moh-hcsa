@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Reporting An Incident.md
-      - Cyber & Data Security/Cybersecurity & Data Security (CSDS)
+      - Cybersecurity & Data Security/Cybersecurity & Data Security (CSDS)
         Requirements.md
-      - Cyber & Data Security/.keep
+      - Cybersecurity & Data Security/.keep
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Contribution.md
       - What Do We Need To Know/NEHR Access.md
