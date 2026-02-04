@@ -2,6 +2,7 @@ collections:
   healthcare-providers:
     output: true
     order:
+      - What Do We Need To Know/NEHR Access.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Contribution.md
       - What Do We Need To Know/Using Health Information Management Systems
