@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /public/how-hia-affects-individuals/health-information-and-the-nehr/
+          url: /public/what-do-we-need-to-know/one-patient-one-health-summary-one-care-journey/
         - title: For Healthcare Providers
           description: ""
           url: /for-healthcare-providers/what-do-we-need-to-know/key-responsibilities/
