@@ -5,18 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: Cyber & Data Security
 ---
-<p>To ensure the safe and secure handling of health information, HIA sets
-out the CSDS standards that will be imposed on healthcare providers if
-they contribute to or access NEHR or share data under the HIA.</p>
-<p>For more information on MOH’s CSDS standards, please refer to: CSDS Essentials</p>
-<p>HIMS providers that support healthcare providers to access or contribute
-data to NEHR will also need to meet CSDS standards. MOH will also conduct
-audits to ensure that healthcare providers have fulfilled the security
-measures.</p>
-<h2>Liability for Data Breaches involving HIMS</h2>
-<p>If you have exercised due diligence in choosing a whitelisted HIA-compliant
-HIMS and in maintaining appropriate CSDS practices, you will not be held
-liable for lapses arising solely from the HIMS. That said, you will still
-need to develop and implement appropriate standard operating procedures
-(SOPs) and staff training to meet the CSDS requirements. MOH will provide
-the guidance, resources and support for you to do so.</p>
+<h2>Overview</h2>
+<p>As a healthcare provider, you are already protecting patient information
+under existing laws like the Personal Data Protection Act 2012 (PDPA) and
+Healthcare Services Act 2020 (HCSA). HIA builds on these foundations with
+enhanced security standards specifically designed for healthcare, and consolidates
+existing security requirements specifically for health information, rather
+than creating entirely new obligations.</p>
+<h2>Enhanced Security Framework</h2>
+<p>All entities under HIA must meet cybersecurity and data security requirements
+outlined in the Cybersecurity and Data Security Essentials (CS/DS Essentials).
+These essentials have been developed by MOH in consultation with the Cyber
+Security Agency of Singapore (CSA), Infocomm Media Development Authority
+(IMDA), and Personal Data Protection Commission (PDPC) to provide clear
+policy guidance on security measures for health information.</p>
+<p>This includes essential security measures like anti-malware solutions,
+firewalls, proper data backup procedures, and secure storage practices.
+You will also need to train your staff on cyber-hygiene and data governance.
+For detailed information, refer <strong><u>here</u></strong>.</p>
