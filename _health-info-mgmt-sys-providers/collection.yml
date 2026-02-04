@@ -4,7 +4,6 @@ collections:
     order:
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Key Responsibilities.md
-      - What Do We Need to Know/Health Information Management Systems (HIMS).md
       - What Do We Need to Know/NEHR System Onboarding.md
       - What Do We Need to Know/Meeting Cyber & Data Security Essentials.md
       - Data Migration.md
