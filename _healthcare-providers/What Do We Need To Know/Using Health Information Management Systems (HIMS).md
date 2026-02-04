@@ -5,33 +5,22 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<p>A Health Information Management System (HIMS) is a comprehensive digital
-platform designed to collect, store, manage, and exchange health-related
-information within healthcare organisations. Healthcare Services Act (HCSA)
-licensees and approved healthcare providers such as HSA-licensed retail
-pharmacies must use authorised systems for contributing data to the National
-Electronic Health Record (NEHR).</p>
-<p>NEHR connectivity is limited exclusively to authorised systems. Synapxe,
-the System Operator of NEHR, manages the qualification process for certifying
-NEHR compatibility. These systems must meet rigorous criteria in three
-crucial areas: data quality, cybersecurity, and data security. This section
-outlines the process for selecting authorised Health Information Management
-System (HIMS) vendors under the HIA, onboarding the system with NEHR, and
-the corresponding responsibilities of healthcare providers.</p>
-<h2>Selection of a NEHR-compatible HIMS</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>If you are not digitalised (using paper records): You must adopt a HIA-compliant
-HIMS (whitelist will be published by MOH) to meet mandatory NEHR contribution
-requirement.</p>
-</li>
-<li>
-<p>If you are digitalised but not connected to NEHR: Check if your HIMS provider
-is in the whitelist.</p>
-</li>
-</ul>
-<p>If yes, contact your HIMS provider to initiate NEHR integration. If no,
-you can request your current HIMS provider to get whitelisted (direct them
-to <a rel="noopener noreferrer nofollow" target="_blank">nehr.vendorengagement@synapxe.sg</a>)
-or switch to a whitelisted HIMS provider.</p>
-<p></p>
+<p>Whether you are still using pen and paper or have some digital systems,
+you have likely noticed how digital transformation is reshaping healthcare.
+Digital systems are now essential for documenting patient visits, sharing
+lab results, and coordinating with other providers. Even basic IT systems
+for clinic management and billing are becoming standard practice.</p>
+<p>A Health Information Management System (HIMS) serves as your complete
+digital hub for collecting, storing, managing, and sharing health information.
+To contribute key health information to NEHR seamlessly, you will need
+an authorised, HIA-compliant system that connects securely to NEHR.</p>
+<p>MOH has approved a list of HIMS with all necessary technical features.
+These whitelisted systems are NEHR-compatible and meet MOH's cybersecurity
+requirements. We strongly encourage you to adopt a whitelisted HIMS (click <strong><u>here</u></strong>)
+which automates the process of contributing relevant health information
+to NEHR.</p>
+<p>Once you are using one of these systems, focus on maintaining data security
+through proper staff training on NEHR access and use. We will provide training
+resources, programmes, and funding support to help you get set up.</p>
+<p>For more information on available support to subscribe to a whitelisted
+HIMS, please refer to: <strong><u>Implementation Support</u></strong>.</p>
