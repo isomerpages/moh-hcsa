@@ -2,6 +2,7 @@ collections:
   public:
     output: true
     order:
+      - What Do We Need to Know/Protecting Health Information.md
       - What Do We Need to Know/.keep
       - What Do We Need to Know/One Patient, One Health Summary & One Care
         Journey.md
