@@ -2,12 +2,12 @@ collections:
   health-info-mgmt-sys-providers:
     output: true
     order:
-      - Data Migration.md
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Key Responsibilities.md
       - What Do We Need to Know/Health Information Management Systems (HIMS).md
       - What Do We Need to Know/NEHR System Onboarding.md
       - What Do We Need to Know/Meeting Cyber & Data Security Essentials.md
+      - Data Migration.md
       - Help & Resources/.keep
       - Help & Resources/MOH Guidelines & Circulars.md
       - Help & Resources/Useful Links.md
