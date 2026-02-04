@@ -2,6 +2,7 @@ collections:
   public:
     output: true
     order:
+      - Other Uses of NEHR Information.md
       - What Do We Need to Know/Health Information that May Be Deemed More
         Sensitive.md
       - What Do We Need to Know/.keep
