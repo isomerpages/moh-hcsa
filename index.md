@@ -26,25 +26,27 @@ sections:
           description: ""
           url: /for-health-info-mgmt-sys-providers/what-do-we-need-to-know/key-responsibilities/
   - infopic:
-      title: One Patient, One Health Summary, One Care Journey
+      title: Contributing Data to NEHR for Better Care
       id: infopic
       alt: Image alt text
       image: /images/Homepage___One_Patient_One_Health_Record.png
-      description: Under HIA, patients will have a unified health record for better
-        care continuity & to protect patient welfare
+      description: HIA requires healthcare providers to contribute patients’ key
+        health information to NEHR, with controlled access for care, reducing
+        duplicate tests and costs
   - infopic:
-      title: Adopting Best Practices
+      title: Enabling Outreach & Care Continuity
       id: infopic
-      description: All healthcare providers shall be required to contribute & will
-        have access to NEHR, aligning with global best practices for seamless
-        information sharing
+      description: HIA enables sharing of non-NEHR health information among key public
+        healthcare stakeholders to support national programmes like Healthier SG
+        and Age Well SG.
       alt: Image alt text
       image: /images/Homepage___Adopting_Best_Practices.png
   - infopic:
-      title: Robust Safeguards
+      title: Ensure Robust Safeguards for Information Protection
       id: infopic
-      description: Strict safeguards are in place to protect patients’ health
-        information, including access and cybersecurity requirements
+      description: Healthcare professionals can only access NEHR for patients under
+        their care. Technical controls, audits and monitoring access logs
+        prevent unauthorised access.
       alt: Image alt text
       image: /images/Homepage___Robust_Safeguards.png
   - textcards:
