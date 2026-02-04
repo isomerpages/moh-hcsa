@@ -2,19 +2,19 @@ collections:
   healthcare-providers:
     output: true
     order:
-      - Reporting An Incident.md
-      - Cybersecurity & Data Security/.keep
-      - Cybersecurity & Data Security/Cybersecurity & Data Security (CSDS)
-        Requirements.md
-      - Cybersecurity & Data Security/Incident Management Framework.md
-      - Cybersecurity & Data Security/Emergency Measures.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Contribution.md
       - What Do We Need To Know/NEHR Access.md
       - What Do We Need To Know/Using Health Information Management Systems
         (HIMS).md
       - What Do We Need To Know/Safeguards Governing NEHR Access.md
+      - Cybersecurity & Data Security/.keep
+      - Cybersecurity & Data Security/Cybersecurity & Data Security (CSDS)
+        Requirements.md
+      - Cybersecurity & Data Security/Incident Management Framework.md
+      - Cybersecurity & Data Security/Emergency Measures.md
       - Implementation & Enforcement of the HIA.md
+      - Reporting An Incident.md
       - Help & Resources/.keep
       - Help & Resources/Implementation Support.md
       - Help & Resources/Funding Support.md
