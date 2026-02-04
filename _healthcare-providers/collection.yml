@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Reporting An Incident.md
-      - Cybersecurity & Data Security/Emergency Measures.md
-      - Cybersecurity & Data Security/Incident Management Framework.md
+      - Cybersecurity & Data Security/.keep
       - Cybersecurity & Data Security/Cybersecurity & Data Security (CSDS)
         Requirements.md
-      - Cybersecurity & Data Security/.keep
+      - Cybersecurity & Data Security/Incident Management Framework.md
+      - Cybersecurity & Data Security/Emergency Measures.md
       - What Do We Need To Know/.keep
       - What Do We Need To Know/NEHR Contribution.md
       - What Do We Need To Know/NEHR Access.md
