@@ -2,6 +2,7 @@ collections:
   health-info-mgmt-sys-providers:
     output: true
     order:
+      - What Do We Need to Know/Data Migration.md
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Key Responsibilities.md
       - What Do We Need to Know/Cybersecurity & Data Security Requirements.md
