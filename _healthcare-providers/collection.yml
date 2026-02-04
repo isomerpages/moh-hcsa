@@ -2,6 +2,7 @@ collections:
   healthcare-providers:
     output: true
     order:
+      - Reporting An Incident.md
       - Cyber & Data Security/Cybersecurity & Data Security (CSDS) Standards.md
       - Cyber & Data Security/.keep
       - What Do We Need To Know/Safeguards Governing NEHR Access.md
