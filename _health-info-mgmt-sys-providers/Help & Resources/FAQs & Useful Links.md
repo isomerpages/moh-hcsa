@@ -9,18 +9,18 @@ third_nav_title: Help & Resources
 <p>[Placeholder]</p>
 <h2>Useful Links</h2>
 <p>Visit the external websites listed below for more information on the materials
-related to Health Information Act.</p>
+related to the Health Information Act (HIA).</p>
 <h3>Health Information Act (HIA)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
+<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
 </p>
 </li>
 </ul>
 <h3>Health Sciences Authority (HSA) Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices -- A Life Cycle Approach (Apr 2020)</a>
+<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices -- A Life Cycle Approach (Apr 2022)</a>
 </p>
 </li>
 </ul>
@@ -42,7 +42,7 @@ related to Health Information Act.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
+<p><a href="https://www.csa.gov.sg/resources/infographics-and-posters/how-to-go-safe-online/" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
 </p>
 </li>
 </ul>
