@@ -39,7 +39,7 @@ information at different stages during treatment.</p>
 <h3>Reporting Concerns</h3>
 <p>If you identify suspicious activity in your access history, report concerns
 directly through the HealthHub app reporting function. Alternatively, you
-can report it to the Ministry of Health for investigation linked <strong><u>here</u></strong>.</p>
+can report it to Ministry of Health (MOH) for investigation linked <strong><u>here</u></strong>.</p>
 <h2>Controlling Access to NEHR Information</h2>
 <p>MOH believes that making NEHR information available to healthcare providers
 allows them to give patients the best possible care. With access to patients’
