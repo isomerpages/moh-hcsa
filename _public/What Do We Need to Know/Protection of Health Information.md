@@ -146,7 +146,7 @@ before using them as it would adversely affect the quality of care you
 receive as patients. It is only when healthcare providers have access to
 our key health information that they can deliver holistic and effective
 care in a timely manner.</p>
-<p>For more information on NEHR and how to place access restrictions, please
+<p>For more information on NEHR and how to place Access Restrictions, please
 visit <strong><u>NEHR FAQ.</u></strong>
 </p>
 <p></p>
