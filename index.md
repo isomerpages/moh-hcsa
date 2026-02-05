@@ -81,7 +81,7 @@ sections:
           link_url: ""
         - title: Health Information Bill (HIB) - First Reading
           date: 05 November 2025
-          announcement: The Health Information Bill (HIB) was introduced and read for the
+          announcement: Health Information Bill (HIB) was introduced and read for the
             first time in Parliament on 5 November 2025.
           link_text: Bill No. 20/2025 - Health Information Bill
           link_url: https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105
