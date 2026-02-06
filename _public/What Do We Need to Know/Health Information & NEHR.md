@@ -78,7 +78,7 @@ to protect public health and safety. Examples include:</p>
 <li>
 <p>Medical examinations to assess fitness for service in the Singapore Armed
 Forces, Singapore Civil Defence Force, and Singapore Police Force, as required
-under the Enlistment Act</p>
+under Enlistment Act</p>
 </li>
 </ul>
 <p>The specified statutory medical examinations for which NEHR information
