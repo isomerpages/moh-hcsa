@@ -5,23 +5,26 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
+<h2>FAQs</h2>
+<p>[Placeholder]</p>
+<h2>Useful Links</h2>
 <p>Visit the external websites listed below for more information on the materials
-related to the Health Information Bill.</p>
-<h1>Health Information Bill</h1>
+related to the Health Information Act (HIA).</p>
+<h3>Health Information Act (HIA)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.parliament.gov.sg/docs/default-source/bills-introduced/health-information-bill-20-2025980b6831-a710-4386-bb27-f7b7f53d1f95.pdf?sfvrsn=95b05d08_1" rel="noopener noreferrer nofollow" target="_blank">Health Information Bill</a>
+<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
 </p>
 </li>
 </ul>
-<h1>HSA Guidelines</h1>
+<h3>Health Sciences Authority (HSA) Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hsa.gov.sg/docs/default-source/hprg-mdb/guidance-documents-for-medical-devices/regulatory-guidelines-for-software-medical-devices---a-life-cycle-approach_r2-(2022-apr)-pub.pdf" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices -- A Life Cycle Approach (Apr 2020)</a>
+<p><a href="/files/gl_04_r4_regulatory_guidelines_for_software_medical_devices___a_life_cycle_approach__2025_dec__pub.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices including Machine Learning-Enabled Medical Devices -- A Life Cycle Approach (Dec 2025)</u></a>
 </p>
 </li>
 </ul>
-<h1>Synapxe Resources</h1>
+<h3>Synapxe Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener noreferrer nofollow" target="_blank">National Electronic Health Records</a>
@@ -32,18 +35,18 @@ related to the Health Information Bill.</p>
 </p>
 </li>
 </ul>
-<h1>Cyber Security Agency (CSA) Resources</h1>
+<h3>Cyber Security Agency (CSA) Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.csa.gov.sg/legislation/cybersecurity-act" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity Act</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.csa.gov.sg/Tips-Resource/Resources/gosafeonline" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
+<p><a href="https://www.csa.gov.sg/resources/infographics-and-posters/how-to-go-safe-online/" rel="noopener noreferrer nofollow" target="_blank">CSA's Go Safe Online</a>
 </p>
 </li>
 </ul>
-<h1>Personal Data Protection Commission (PDPC) Resources</h1>
+<h3>Personal Data Protection Commission (PDPC) Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.pdpc.gov.sg/help-and-resources/2021/01/data-breach-management-guide" rel="noopener noreferrer nofollow" target="_blank">Guide on Managing and Notifying Data Breaches Under the PDPA</a>
