@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Introduction</h2>
+<h2><strong>Introduction</strong></h2>
 <p>Singapore has been sharing health information across healthcare providers
 since 2011 through the National Electronic Health Record (NEHR) system,
 which has achieved comprehensive coverage across the healthcare sector.
@@ -16,7 +16,7 @@ small segment remains outside the system, including specialist clinics,
 clinical and radiological laboratories, and dental clinics.</p>
 <p></p>
 <blockquote>
-<h2>Achieving Our Vision</h2>
+<h2><strong>Achieving Our Vision</strong></h2>
 <p>HIA will help us achieve our vision of 'One Patient, One Health Summary,
 One Care Journey' in two key ways:</p>
 </blockquote>
