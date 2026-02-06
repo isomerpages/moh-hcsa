@@ -138,7 +138,7 @@ Such cases may also be referred to the Singapore Medical Council (SMC)
 for disciplinary action.</p>
 </li>
 </ul>
-<h3>Important Considerations</h3>
+<h2><strong>Important Considerations</strong></h2>
 <p>Access Restrictions are designed to balance your privacy concerns with
 your safety and care quality.</p>
 <p>While Access Restrictions are an option, we encourage careful considerations
