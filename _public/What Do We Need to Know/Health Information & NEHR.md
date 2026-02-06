@@ -59,8 +59,8 @@ when:</p>
 </ul>
 <p><em>Note: The only exceptions are for specific medical examinations required by law or court orders.</em>
 </p>
-<p>When you need medical reports for work or insurance, doctors must rely
-on their own clinic records, direct consultation with you, and clinical
+<p>When you need medical reports for employment or insurance, doctors must
+rely on their own clinic records, direct consultation with you, and clinical
 assessment - not NEHR information.</p>
 <p><strong>Strict penalties apply</strong> - Anyone who tries to access NEHR
 for employment or insurance purposes faces severe legal consequences, with
