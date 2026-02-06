@@ -18,9 +18,8 @@ and discharge notes when you leave the hospital.</p>
 <p>When you visit a healthcare service, health information generated during
 that visit will be recorded in their Health Information Management Systems
 (e.g. Clinic Management System). Under HIA, a subset of these information
-will be contributed and stored in National Electronic Health Record system
-(NEHR)*.</p>
-<p>Read on to find out more about NEHR or visit <strong><u>Synapxe's website</u></strong> for
+will be contributed and stored in National Electronic Health Record (NEHR)*.</p>
+<p>Read on to find out more about NEHR or visit <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener nofollow" target="_blank">Synapxe's website</a> for
 more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_HIMS_to_NEHR_to_HH.png">
