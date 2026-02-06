@@ -90,11 +90,11 @@ managing your care. All healthcare professionals are bound by their respective
 professional bodies' ethical codes and guidelines to treat all patients
 fairly and without prejudice, regardless of whether Access Restrictions
 are in place.</p>
-<h3>Setting Up Restrictions</h3>
+<h3>Setting Up Access Restrictions</h3>
 <p>Currently, you can request Access Restrictions at any public healthcare
 institution. From the second half of this year, you will be able to do
 this through the HealthHub app.</p>
-<h3>What Happens When You Restrict Access</h3>
+<h3>What Happens When You Place Access Restrictions</h3>
 <p>With Access Restrictions in place, several important things continue to
 happen to ensure your safety and continuity of care:</p>
 <ul data-tight="true" class="tight">
@@ -113,7 +113,7 @@ allergies and vaccination information that helps reduce the risk of inappropriat
 prescriptions or immunisations when you visit new healthcare providers.</p>
 </li>
 </ul>
-<h3>Emergency Access</h3>
+<h3>Emergency Access ("Break-Glass")</h3>
 <p>During medical emergencies, doctors can access NEHR information despite
 Access Restrictions through a special "break-glass" feature with strict
 controls and full auditing.</p>
