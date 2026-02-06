@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Enhanced Legislative Safeguards and Penalties</h2>
+<h2><strong>Enhanced Legislative Safeguards and Penalties</strong></h2>
 <p>With HIA, we are strengthening the legislative safeguards around health
 information and imposing stiffer penalties for unauthorised access to NEHR
 information. These enhanced protections work alongside our existing technical
 controls to ensure all health information remains secure.</p>
-<h2>Access Monitoring and Controls</h2>
+<h2><strong>Access Monitoring and Controls</strong></h2>
 <h3>Monitoring Access to NEHR</h3>
 <p>Synapxe, the NEHR system operator, actively monitors for suspicious activity
 by conducting regular audits and ongoing monitoring to detect unusual behaviour,
@@ -40,7 +40,7 @@ information at different stages during treatment.</p>
 <p>If you identify suspicious activity in your access history, report concerns
 directly through the HealthHub app reporting function. Alternatively, you
 can report it to Ministry of Health (MOH) for investigation linked <strong><u>here</u></strong>.</p>
-<h2>Controlling Access to NEHR Information</h2>
+<h2><strong>Controlling Access to NEHR Information</strong></h2>
 <p>MOH believes that making NEHR information available to healthcare providers
 allows them to give patients the best possible care. With access to patients’
 complete medical picture, doctors, nurses, and pharmacists can:</p>
@@ -67,24 +67,24 @@ that could harm the patient. In emergency situations when patients are
 unable to respond, timely access to complete records could save their lives.</p>
 <h3>Access Restrictions</h3>
 <p>For those who still have privacy concerns despite all the safeguards in
-place, you can place Access Restrictions access to NEHR information. However,
+place, you can place Access Restrictions to NEHR information. However,
 you should understand that such restrictions may limit your healthcare
 providers' ability to deliver optimal care.</p>
-<h3>How Restrictions Work</h3>
-<p>If you choose to restrict access, you can:</p>
+<h3>How Access Restrictions Work</h3>
+<p>If you choose to place Access Restrictions, you can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Block access from all healthcare providers OR</p>
 </li>
 <li>
-<p>Limit access to selected* healthcare institutions (*functionality to be
-implemented in HealthHub in 2nd half of 2026)</p>
+<p>Limit access to selected* healthcare institutions <em>(*functionality to be implemented in HealthHub in 2nd half of 2026)</em>
+</p>
 </li>
 </ul>
-<p>You can set restrictions at the healthcare institution level, but not
-for individual doctors or nurses. Since healthcare is delivered by teams
-working together, it is not practical to restrict access for some team
-members but not others within the same institution.</p>
+<p>You can set Access Restrictions at the healthcare institution level, but
+not for individual doctors or nurses. Since healthcare is delivered by
+teams working together, it is not practical to restrict access for some
+team members but not others within the same institution.</p>
 <p>Your Access Restrictions will be known only to the healthcare providers
 managing your care. All healthcare professionals are bound by their respective
 professional bodies' ethical codes and guidelines to treat all patients
@@ -147,7 +147,7 @@ receive as patients. It is only when healthcare providers have access to
 our key health information that they can deliver holistic and effective
 care in a timely manner.</p>
 <p>For more information on NEHR and how to place Access Restrictions, please
-visit <strong><u>NEHR FAQ.</u></strong>
+visit <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener nofollow" target="_blank">NEHR FAQ</a><strong><u>.</u></strong>
 </p>
 <p></p>
 <p></p>
