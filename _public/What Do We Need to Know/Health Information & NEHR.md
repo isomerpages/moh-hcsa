@@ -57,7 +57,7 @@ when:</p>
 <p>Any other employment-related medical assessments</p>
 </li>
 </ul>
-<p><em>(Note: The only exceptions are for specific medical examinations required by law or court orders.)</em>
+<p><em>Note: The only exceptions are for specific medical examinations required by law or court orders.</em>
 </p>
 <p>When you need medical reports for work or insurance, doctors must rely
 on their own clinic records, direct consultation with you, and clinical
