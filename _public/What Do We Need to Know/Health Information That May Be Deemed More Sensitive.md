@@ -22,14 +22,14 @@ for the patients they are caring for, but not beyond what is necessary
 for their work.</p>
 </li>
 <li>
-<p><strong>Enhanced authentication</strong>: &nbsp;Before any authorised
+<p><strong>Enhanced Authentication</strong>: &nbsp;Before any authorised
 healthcare professional can view these types of health information, they
 must complete a double log-in process, verifying their credentials again
 before gaining access. This ensures the health information is accessed
 only when genuinely needed and prevents any accidental viewing.</p>
 </li>
 <li>
-<p><strong>Strict monitoring</strong>: Synapxe closely monitors access to
+<p><strong>Strict Monitoring</strong>: Synapxe closely monitors access to
 these types of health information. Any unauthorised access to such health
 information will be thoroughly investigated, with appropriate penalties
 imposed where necessary.</p>
