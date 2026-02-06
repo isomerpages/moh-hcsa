@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Safeguards for Health Information that May Be Deemed More Sensitive</h2>
+<h2>Safeguards for Health Information That May Be Deemed More Sensitive</h2>
 <p>We recognise that patients have concerns about accessing certain types
 of health information that may be deemed more sensitive and the need for
 stronger safeguards around this information.</p>
