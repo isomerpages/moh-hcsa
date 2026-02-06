@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>What "Health Information" Means</h2>
+<h2><strong>What "Health Information" Means</strong></h2>
 <p>Health Information includes:</p>
 <p><strong>Personal details</strong> - This refers to information like your
 name, address, phone number, and other personal details. This counts as
@@ -14,7 +14,7 @@ health information when it is used for healthcare purposes.</p>
 physical and mental health, as well as details about your diagnosis, treatment,
 and care. Examples include your prescriptions, test results, medical procedures,
 and discharge notes when you leave the hospital.</p>
-<h2>Where Health Information Will Be Stored</h2>
+<h2><strong>Where Health Information Will Be Stored</strong></h2>
 <p>When you visit a healthcare service, health information generated during
 that visit will be recorded in their Health Information Management Systems
 (e.g. Clinic Management System). Under HIA, a subset of these information
@@ -28,7 +28,7 @@ more information.</p>
 </p>
 <p><em>MOH is actively working to make more health information available to individuals through HealthHub. If you have questions about your health information, please speak with your healthcare provider.</em>
 </p>
-<h2>Who Can Access NEHR Information</h2>
+<h2><strong>Who Can Access NEHR Information</strong></h2>
 <p>NEHR is only accessible to healthcare professionals who are directly involved
 in your care. This includes your doctors, nurses, pharmacists, and allied
 health professionals like physiotherapists or dietitians.</p>
@@ -37,12 +37,12 @@ they are only doing administrative work. They must be actively providing
 care to you to view NEHR information.</p>
 <p>Healthcare institutions are required to train their staff properly and
 regularly audit who is accessing patient records to ensure regulatory compliance.</p>
-<h2>When Your NEHR Information Can Be Accessed</h2>
-<h3><strong>For Patient Care</strong></h3>
+<h2><strong>When Your NEHR Information Can Be Accessed</strong></h2>
+<h3>For Patient Care</h3>
 <p>When you are receiving treatment, your healthcare team can access NEHR
 information without asking permission each time. This helps them give you
 the best possible care quickly, especially in emergencies.</p>
-<h3><strong>Prohibited Uses</strong></h3>
+<h3>Prohibited Uses</h3>
 <p>Accessing NEHR information for employment or insurance purposes is strictly
 prohibited. This means healthcare professionals cannot use NEHR information
 when:</p>
@@ -68,7 +68,7 @@ even higher penalties for these prohibited uses.</p>
 <p>This protection ensures health information stays where it belongs - with
 the healthcare providers caring for you - and prevents discrimination by
 employers or insurers based on your medical history.</p>
-<h3><strong>Statutory Medical Examinations</strong></h3>
+<h3>Statutory Medical Examinations</h3>
 <p>There are specific exceptions for medical examinations required by law
 to protect public health and safety. Examples include:</p>
 <ul data-tight="true" class="tight">
