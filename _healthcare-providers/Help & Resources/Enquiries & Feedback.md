@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Official Communications</h2>
+<h2><strong>Official Communications</strong></h2>
 <p>MOH will communicate specific deadlines and detailed requirements through
 the following official channels:</p>
 <ul data-tight="true" class="tight">
@@ -19,7 +19,7 @@ email address registered* with your HCSA licence</p>
 </ul>
 <p><em>*You must ensure that the primary contact email address registered with their HCSA licence is current and actively monitored, as this will be the primary method for receiving regulatory updates and deadlines. If your registered email address has changed or is no longer in use, please update your licensing information immediately through the appropriate HCSA channels.</em>
 </p>
-<h2>Feedback Form Submission</h2>
+<h2><strong>Feedback Form Submission</strong></h2>
 <p>If you have any feedback or enquiries regarding the following topics,
 please select the relevant forms linked below:</p>
 <h3>Health Information Act (HIA)</h3>
