@@ -26,10 +26,10 @@ if it involves disclosure of health information that may be deemed more
 sensitive—you must notify the affected individuals upon or after notifying
 MOH.</p>
 <p><strong><em>Note:</em></strong><em> MOH will only require significant breaches to be notified, in alignment with the approach under existing legal frameworks, such as the PDPA. These details will be set out in subsidiary legislation</em>.</p>
-<h2>Your Liability Protection</h2>
-<p>If you have exercised due diligence in choosing a whitelisted HIA-compliant
-HIMS and maintained appropriate cybersecurity practices, you will not be
-held liable for lapses arising solely from the HIMS itself. However, you
-will still need proper standard operating procedures and staff training.
-For guidance, resources, and support, click <strong><u>here</u></strong>.</p>
+<h2><strong>Shared Responsibility Framework</strong></h2>
+<p>If you have exercised due diligence in choosing a HIA-compliant HIMS and
+maintained appropriate cybersecurity practices, you will not be held liable
+for lapses arising solely from the HIMS itself. However, you will still
+need proper standard operating procedures and staff training. For guidance,
+resources, and support, click <strong><u>here</u></strong>.</p>
 <p></p>
