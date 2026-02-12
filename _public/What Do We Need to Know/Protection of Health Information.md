@@ -141,8 +141,8 @@ your safety and care quality.</p>
 <p>While Access Restrictions are an option, we encourage careful considerations
 before using them as it would adversely affect the quality of care you
 receive as patients. It is only when healthcare providers have access to
-our key health information that they can deliver holistic and effective
-care in a timely manner.</p>
+their patients' key health information that they can deliver holistic and
+effective care in a timely manner.</p>
 <p>For more information on NEHR and how to place Access Restrictions, please
 visit <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener nofollow" target="_blank">NEHR FAQ</a><strong><u>.</u></strong>
 </p>
