@@ -17,10 +17,7 @@ to cause significant harm to individuals or affect or are likely to affect
 500 or more individuals</p>
 </li>
 <li>
-<p>Unauthorised access to health information or systems</p>
-</li>
-<li>
-<p>Unauthorised disclosure or use of health information</p>
+<p>Unauthorised access or disclosure related to NEHR</p>
 </li>
 </ul>
 <p>Fast reporting helps prevent further harm, protects patient information,
