@@ -4,7 +4,7 @@ permalink: /healthcare-providers/reporting-an-incident/
 variant: tiptap
 description: ""
 ---
-<h2>What to Do When You Encounter A Cybersecurity Incident or A Data Breach</h2>
+<h2><strong>What to Do When You Encounter a Cybersecurity Incident or a Data Breach</strong></h2>
 <p>You must report security incidents involving health information or systems
 to MOH swiftly (as shown below), including:</p>
 <ul data-tight="true" class="tight">
