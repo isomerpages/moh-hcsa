@@ -5,25 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>FAQs</h2>
+<h2><strong>FAQs</strong></h2>
 <p>[Placeholder]</p>
-<h2>Useful Links</h2>
+<h2><strong>Useful Links</strong></h2>
 <p>Visit the external websites listed below for more information on the materials
-related to the Health Information Act (HIA).</p>
-<h3>Health Information Act (HIA)</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
-</p>
-</li>
-</ul>
-<h3>Health Sciences Authority (HSA) Guidelines</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/gl_04_r4_regulatory_guidelines_for_software_medical_devices___a_life_cycle_approach__2025_dec__pub.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Health Sciences Authority's (HSA) Regulatory Guidelines for Software Medical Devices including Machine Learning-Enabled Medical Devices -- A Life Cycle Approach (Dec 2025)</u></a>
-</p>
-</li>
-</ul>
+related to Health Information Act (HIA).</p>
 <h3>Synapxe Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
