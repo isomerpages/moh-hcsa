@@ -183,7 +183,7 @@ different healthcare sectors.</p>
 time to comply with HIA requirements and views you as valuable partners
 in supporting continuity of care in the community. Read on for more details
 on our comprehensive support package.</p>
-<h3>Support for NEHR Contribution </h3>
+<h3>Support for NEHR Contribution</h3>
 <p>MOH encourages all healthcare providers to adopt HIA-compliant HIMS which
 automate the process of contributing key health information to NEHR.</p>
 <ul data-tight="true" class="tight">
@@ -226,4 +226,26 @@ health partners, meet MOH's CSDS requirements on an ongoing basis.</p>
 for CSDS providers on appropriate engagement practices and transparent
 pricing. Healthcare providers that encounter unethical practices by CSDS
 providers can report them to MOH here.</p>
+<h2><strong>Our Calibrated Enforcement Approach</strong></h2>
+<p>We are committed to giving you the reasonable time and support needed
+to meet HIA requirements. Our approach focuses on working together to help
+you adapt your systems and processes. Should there be challenges complying
+with requirements by the required timelines, MOH will consider each case
+carefully and assist where appropriate.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Working Together First</strong>:
+When issues arise—whether from technical problems with systems or simple
+mistakes like staff logging in with wrong accounts—we will work directly
+with healthcare providers to resolve them and provide the necessary support.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Formal Directions When Needed: </strong>If
+collaborative efforts do not resolve the issue, MOH may issue formal directions
+requiring specific corrective actions to fix the problem and prevent it
+from recurring.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Enforcement Actions: </strong>Healthcare
+providers who fail to follow these directions may face enforcement actions
+under HIA. Depending on the circumstances, this could range from advisory
+letters and warnings to suspension of NEHR contribution or access rights.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Prosecution</strong>: For persistent
+or deliberate non-compliance where providers clearly disregard their obligations,
+we will pursue prosecution. Penalties are carefully calibrated to match
+both the severity and impact of the violation.</p>
 <p></p>
