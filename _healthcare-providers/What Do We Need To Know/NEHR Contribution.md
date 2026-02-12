@@ -95,12 +95,12 @@ and HIMS providers:</p>
 <p>Relevance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Licensees to contribute relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed <strong><u>here</u></strong>:
-[Placeholder]</p>
+<p>Licensees to contribute relevant data as specified in the <strong>First Schedule of HIA</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure that all relevant data as specified in the <strong>1<sup>st</sup> schedule of HIA</strong> listed <strong><u>here</u></strong>:
-[Placeholder] is sent over to NEHR.</p>
+<p>Ensure that all relevant data as specified in the <strong>First Schedule of HIA</strong> is
+sent over to NEHR.</p>
 </td>
 </tr>
 <tr>
