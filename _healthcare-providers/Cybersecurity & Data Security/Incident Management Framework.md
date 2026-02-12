@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Cybersecurity & Data Security
 ---
-<p>You and your Health Information Management System (HIMS) providers must
-establish a framework to identify, resolve, and mitigate cybersecurity
+<p>You must establish a framework to identify, resolve, and mitigate cybersecurity
 incidents and data breaches. This includes notifying MOH of prescribed
 security incidents and having mechanisms to detect and respond to threats
 like ransomware attacks or unauthorised access to NEHR information.</p>
-<h2>Data Breach Management</h2>
+<h2><strong>Data Breach Management</strong></h2>
 <p>1.&nbsp;<strong>Notification Requirements</strong>: You will need to notify
 MOH and affected individuals of significant data breaches. Once notified,
 MOH will work with you to understand the root cause of the breach, the
