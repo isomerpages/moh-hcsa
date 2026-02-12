@@ -24,9 +24,6 @@ not recently visited any healthcare provider</p>
 <p>Atypical access patterns that do not match normal care delivery protocols</p>
 </li>
 </ul>
-<p>Synapxe regularly reviews and improves monitoring methods, including the
-use of Artificial Intelligence tools to enhance system security. For more
-information, you may visit Synapxe.</p>
 <h3>Access Logs on HealthHub</h3>
 <p>The "NEHR Access History" feature in the HealthHub app displays instances
 of all healthcare providers’ access to NEHR information over the preceding
@@ -67,7 +64,7 @@ that could harm the patient. In emergency situations when patients are
 unable to respond, timely access to complete records could save their lives.</p>
 <h3>Access Restrictions</h3>
 <p>For those who still have privacy concerns despite all the safeguards in
-place, you can place Access Restrictions to NEHR information. However,
+place, you can place Access Restrictions on NEHR information. However,
 you should understand that such restrictions may limit your healthcare
 providers' ability to deliver optimal care.</p>
 <h3>How Access Restrictions Work</h3>
@@ -91,9 +88,9 @@ professional bodies' ethical codes and guidelines to treat all patients
 fairly and without prejudice, regardless of whether Access Restrictions
 are in place.</p>
 <h3>Setting Up Access Restrictions</h3>
-<p>Currently, you can request Access Restrictions at any public healthcare
-institution. From the second half of this year, you will be able to do
-this through the HealthHub app.</p>
+<p>Currently, you can request Access Restrictions at public healthcare institutions.
+From the second half of this year, you will be able to do this through
+the HealthHub app.</p>
 <h3>What Happens When You Place Access Restrictions</h3>
 <p>With Access Restrictions in place, several important things continue to
 happen to ensure your safety and continuity of care:</p>
@@ -101,15 +98,15 @@ happen to ensure your safety and continuity of care:</p>
 <li>
 <p><strong>Your health information continues to be contributed to NEHR</strong>:
 To ensure there are no gaps in your medical records, even during emergencies,
-health information will continue to be contributed to NEHR even when an
-Access Restriction is in place. This prevents gaps in your medical history
+key health information will continue to be contributed to NEHR even when
+an Access Restriction is in place. This prevents gaps in your medical history
 if you decide to remove Access Restrictions later.</p>
 </li>
 <li>
 <p><strong>Critical safety information remains accessible</strong>: For your
 safety, when you visit healthcare providers, they will still be able to
-view a subset of health information in NEHR. This subset comprises critical
-allergies and vaccination information that helps reduce the risk of inappropriate
+view a subset of health information in NEHR. This subset comprises allergies
+and vaccination information that helps reduce the risk of inappropriate
 prescriptions or immunisations when you visit new healthcare providers.</p>
 </li>
 </ul>
