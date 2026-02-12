@@ -23,7 +23,7 @@ by the Police, or by the Communicable Diseases Agency under the Infectious
 Diseases Act 1976 for outbreak investigations and contact tracing.</p>
 <h2><strong>Our Careful Assessment Process</strong></h2>
 <p>We do not take these requests lightly. For every request we receive, MOH
-carefully assesses whether the NEHR information is appropriate and necessary
+carefully assesses whether NEHR information is appropriate and necessary
 for the purpose, considering factors like whether alternative information
 would work, and whether anonymised or aggregated data would suffice.</p>
 <p></p>
