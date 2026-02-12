@@ -95,11 +95,11 @@ and HIMS providers:</p>
 <p>Relevance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Licensees to contribute relevant data as specified in the <strong>First Schedule of HIA</strong>
+<p>Licensees to contribute relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">First Schedule of HIA</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure that all relevant data as specified in the <strong>First Schedule of HIA</strong> is
+<p>Ensure that all relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">First Schedule of HIA</a></strong> is
 sent over to NEHR.</p>
 </td>
 </tr>
@@ -187,7 +187,7 @@ assistance.</p>
 <h2><strong>What Health Information to Contribute to NEHR</strong></h2>
 <p>The key health information required includes details crucial for continuity
 of care, such as allergies, vaccinations, diagnoses, medications, laboratory
-test results, radiological images, and discharge summaries. <strong><u>The First Schedule </u></strong>specifies
+test results, radiological images, and discharge summaries. <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>The First Schedule</u></a><u> </u></strong>specifies
 exactly what health information each licensee category needs to contribute,
 based on the patient care functions they provide.</p>
 <p>HIA only requires you to contribute health information from care provided
