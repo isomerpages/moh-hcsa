@@ -37,7 +37,7 @@ description: ""
 <p>How You Gain If Doctors Can Call Up All Your Health Records</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/News and Events/News and Feature Articles/Straits_Times_Article_14012026_How_You_Gain_If_Doctors_Can_Call_Up_All_Your_Health_Records.pdf" rel="noopener nofollow" target="_blank">Straits_Times_Article_14012026_How_You_Gain_If_Doctors_Can_Call_Up_All_Your_Health_Records</a>
+<p><a href="/files/News and Events/News and Feature Articles/Straits_Times_Article_14012026_How_You_Gain_If_Doctors_Can_Call_Up_All_Your_Health_Records.pdf" rel="noopener nofollow" target="_blank">Straits_Times_Article_How_You_Gain_If_Doctors_Can_Call_Up_All_Your_Health_Records</a>
 </p>
 </td>
 </tr>
