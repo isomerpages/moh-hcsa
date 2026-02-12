@@ -7,89 +7,223 @@ description: ""
 <h2>Timeline and Preparation</h2>
 <p>HIA will commence in early 2027, providing sufficient time to familiarise
 yourself with HIA’s requirements and strengthen your cybersecurity posture.</p>
-<p>Refer to the image below for detailed implementation timelines based on
+<p>Refer to the table below for detailed implementation timelines based on
 different healthcare sectors.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hia_implementation_timelines_1_0.png">
-</div>
-<h2>Support for Healthcare Providers</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Digital Transformation Support: </strong>MOH encourages all healthcare
-providers to adopt whitelisted Health Information Management Systems (HIMS)
-which automate the process of contributing relevant health information
-to NEHR.</p>
-</li>
-</ul>
-<p>o&nbsp;&nbsp; For smaller clinics that may require more time to digitalise,
-MOH will provide alternative contribution channels so these clinics can
-start contributing data when required, while we continue working with them
-on their digitalisation plans. For more information, click <strong><u>here</u></strong>.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Primary Care Networks (PCNs):</strong> Clinics can join Primary
-Care Networks, which provide peer leadership and support to small or solo
-GP practices and offer administrative assistance through PCN headquarters.
-PCNs will continue offering advice and support to member clinics, sharing
-resources to smoothen the digitalisation journey and NEHR contribution
-requirements.</p>
-<p></p>
-</li>
-</ul>
-<h2>Partnership Approach and Support Package</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Service Type</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CSDS Requirements to Be in Place By</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NEHR Contribution to Start By</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Phase 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acute Hospital</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>February 2027</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>September 2027</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clinical Laboratory</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Radiological</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nuclear Medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical Services (General Practitioners)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Phase 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outpatient Medical Services (Specialists)</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>February 2027</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>&nbsp;September 2028</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Renal Dialysis Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contingency Care Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nursing Home</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Phase 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assisted Reproduction Services</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>February 2027</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>March 2030</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ambulatory Surgical Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outpatient Dental</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retail Pharmacy</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><strong>Support for Healthcare Providers</strong></h2>
 <p>MOH recognises the importance of providing healthcare providers with reasonable
 time to comply with HIA requirements and views you as valuable partners
-in supporting continuity of care in the community. Our comprehensive support
-package includes:</p>
+in supporting continuity of care in the community. Read on for more details
+on our comprehensive support package.</p>
+<h3>Support for NEHR Contribution </h3>
+<p>MOH encourages all healthcare providers to adopt HIA-compliant HIMS which
+automate the process of contributing key health information to NEHR.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Measures to defray the costs of subscription to whitelisted HIA-compliant
-HIMS to digitalise your clinical records and contribute data to NEHR more
-seamlessly</p>
+<p>MOH will provide one-off grant support for healthcare providers to subscribe
+to a HIA-compliant HIMS to contribute key health information to NEHR.</p>
 </li>
 <li>
-<p>Support packages to engage professional services from whitelisted service
-providers to implement cyber and data security requirements</p>
-</li>
-<li>
-<p>Resources, guidance materials and training programmes to help healthcare
-providers, including our community health partners, meet HIA’s cybersecurity
-and data security requirements on an ongoing basis</p>
+<p>For providers requiring additional time to implement a HIA-compliant HIMS,
+MOH will work with you to meet NEHR contribution requirements through an
+alternative mechanism while completing your digitisation journey. Automated
+data transmission from a HIA-compliant HIMS to NEHR remains the preferred
+long-term approach. For more information, click <strong><u>here</u></strong>.</p>
 </li>
 </ul>
-<p><strong>Tailored Support for Different Practice Sizes:</strong> We are
-developing basic service packages specifically tailored to the needs of
-solo practitioners and small and medium enterprises so that they can self-help
-and prevent overselling of unnecessary services.</p>
-<p><strong>Service Provider Standards:</strong> We are establishing clear
-guidelines for whitelisted service providers on appropriate engagement
-practices and transparent pricing. Healthcare providers that encounter
-unethical practices by whitelisted service providers can report them to
-MOH <strong><u>here</u></strong>.</p>
-<p>We are committed to giving you the time and support needed to meet HIA
-requirements. Our approach focuses on working together to help you adapt
-your systems and processes. Should there be challenges complying with requirements
-by the required timelines, MOH will consider each case carefully and assist
-where appropriate.</p>
-<h2>Our Calibrated Enforcement Approach</h2>
-<p><strong>1.&nbsp;Working Together First</strong>
+<h3>Support for Cybersecurity and Data Security Requirements</h3>
+<p>We will make available comprehensive self-help resources and training
+programmes to help you meet cybersecurity and data security (CSDS) requirements.
+If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">this list of CSDS providers</a> who
+offer professional services to help you understand and implement the CSDS
+requirements.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic package to engage professional services from listed CSDS providers
+to implement the baseline CSDS requirements.</p>
+</li>
+<li>
+<p>Eligible small and medium healthcare enterprises can also access Productivity
+Solutions Grant (PSG) co-funding to procure cybersecurity solutions.</p>
+</li>
+<li>
+<p>Resources including concise checklists, infographics, guidance materials
+and training programmes to help healthcare providers, including our community
+health partners, meet MOH's CSDS requirements on an ongoing basis.</p>
+</li>
+</ul>
+<p><em>Note: CSDS professional or retainer services are optional as not everyone will need them.</em>
 </p>
-<p>When issues arise—whether from technical problems with systems or simple
-mistakes like staff logging in with wrong accounts—we'll work directly
-with healthcare providers to resolve them and provide the necessary support.</p>
-<p><strong>2.&nbsp;Formal Directions When Needed</strong>
-</p>
-<p>If collaborative efforts don't resolve the issue, MOH may issue formal
-directions requiring specific corrective actions to fix the problem and
-prevent it from recurring.</p>
-<p><strong>3.&nbsp;Enforcement Actions</strong>
-</p>
-<p>Healthcare providers who fail to follow these directions may face enforcement
-actions under HIA. Depending on the circumstances, this could range from
-advisory letters and warnings to suspension of NEHR contribution or access
-rights.</p>
-<p><strong>4.&nbsp;Prosecution</strong>
-</p>
-<p>For persistent or deliberate non-compliance where providers clearly disregard
-their obligations, we will pursue prosecution. Penalties are carefully
-calibrated to match both the severity and impact of the violation.</p>
+<p><strong>CSDS Provider Standards:</strong> We are establishing clear guidelines
+for CSDS providers on appropriate engagement practices and transparent
+pricing. Healthcare providers that encounter unethical practices by CSDS
+providers can report them to MOH here.</p>
+<p></p>
