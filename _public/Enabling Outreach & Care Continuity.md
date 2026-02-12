@@ -13,8 +13,8 @@ programmes (e.g. Healthier SG and Age Well SG) and better care quality,
 we recognise the potential risks of exposure should there be any unauthorised
 use.</p>
 <p>Therefore, HIA will also introduce safeguards to ensure proper governance,
-cybersecurity and data security. <strong><u>&nbsp;A key safeguard is that HIA enables sharing of health information only if it fulfils these requirements:</u></strong>
-</p>
+cybersecurity and data security. A key safeguard is that HIA enables sharing
+of health information only if it fulfils these requirements:</p>
 <p>1.&nbsp;<strong>Sharing can only happen between</strong>  <strong>approved organisations</strong>:
 This includes key public healthcare stakeholders, public healthcare institutions,
 AIC, and relevant government agencies – all organisations you already trust
