@@ -6,8 +6,8 @@ description: ""
 third_nav_title: What Do We Need to Know
 ---
 <h2><strong>Enhanced Legislative Safeguards and Penalties</strong></h2>
-<p>With HIA, we are strengthening the legislative safeguards around health
-information and imposing stiffer penalties for unauthorised access to NEHR
+<p>With HIA, we have strengthened the legislative safeguards around health
+information and imposed stiffer penalties for unauthorised access to NEHR
 information. These enhanced protections work alongside our existing technical
 controls to ensure all health information remains secure.</p>
 <h2><strong>Access Monitoring and Controls</strong></h2>
@@ -39,7 +39,7 @@ information at different stages during treatment.</p>
 <h3>Reporting Concerns</h3>
 <p>If you identify suspicious activity in your access history, report concerns
 directly through the HealthHub app reporting function. Alternatively, you
-can report it to Ministry of Health (MOH) for investigation linked <strong><u>here</u></strong>.</p>
+can report it to MOH for investigation linked <strong><u>here</u></strong>.</p>
 <h2><strong>Controlling Access to NEHR Information</strong></h2>
 <p>MOH believes that making NEHR information available to healthcare providers
 allows them to give patients the best possible care. With access to patients’
@@ -81,9 +81,9 @@ providers' ability to deliver optimal care.</p>
 </p>
 </li>
 </ul>
-<p>You can set Access Restrictions at the healthcare institution level, but
-not for individual doctors or nurses. Since healthcare is delivered by
-teams working together, it is not practical to restrict access for some
+<p>You can place Access Restrictions at the healthcare institution level,
+but not for individual doctors or nurses. Since healthcare is delivered
+by teams working together, it is not practical to restrict access for some
 team members but not others within the same institution.</p>
 <p>Your Access Restrictions will be known only to the healthcare providers
 managing your care. All healthcare professionals are bound by their respective
@@ -121,8 +121,8 @@ controls and full auditing.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Doctor-Only Access</strong>: Only doctors are authorised to use
-“break-glass” functionality. Other healthcare professionals cannot override
-Access Restrictions during emergencies.</p>
+“break-glass” functionality. Other healthcare professionals cannot "break-glass"
+during emergencies.</p>
 </li>
 <li>
 <p><strong>Credential Verification and Declaration</strong>: Before accessing
