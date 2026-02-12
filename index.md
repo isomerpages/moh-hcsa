@@ -44,9 +44,9 @@ sections:
   - infopic:
       title: Ensure Robust Safeguards for Information Protection
       id: infopic
-      description: Healthcare professionals can only access NEHR for patients under
-        their care. Technical controls, audits and monitoring access logs
-        prevent unauthorised access.
+      description: Healthcare professionals can only access NEHR for their patients.
+        Technical controls & audits prevent unauthorised access, whilst patients
+        can monitor access.
       alt: Image alt text
       image: /images/Homepage___Robust_Safeguards.png
   - textcards:
