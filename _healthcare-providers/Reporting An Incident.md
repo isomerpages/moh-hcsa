@@ -29,7 +29,7 @@ at <a href="https://go.gov.sg/nehr-incident-reporting-form" rel="noopener norefe
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/incident_response_process_1_0.png">
 </div>
-<p><em><u>Incident Reporting Process</u></em>
+<p><em><u>Image: Incident Reporting Process</u></em>
 </p>
 <p>If you need help to report an incident, you can refer to the incident
 resource guide [placeholder].</p>
