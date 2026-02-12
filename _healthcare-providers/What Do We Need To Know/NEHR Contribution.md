@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
-<h2>Who Needs to Contribute to NEHR</h2>
+<h2><strong>Who Needs to Contribute to NEHR</strong></h2>
 <p>Under HIA, all healthcare providers licensed under Healthcare Services
 Act (HCSA) 2020 and retail pharmacies licensed under Health Products Act
 (HPA) 2007 must contribute key health information about patients to NEHR.
 Additionally, certain public agencies that provide patient care, such as
 the Singapore Armed Forces (SAF) and the Singapore Civil Defence Force
-(SCDF), can be gazetted under the Act to contribute key health information
+(SCDF), can be gazetted under HIA to contribute key health information
 to NEHR.</p>
 <p>This contribution requirement applies to Singapore citizens, permanent
 residents, and patients with long-term immigration passes, as these groups
@@ -21,7 +21,7 @@ of transient visitors, such as tourists, does not need to be contributed.</p>
 in a timely manner, which ultimately benefits your patients by enabling
 you, as their healthcare providers, to access all relevant health information
 to provide the best care.</p>
-<h2>Contribution Requirements</h2>
+<h2><strong>Contribution Requirements</strong></h2>
 <p>The following table outlines the key responsibilities for data contributors
 and HIMS providers:</p>
 <table style="minWidth: 75px">
@@ -181,9 +181,10 @@ MOH License Number and HCI Code as provided by Licensee.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>For data contribution issues, contact your HIMS provider or refer to Synapxe's <strong><u>NEHR technical support</u></strong> for
 assistance.</p>
-<h2>What Health Information to Contribute to NEHR</h2>
+<h2><strong>What Health Information to Contribute to NEHR</strong></h2>
 <p>The key health information required includes details crucial for continuity
 of care, such as allergies, vaccinations, diagnoses, medications, laboratory
 test results, radiological images, and discharge summaries. <strong><u>The First Schedule </u></strong>specifies
