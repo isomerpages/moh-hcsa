@@ -6,11 +6,19 @@ description: ""
 third_nav_title: What Do We Need to Know
 ---
 <h2>Your Key Responsibilities</h2>
-<p>You, as Health Information Management System (HIMS) providers, are essential
-partners in Singapore's NEHR framework, responsible for ensuring secure
-and efficient management of patient health information. The following responsibilities
-outline the key obligations that you must fulfil to maintain data security,
-system interoperability, and support quality healthcare delivery.</p>
+<p>Both healthcare providers and health information management system (HIMS)
+providers have obligations under HIA to protect and secure health information.
+As such, the cybersecurity and data security (CSDS) requirements, and the
+corresponding penalties in the event of non-compliances under HIA also
+apply to HIMS providers.</p>
+<p>As HIMS providers process health information on behalf of healthcare providers
+and provide support for the purpose of contribution and access to NEHR,
+HIMS providers will be held responsible in the event that any non-compliance
+is on their part, according to the facts of the case.</p>
+<p>As an essential partner in Singapore's NEHR framework responsible for
+ensuring secure and efficient management of patient health information,
+your responsibilities include maintaining data security, system interoperability,
+and supporting quality healthcare delivery.</p>
 <p>You must stay informed of MOH guidelines and circulars to ensure your
 systems and processes remain compliant with regulatory requirements. You
 are also expected to actively support your healthcare provider clients
@@ -93,8 +101,8 @@ incident or data breaches</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maintain health information such that the information can be easily transferred
-if the healthcare provider decides to switch to anotherHIMS provider. (As
-per the Code of Practice (COP) on <a href="https://www.healthinfo.gov.sg/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Portability for HIMS Vendors</a>)
+if the healthcare provider decides to switch to another HIMS provider as
+per the Code of Practice (COP) on <a href="https://www.healthinfo.gov.sg/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Portability (CODE</a>)
 Information must be structured, commonly used, and machine-readable.</p>
 <p></p>
 <p>For more information, please see “Data Migration”</p>
