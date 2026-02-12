@@ -20,18 +20,16 @@ clinical and radiological laboratories, and dental clinics.</p>
 <p>HIA will help us achieve our vision of 'One Patient, One Health Summary,
 One Care Journey' in two key ways:</p>
 </blockquote>
-<p><strong>1. Close the remaining gaps by requiring all licensed healthcare providers to contribute to the NEHR and providing for their access</strong>
-</p>
-<p>This means that when patients move between different healthcare settings,
-their doctors and care teams will have access to their essential health
-information. As a result, patients will experience better coordinated care,
-higher quality treatment, and reduced costs.</p>
-<p><strong>2. Enable the sharing of health information outside NEHR to support community-based care</strong>
-</p>
-<p>Right now, the Agency for Integrated Care (AIC) under the Ministry of
-Health (MOH) already shares data with community health partners so they
-can reach out and provide befriending services or care to seniors. HIA
-will create another pathway for sharing this type of health information,
-which will strengthen our national health programmes and initiatives.</p>
+<p><strong>1. Close the remaining gaps by requiring all licensed healthcare providers to contribute to the NEHR and providing for their access: </strong>This
+means that when patients move between different healthcare settings, their
+doctors and care teams will have access to their essential health information.
+As a result, patients will experience better coordinated care, higher quality
+treatment, and reduced costs.</p>
+<p><strong>2. Enable the sharing of health information outside NEHR to support community-based care: </strong>Right
+now, Agency for Integrated Care (AIC) under Ministry of Health (MOH) already
+shares data with community health partners so they can reach out and provide
+befriending services or care to seniors. HIA will create another pathway
+for sharing this type of health information, which will strengthen our
+national health programmes and initiatives.</p>
 <p></p>
 <p></p>
