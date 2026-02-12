@@ -25,10 +25,11 @@ and allows MOH to provide guidance across the healthcare sector.</p>
 <p>When you confirm a reportable incident involving cybersecurity or data
 breach, notify MOH of the incident via our online form at <a href="https://go.gov.sg/hia-incident-reporting-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hia-incident-reporting-form</a>.</p>
 <p>If you would like to report a NEHR incident, you can use a separate form
-at [placeholder].</p>
-<p></p>
+at <a href="https://go.gov.sg/nehr-incident-reporting-form" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nehr-incident-reporting-form</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/incident_response_process_1_0.png">
 </div>
+<p><em><u>Incident Reporting Process</u></em>
+</p>
 <p>If you need help to report an incident, you can refer to the incident
 resource guide [placeholder].</p>
