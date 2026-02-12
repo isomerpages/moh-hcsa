@@ -15,13 +15,13 @@ patient care purposes to support better care continuity and safeguard patient
 welfare.</p>
 </li>
 <li>
-<p>HIA will also enable and regulate the sharing of non-NEHR identifiable
-health information within the healthcare ecosystem in support of national
-health programmes and initiatives such as Healthier SG and Age Well SG.</p>
+<p>HIA will enable and regulate the sharing of non-NEHR identifiable health
+information within the healthcare ecosystem in support of national health
+programmes and initiatives such as Healthier SG and Age Well SG.</p>
 </li>
 <li>
 <p>To ensure the confidentiality, integrity and availability of health information,
-HIA will set out cybersecurity and data security standards for healthcare
+HIA will set out cybersecurity and data security requirements for healthcare
 providers and Health Information Management Systems (HIMS).</p>
 </li>
 </ol>
