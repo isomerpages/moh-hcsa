@@ -16,14 +16,14 @@ digital hub for collecting, storing, managing, and sharing health information.
 To contribute key health information to NEHR seamlessly, you will need
 an authorised, HIA-compliant system that connects securely to NEHR.</p>
 <p>MOH has approved a list of HIMS with all necessary technical features.
-These whitelisted systems are NEHR-compatible and meet MOH's cybersecurity
-requirements. We strongly encourage you to adopt a whitelisted HIMS (click <strong><u>here</u></strong>)
-which automates the process of contributing relevant health information
-to NEHR.</p>
+These systems are HIA-compliant and meet MOH's cybersecurity and data security
+(CSDS) requirements. We strongly encourage you to adopt a HIA-compliant
+HIMS (click <strong><u>here</u></strong>) which automates the process of
+contributing key health information to NEHR.</p>
 <p>Even when using a HIA-compliant HIMS, you should ensure that your clinic
-processes and staff meet HIA's CSDS requirements. For instance, ensure
+processes and staff meet MOH’s CSDS requirements. For instance, ensure
 that staff are familiar with basic cyber practices, such as the prevention
 of phishing and good password management. We will provide training resources,
 programmes, and funding support to help you get started.</p>
-<p>For more information on available support to subscribe to a whitelisted
+<p>For more information on available support to subscribe to a HIA-compliant
 HIMS, please refer to: <strong><u>Implementation Support</u></strong>.</p>
