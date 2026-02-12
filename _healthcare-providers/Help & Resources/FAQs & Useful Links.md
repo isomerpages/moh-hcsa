@@ -9,7 +9,7 @@ third_nav_title: Help & Resources
 <p>[Placeholder]</p>
 <h2><strong>Useful Links</strong></h2>
 <p>Visit the external websites listed below for more information on the materials
-related to the Health Information Act (HIA).</p>
+related to Health Information Act (HIA).</p>
 <h3>Health Sciences Authority (HSA) Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
