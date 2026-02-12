@@ -30,9 +30,9 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Homepage___One_Patient_One_Health_Record.png
-      description: HIA requires healthcare providers to contribute patients’ key
-        health information to NEHR, with controlled access for care, reducing
-        duplicate tests and costs
+      description: HIA requires healthcare providers to contribute key patient health
+        data to NEHR & grants controlled access for care. This reduces costs &
+        improves care quality.
   - infopic:
       title: Enabling Outreach & Care Continuity
       id: infopic
