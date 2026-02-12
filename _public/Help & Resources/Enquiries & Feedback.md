@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Feedback Form Submission</h2>
+<h2><strong>Feedback Form Submission</strong></h2>
 <p>If you have any feedback or enquiries regarding the following topics,
 please select the relevant forms linked below:</p>
 <h3>For Health Information Act (HIA)</h3>
