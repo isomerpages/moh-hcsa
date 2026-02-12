@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need To Know
 ---
+<h2><strong>Adopting a HIA-Compliant HIMS for NEHR Contribution</strong></h2>
 <p>Whether you are still using pen and paper or have some digital systems,
 you have likely noticed how digital transformation is reshaping healthcare.
 Digital systems are now essential for documenting patient visits, sharing
@@ -19,8 +20,10 @@ These whitelisted systems are NEHR-compatible and meet MOH's cybersecurity
 requirements. We strongly encourage you to adopt a whitelisted HIMS (click <strong><u>here</u></strong>)
 which automates the process of contributing relevant health information
 to NEHR.</p>
-<p>Once you are using one of these systems, focus on maintaining data security
-through proper staff training on NEHR access and use. We will provide training
-resources, programmes, and funding support to help you get set up.</p>
+<p>Even when using a HIA-compliant HIMS, you should ensure that your clinic
+processes and staff meet HIA's CSDS requirements. For instance, ensure
+that staff are familiar with basic cyber practices, such as the prevention
+of phishing and good password management. We will provide training resources,
+programmes, and funding support to help you get started.</p>
 <p>For more information on available support to subscribe to a whitelisted
 HIMS, please refer to: <strong><u>Implementation Support</u></strong>.</p>
