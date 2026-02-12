@@ -21,8 +21,8 @@ programmes and initiatives such as Healthier SG and Age Well SG.</p>
 </li>
 <li>
 <p>To ensure the confidentiality, integrity and availability of health information,
-HIA will set out cybersecurity and data security requirements for healthcare
-providers and Health Information Management Systems (HIMS).</p>
+HIA will set out cybersecurity and data security (CSDS) requirements for
+healthcare providers and Health Information Management Systems (HIMS).</p>
 </li>
 </ol>
 <p></p>
