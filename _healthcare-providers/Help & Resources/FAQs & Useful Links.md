@@ -5,18 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>FAQs</h2>
+<h2><strong>FAQs</strong></h2>
 <p>[Placeholder]</p>
-<h2>Useful Links</h2>
+<h2><strong>Useful Links</strong></h2>
 <p>Visit the external websites listed below for more information on the materials
 related to the Health Information Act (HIA).</p>
-<h3>Health Information Act (HIA)</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sso.agc.gov.sg/Bills-Supp/20-2025/Published/20251105?DocDate=20251105" rel="noopener noreferrer nofollow" target="_blank">Health Information Act (HIA)</a>
-</p>
-</li>
-</ul>
 <h3>Health Sciences Authority (HSA) Guidelines</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,6 +25,10 @@ related to the Health Information Act (HIA).</p>
 </li>
 <li>
 <p><a href="https://cms.synapxe.sg/sites/connectnehr/Pages/ParticipateNEHR.aspx" rel="noopener nofollow" target="_blank">Participate in the NEHR</a>
+</p>
+</li>
+<li>
+<p><strong><u>[Placeholder: AAC]</u></strong>
 </p>
 </li>
 </ul>
