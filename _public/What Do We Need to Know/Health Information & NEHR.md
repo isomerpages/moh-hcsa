@@ -32,8 +32,8 @@ more information.</p>
 <p>NEHR is only accessible to healthcare professionals who are directly involved
 in your care. This includes your doctors, nurses, pharmacists, and allied
 health professionals like physiotherapists or dietitians.</p>
-<p>Even qualified healthcare professionals cannot access your records if
-they are only doing administrative work. They must be actively providing
+<p>Even qualified healthcare professionals cannot access NEHR information
+if they are only doing administrative work. They must be actively providing
 care to you to view NEHR information.</p>
 <p>Healthcare institutions are required to train their staff properly and
 regularly audit who is accessing patient records to ensure regulatory compliance.</p>
@@ -62,7 +62,7 @@ when:</p>
 <p>When you need medical reports for employment or insurance, doctors must
 rely on their own clinic records, direct consultation with you, and clinical
 assessment - not NEHR information.</p>
-<p><strong>Strict penalties apply</strong> - Anyone who tries to access NEHR
+<p><strong>Strict penalties apply</strong>: Anyone who tries to access NEHR
 for employment or insurance purposes faces severe legal consequences, with
 even higher penalties for these prohibited uses.</p>
 <p>This protection ensures health information stays where it belongs - with
