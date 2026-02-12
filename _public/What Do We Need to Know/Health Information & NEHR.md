@@ -81,7 +81,7 @@ Forces, Singapore Civil Defence Force, and Singapore Police Force, as required
 under Enlistment Act</p>
 </li>
 </ul>
-<p>The specified statutory medical examinations for which NEHR information
-may be accessed is listed in the <strong>Third Schedule</strong> linked <strong><u>here</u></strong>.</p>
+<p><em>Note: The specified statutory medical examinations for which NEHR information may be accessed is listed in the </em><strong><em>Third Schedule</em></strong><em> linked </em><strong><em><u>here</u></em></strong><em>.</em>
+</p>
 <h2></h2>
 <p></p>
