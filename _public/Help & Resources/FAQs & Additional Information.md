@@ -26,7 +26,7 @@ through better coordination between healthcare providers and enhanced support
 programmes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><u>[Placeholder: Key Elements of the HIA Infographic]</u>
+<p><u>Key Elements of HIA Infographic</u>
 </p>
 </li>
 </ul>
