@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>FAQs</h2>
+<h2><strong>FAQs</strong></h2>
 <p>[Placeholder]</p>
-<h2>Where to Get More Information</h2>
+<h2><strong>Where to Get More Information</strong></h2>
 <h3>HealthHub</h3>
 <p>HealthHub is a digital platform consisting of a web portal and a mobile
 application that provides nationally harmonised health information and
