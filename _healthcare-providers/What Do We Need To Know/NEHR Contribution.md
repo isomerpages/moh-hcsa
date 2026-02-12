@@ -95,7 +95,7 @@ and HIMS providers:</p>
 <p>Relevance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Licensees to contribute relevant data as specified in the <strong>First Schedule of HIA</strong> 
+<p>Licensees to contribute relevant data as specified in the <strong>First Schedule of HIA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
