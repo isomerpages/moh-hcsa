@@ -217,8 +217,8 @@ requirements.</p>
 to implement the baseline CSDS requirements.</p>
 </li>
 <li>
-<p>Eligible small and medium healthcare enterprises can also access Productivity
-Solutions Grant (PSG) co-funding to procure cybersecurity solutions.</p>
+<p>Eligible small and medium healthcare enterprises can also access <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a> to
+procure cybersecurity solutions.</p>
 </li>
 <li>
 <p>Resources including concise checklists, infographics, guidance materials
