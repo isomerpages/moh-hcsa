@@ -73,15 +73,15 @@ cyber and data security requirements under HIA</p>
 </tbody>
 </table>
 <p></p>
-<h2>Whitelist of NEHR-compatible HIMS</h2>
-<p>[Placeholder: whitelisted HIMS providers]</p>
-<h2>Whitelist of Cyber and Data Security (CSDS) Providers</h2>
+<h2>List of HIA-Compliant HIMS</h2>
+<p>[Placeholder]</p>
+<h2>List of Cyber and Data Security (CSDS) Providers</h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
-be required to comply with CSDS requirements under HIA, including CSDS
-Guidelines. For assistance with implementing the necessary security measures,
-healthcare organisations may wish to approach any of the CSDS providers
-in the list linked below.</p>
+be required to comply with CSDS requirements under HIA, including Cybersecurity
+and Data Security Essentials. For assistance with implementing the necessary
+security measures, healthcare organisations may wish to approach any of
+the CSDS providers in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[Placeholder: List of Cyber and Data Security Providers]</p>
