@@ -88,9 +88,9 @@ professional bodies' ethical codes and guidelines to treat all patients
 fairly and without prejudice, regardless of whether Access Restrictions
 are in place.</p>
 <h3>Setting Up Access Restrictions</h3>
-<p>Currently, you can request Access Restrictions at public healthcare institutions.
-From the second half of this year, you will be able to do this through
-the HealthHub app.</p>
+<p>Currently, you can submit a request to place Access Restrictions at public
+healthcare institutions. From the second half of this year, you will be
+able to do this through the HealthHub app.</p>
 <h3>What Happens When You Place Access Restrictions</h3>
 <p>With Access Restrictions in place, several important things continue to
 happen to ensure your safety and continuity of care:</p>
