@@ -68,7 +68,7 @@ sections:
         - title: For Health Info Management Systems Providers
           description: ""
           linktext: Learn more
-          url: /health-info-mgmt-sys-providers/help-and-resources/moh-guidelines/
+          url: /health-info-mgmt-sys-providers/help-and-resources/faqs-and-useful-links/
   - announcements:
       title: Announcements
       id: announcements
