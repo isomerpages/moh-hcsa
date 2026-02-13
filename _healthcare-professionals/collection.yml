@@ -1,4 +1,5 @@
 collections:
   healthcare-professionals:
     output: true
-    order: []
+    order:
+      - What Do We Need to Know/.keep
