@@ -1,0 +1,4 @@
+collections:
+  healthcare-professionals:
+    output: true
+    order: []
