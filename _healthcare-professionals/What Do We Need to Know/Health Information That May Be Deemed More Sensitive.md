@@ -15,11 +15,11 @@ your specific role and direct involvement in patient care. Only access
 the health information necessary for your clinical responsibilities - for
 example, psychiatric ward nurses should only access psychiatric information
 for patients under their direct care.</p>
-<h3><strong>Enhanced Security</strong></h3>
+<h3>Enhanced Security</h3>
 <p>Complete the double log-in process by re-verifying your credentials through
 the additional authentication step. Keep your authentication credentials
 secure and never share them with others.</p>
-<h3><strong>Professional Standards</strong></h3>
+<h3>Professional Standards</h3>
 <p>Handle all health information with utmost discretion and professionalism.
 Use health information solely for legitimate clinical purposes and ensure
 appropriate confidentiality.</p>
