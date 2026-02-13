@@ -2,9 +2,9 @@ collections:
   healthcare-professionals:
     output: true
     order:
-      - What Do We Need to Know/Guidelines & Support.md
+      - What Do We Need to Know/.keep
+      - What Do We Need to Know/Managing NEHR Information.md
+      - What Do We Need to Know/Understanding Access Restrictions.md
       - What Do We Need to Know/Health Information That May Be Deemed More
         Sensitive.md
-      - What Do We Need to Know/Understanding Access Restrictions.md
-      - What Do We Need to Know/Managing NEHR Information.md
-      - What Do We Need to Know/.keep
+      - What Do We Need to Know/Guidelines & Support.md
