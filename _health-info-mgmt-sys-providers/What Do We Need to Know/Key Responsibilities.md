@@ -45,8 +45,8 @@ update your systems when new guidance is issued.</p>
 <p>System Integration Standards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure systems meet NEHR compatibility requirements for data quality,
-cybersecurity, and data security.</p>
+<p>Ensure systems meet HIA compliance requirements for data quality, cybersecurity,
+and data security.</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ incident or data breaches</p>
 <td rowspan="1" colspan="1">
 <p>Maintain health information such that the information can be easily transferred
 if the healthcare provider decides to switch to another HIMS provider as
-per the Code of Practice (COP) on <a href="https://www.healthinfo.gov.sg/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Portability (CODE</a>)
+per the Code of Practice for <a href="https://www.healthinfo.gov.sg/files/COP_for_Data_Portability_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Portability (CODE</a>).
 Information must be structured, commonly used, and machine-readable.</p>
 <p></p>
 <p>For more information, please see “Data Migration”</p>
