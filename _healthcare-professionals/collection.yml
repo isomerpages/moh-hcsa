@@ -2,6 +2,7 @@ collections:
   healthcare-professionals:
     output: true
     order:
+      - Help & Resources/MOH Guidelines.md
       - Help & Resources/.keep
       - What Do We Need to Know/.keep
       - What Do We Need to Know/Managing NEHR Information.md
