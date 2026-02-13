@@ -43,7 +43,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;1.</p>
+<p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acute Hospital</p>
@@ -57,7 +57,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2.</p>
+<p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Clinical Laboratory</p>
@@ -65,7 +65,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;3.</p>
+<p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Radiological</p>
@@ -73,7 +73,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;4.</p>
+<p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nuclear Medicine</p>
@@ -81,7 +81,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;5.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outpatient Medical Services (General Practitioners)</p>
@@ -95,7 +95,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;6.</p>
+<p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outpatient Medical Services (Specialists)</p>
@@ -109,7 +109,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;7.</p>
+<p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Renal Dialysis Centre</p>
@@ -117,7 +117,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;8.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contingency Care Services</p>
@@ -125,7 +125,7 @@ different healthcare sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;9.</p>
+<p>9.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nursing Home</p>
