@@ -83,13 +83,13 @@ cyber and data security requirements under HIA</p>
 <p></p>
 <h2>List of HIA-Compliant HIMS</h2>
 <p>[Placeholder]</p>
-<h2>List of Cyber and Data Security (CSDS) Providers</h2>
+<h2>List of Cyber and Data Security Providers</h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
-be required to comply with CSDS requirements under HIA, including Cybersecurity
-and Data Security Essentials. For assistance with implementing the necessary
-security measures, healthcare organisations may wish to approach any of
-the CSDS providers in the list linked below.</p>
+be required to comply with cybersecurity and data security (CSDS) requirements
+under HIA, including Cybersecurity and Data Security Essentials. For assistance
+with implementing the necessary security measures, healthcare organisations
+may wish to approach any of the CSDS providers in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan | Cyber Security Agency of Singapore</a>
