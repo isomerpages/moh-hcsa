@@ -94,11 +94,11 @@ and HIMS providers:</p>
 <p>Relevance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Licensees to contribute relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">First Schedule of HIA</a></strong>
+<p>Licensees to contribute relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">HIA's First Schedule</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ensure that all relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">First Schedule of HIA</a></strong> is
+<p>Ensure that all relevant data as specified in the <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank">HIA's First Schedule</a></strong> is
 sent over to NEHR.</p>
 </td>
 </tr>
