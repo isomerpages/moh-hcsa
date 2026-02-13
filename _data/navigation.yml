@@ -6,6 +6,8 @@ links:
     collection: public
   - title: Healthcare Providers
     collection: healthcare-providers
+  - title: Healthcare Professionals
+    collection: healthcare-professionals
   - title: Health Info Mgmt Sys Providers
     collection: health-info-mgmt-sys-providers
   - title: News & Events
