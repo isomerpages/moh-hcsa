@@ -22,30 +22,30 @@ integrity and security of patient health information.</p>
 <h3>NEHR Integration Requirements</h3>
 <p>To achieve HIA compliance certification, your system must meet three core
 NEHR integration requirements:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>System Integration Requirement</strong>:
-You must implement secure digital certification by ensuring the necessary
-digital certificates are signed, installed and exchanged between systems.
-Additionally, you need to establish robust authentication and authorisation
-measures to protect data during exchange and implement ContextSwitch for
-safe and secured access to NEHR.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Data Integration Requirement</strong>:
-Your system must adhere to interface specifications that ensure contribution
-follows the technical mapping, mapping guidelines, message specification,
-standards, quality and integrity requirements. You must also ensure your
-contribution covers HIA datasets compliance requirements.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>National Coding Standards</strong>:
-Your system must demonstrate code sets compliance by adhering to national
-code sets, including National Health Data Dictionary, Systematized Nomenclature
-of Medicine – Clinical Terms, Logical Observation Identifiers Names and
-Codes, Singapore Medicine Supporting Terminology, and Singapore Drug Dictionary.</p>
+<p>1.&nbsp;<strong>System Integration Requirement</strong>: You must implement
+secure digital certification by ensuring the necessary digital certificates
+are signed, installed and exchanged between systems. Additionally, you
+need to establish robust authentication and authorisation measures to protect
+data during exchange and implement ContextSwitch for safe and secured access
+to NEHR.</p>
+<p>2.&nbsp;<strong>Data Integration Requirement</strong>: Your system must
+adhere to interface specifications that ensure contribution follows the
+technical mapping, mapping guidelines, message specification, standards,
+quality and integrity requirements. You must also ensure your contribution
+covers HIA datasets compliance requirements.</p>
+<p>3.&nbsp;<strong>National Coding Standards</strong>: Your system must demonstrate
+code sets compliance by adhering to national code sets, including National
+Health Data Dictionary, Systematized Nomenclature of Medicine – Clinical
+Terms, Logical Observation Identifiers Names and Codes, Singapore Medicine
+Supporting Terminology, and Singapore Drug Dictionary.</p>
 <h3>HIMS Provider Governance and Compliance</h3>
 <p>You must also meet governance and compliance requirements to obtain HIA-compliant
 certification:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cyber Essentials for HIMS Providers</strong>:
-You need to obtain Cyber Essentials (CE) for Health Information Management
-System (HIMS) Providers Certification. This involves third-party certification
+<p>1.&nbsp;<strong>Cyber Essentials for HIMS Providers</strong>: You need
+to obtain Cyber Essentials (CE) for Health Information Management System
+(HIMS) Providers Certification. This involves third-party certification
 under CSA for HIMS that align with HIA CSDS Essentials.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Code of Practice for Data Portability (CODE)</strong>:
+<p>2.&nbsp;<strong>Code of Practice for Data Portability (CODE)</strong>:
 You must provide a self-declared adherence that sets out the practices
 HIMS Providers shall comply with in the provision of support or services,
 including data migration and data portability.</p>
