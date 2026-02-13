@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Ensuring Data Portability</h2>
+<h2><strong>Ensuring Data Portability</strong></h2>
 <p>When healthcare providers switch from one HIMS to another, they must maintain
 access to patient records and service recipient data for safety and continuity
 of care. This requires accurate and complete data migration between HIMS.</p>
