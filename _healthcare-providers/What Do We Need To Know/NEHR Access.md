@@ -48,8 +48,8 @@ providing direct patient care</p>
 </li>
 </ul>
 <h2><strong>Your Responsibilities</strong></h2>
-<p>You must ensure your authorised staff use NEHR properly by providing regular
-training on appropriate NEHR use and conducting regular audits to monitor
-how your team accesses the system.</p>
+<p>You must ensure your authorised staff use NEHR information properly by
+providing regular training on appropriate NEHR use and conducting regular
+audits to monitor how your team accesses the system.</p>
 <p>In short, NEHR access is only for healthcare professionals who need it
 to provide direct care to their patients.</p>
