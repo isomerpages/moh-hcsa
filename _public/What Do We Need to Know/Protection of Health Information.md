@@ -12,7 +12,7 @@ information. These enhanced protections work alongside our existing technical
 controls to ensure all health information remains secure.</p>
 <h2><strong>Access Monitoring and Controls</strong></h2>
 <h3>Monitoring Access to NEHR</h3>
-<p>Synapxe, the NEHR system operator, actively monitors for suspicious activity
+<p>Synapxe, the NEHR System Operator, actively monitors for suspicious activity
 by conducting regular audits and ongoing monitoring to detect unusual behaviour,
 including:</p>
 <ul data-tight="true" class="tight">
