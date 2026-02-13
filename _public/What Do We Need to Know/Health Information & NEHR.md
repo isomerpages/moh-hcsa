@@ -37,7 +37,7 @@ if they are only doing administrative work. They must be actively providing
 care to you to view NEHR information.</p>
 <p>Healthcare institutions are required to train their staff properly and
 regularly audit who is accessing patient records to ensure regulatory compliance.</p>
-<h2><strong>When Your NEHR Information Can Be Accessed</strong></h2>
+<h2><strong>When NEHR Information Can Be Accessed</strong></h2>
 <h3>For Patient Care</h3>
 <p>When you are receiving treatment, your healthcare team can access NEHR
 information without asking permission each time. This helps them give you
