@@ -14,9 +14,9 @@ existing security requirements specifically for health information, rather
 than creating entirely new obligations.</p>
 <p>All HIA entities must meet CSDS requirements outlined in the <strong><u>Cybersecurity and Data Security Essentials</u></strong>.
 These security controls have been developed by MOH in consultation with
-the Cyber Security Agency of Singapore (CSA), Infocomm Media Development
-Authority (IMDA), and Personal Data Protection Commission (PDPC) to provide
-clear policy guidance on security measures for health information.</p>
+Cyber Security Agency of Singapore (CSA), Infocomm Media Development Authority
+(IMDA), and Personal Data Protection Commission (PDPC) to provide clear
+policy guidance on security measures for health information.</p>
 <p>This includes essential security measures like anti-malware solutions,
 firewalls, proper data backup procedures, and secure storage practices.
 You will also need to train your staff on cyber-hygiene and data governance.
