@@ -18,8 +18,8 @@ an authorised, HIA-compliant system that connects securely to NEHR.</p>
 <p>MOH has approved a list of HIMS with all necessary technical features.
 These systems are HIA-compliant and meet MOH's cybersecurity and data security
 (CSDS) requirements. We strongly encourage you to adopt a HIA-compliant
-HIMS (click <strong><u>here</u></strong>) which automates the process of
-contributing key health information to NEHR.</p>
+HIMS which automates the process of contributing key health information
+to NEHR.</p>
 <p>Even when using a HIA-compliant HIMS, you should ensure that your clinic
 processes and staff meet MOH’s CSDS requirements. For instance, ensure
 that staff are familiar with basic cyber practices, such as the prevention
