@@ -9,6 +9,12 @@ description: ""
 yourself with HIA’s requirements and strengthen your cybersecurity posture.</p>
 <p>Refer to the table linked below for detailed implementation timelines
 based on different healthcare services.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Detailed Implementation Timelines based on Different Healthcare Services &lt;to link the below table as pdf here&gt;</u></strong>
+</p>
+</li>
+</ul>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
