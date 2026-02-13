@@ -105,9 +105,10 @@ if you decide to remove Access Restrictions later.</p>
 <li>
 <p><strong>Critical safety information remains accessible</strong>: For your
 safety, when you visit healthcare providers, they will still be able to
-view a subset of health information in NEHR. This subset comprises allergies
-and vaccination information that helps reduce the risk of inappropriate
-prescriptions or immunisations when you visit new healthcare providers.</p>
+view a subset of health information in NEHR. This subset comprises health
+information such as allergies and vaccinations that helps reduce the risk
+of inappropriate prescriptions or immunisations when you visit new healthcare
+providers.</p>
 </li>
 </ul>
 <h3>Emergency Access ("Break-Glass")</h3>
