@@ -27,5 +27,5 @@ with community services and activities based on your needs.</p>
 This typically means basic details like your name and contact information,
 and if needed, general health indicators such as whether you have frailty
 or chronic conditions – but not your actual medical conditions.</p>
-<p><em>Note: The specified use cases and organisations for which non-NEHR information may be shared is listed in the </em><strong><em>Fourth Schedule</em></strong><em>.</em>
+<p><em>Note: The specified use cases and organisations for which non-NEHR information may be shared is listed in </em><strong><em><u>HIA's Fourth Schedule</u></em></strong><em>.</em>
 </p>
