@@ -186,7 +186,7 @@ assistance.</p>
 <h2><strong>What Health Information to Contribute to NEHR</strong></h2>
 <p>The key health information required includes details crucial for continuity
 of care, such as allergies, vaccinations, diagnoses, medications, laboratory
-test results, radiological images, and discharge summaries. <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HIA's First Schedule</u></a><u> </u></strong>specifies
+test results, radiological images, and discharge summaries. <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HIA's First Schedule</u></a></strong> specifies
 exactly what health information each licensee category needs to contribute,
 based on the patient care functions they provide.</p>
 <p>HIA only requires you to contribute health information from care provided
