@@ -10,9 +10,8 @@ third_nav_title: What Do We Need To Know
 Act (HCSA) 2020 and retail pharmacies licensed under Health Products Act
 (HPA) 2007 must contribute key health information about patients to NEHR.
 Additionally, certain public agencies that provide patient care, such as
-the Singapore Armed Forces (SAF) and the Singapore Civil Defence Force
-(SCDF), can be gazetted under HIA to contribute key health information
-to NEHR.</p>
+Singapore Armed Forces (SAF) and Singapore Civil Defence Force (SCDF),
+can be gazetted under HIA to contribute key health information to NEHR.</p>
 <p>This contribution requirement applies to Singapore citizens, permanent
 residents, and patients with long-term immigration passes, as these groups
 are most likely to seek ongoing care in Singapore over time. Health information
