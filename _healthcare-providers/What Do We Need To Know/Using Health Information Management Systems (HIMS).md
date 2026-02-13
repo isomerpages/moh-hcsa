@@ -26,4 +26,4 @@ that staff are familiar with basic cyber practices, such as the prevention
 of phishing and good password management. We will provide training resources,
 programmes, and funding support to help you get started.</p>
 <p>For more information on available support to subscribe to a HIA-compliant
-HIMS, please refer to: <strong><u>Implementation Support</u></strong>.</p>
+HIMS, please refer to: <a href="/healthcare-providers/help-and-resources/implementation-support/" rel="noopener nofollow" target="_blank">Implementation Support</a>.</p>
