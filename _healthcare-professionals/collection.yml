@@ -2,6 +2,7 @@ collections:
   healthcare-professionals:
     output: true
     order:
+      - Help & Resources/FAQs & Useful Links.md
       - Help & Resources/MOH Guidelines.md
       - Help & Resources/.keep
       - What Do We Need to Know/.keep
