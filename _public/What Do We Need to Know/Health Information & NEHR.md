@@ -76,7 +76,7 @@ to protect public health and safety. Examples include:</p>
 <p>Examinations of persons who are at risk of an infectious disease</p>
 </li>
 <li>
-<p>Medical examinations to assess fitness for service in the Singapore Armed
+<p>Medical examinations to assess fitness for service in Singapore Armed
 Forces, Singapore Civil Defence Force, and Singapore Police Force, as required
 under Enlistment Act</p>
 </li>
