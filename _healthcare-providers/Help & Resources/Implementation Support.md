@@ -84,7 +84,8 @@ security measures, healthcare organisations may wish to approach any of
 the CSDS providers in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[Placeholder: List of Cyber and Data Security Providers]</p>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan | Cyber Security Agency of Singapore</a>
+</p>
 </li>
 </ul>
 <p><em>Note: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate service provider. For avoidance of doubt, organisations are also free to approach any other service providers which are not included in the list, which has only been provided for reference.</em>
