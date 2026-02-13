@@ -4,7 +4,7 @@ permalink: /healthcare-providers/implementation-and-enforcement-approach/
 variant: tiptap
 description: ""
 ---
-<h2>Timeline and Preparation</h2>
+<h2><strong>Timeline and Preparation</strong></h2>
 <p>HIA will commence in early 2027, providing sufficient time to familiarise
 yourself with HIA’s requirements and strengthen your cybersecurity posture.</p>
 <p>Refer to the table linked below for detailed implementation timelines
