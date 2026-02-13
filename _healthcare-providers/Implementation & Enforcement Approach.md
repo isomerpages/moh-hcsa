@@ -7,8 +7,8 @@ description: ""
 <h2>Timeline and Preparation</h2>
 <p>HIA will commence in early 2027, providing sufficient time to familiarise
 yourself with HIA’s requirements and strengthen your cybersecurity posture.</p>
-<p>Refer to the table below for detailed implementation timelines based on
-different healthcare services.</p>
+<p>Refer to the table linked below for detailed implementation timelines
+based on different healthcare services.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
