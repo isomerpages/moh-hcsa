@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: What Do We Need to Know
 ---
-<h2>Your Key Responsibilities</h2>
+<h2><strong>Your Key Responsibilities</strong></h2>
 <p>Both healthcare providers and health information management system (HIMS)
 providers have obligations under HIA to protect and secure health information.
 As such, the cybersecurity and data security (CSDS) requirements, and the
