@@ -19,9 +19,9 @@ they access NEHR information. This ensures you can provide timely, effective
 care when your patients need it most.</p>
 <h2><strong>Managing NEHR Access in Your Organisation</strong></h2>
 <p>As a healthcare provider, you decide who in your organisation gets NEHR
-access. The <strong><a href="/files/Second_Schedule_v4__poppins__with_definitions__first_draft_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Second Schedule</u></a></strong>
-<a href="/files/Second_Schedule_v4__poppins__with_definitions__first_draft_.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>sets out the categories of authorised individuals who may access NEHR
-for different categories of healthcare providers.</p>
+access. The <strong><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Second Schedule </u></a></strong>sets
+out the categories of authorised individuals who may access NEHR for different
+categories of healthcare providers.</p>
 <p>Here is who you can and cannot authorise:</p>
 <p><strong>Authorised Personnel:</strong>
 </p>
