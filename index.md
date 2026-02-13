@@ -64,7 +64,7 @@ sections:
         - title: For Healthcare Professionals
           description: ""
           linktext: Learn more
-          url: /for-healthcare-professionals/help-and-resources/guidelines/
+          url: /healthcare-professionals/help-and-resources/moh-guidelines/
         - title: For Health Info Management Systems Providers
           description: ""
           linktext: Learn more
