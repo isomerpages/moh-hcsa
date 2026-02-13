@@ -2,4 +2,5 @@ collections:
   healthcare-professionals:
     output: true
     order:
+      - What Do We Need to Know/Managing NEHR Information.md
       - What Do We Need to Know/.keep
