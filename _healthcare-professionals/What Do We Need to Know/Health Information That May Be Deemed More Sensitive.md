@@ -6,9 +6,9 @@ description: ""
 third_nav_title: What Do We Need to Know
 ---
 <h2><strong>Your Responsibilities</strong></h2>
-<p>You have heightened responsibilities when accessing health information
-that may be deemed more sensitive, including sexually transmitted infections,
-delusional disorders, and schizophrenia.</p>
+<p>You have heightened responsibilities when accessing and handling health
+information that may be deemed more sensitive, including sexually transmitted
+infections, delusional disorders, and schizophrenia.</p>
 <h3>Access Controls</h3>
 <p>Your access to such health information is carefully controlled based on
 your specific role and direct involvement in patient care. Only access
@@ -20,8 +20,8 @@ for patients under their direct care.</p>
 the additional authentication step. Keep your authentication credentials
 secure and never share them with others.</p>
 <h3>Professional Standards</h3>
-<p>Handle all health information with utmost discretion and professionalism.
-Use health information solely for legitimate clinical purposes and ensure
-appropriate confidentiality.</p>
-<p>All access to all types of health information is closely monitored, and
-you will be held accountable for any unauthorised access or misuse.</p>
+<p>Handle such health information with utmost discretion and professionalism.
+Use this health information solely for legitimate clinical purposes and
+ensure appropriate confidentiality.</p>
+<p>All access to such health information is closely monitored, and you will
+be held accountable for any unauthorised access or misuse.</p>
