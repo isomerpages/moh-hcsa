@@ -217,15 +217,15 @@ procure cybersecurity solutions.</p>
 <li>
 <p>Resources including concise checklists, infographics, guidance materials
 and training programmes to help healthcare providers, including our community
-health partners, meet MOH's CS/DS requirements on an ongoing basis.</p>
+health partners, meet HIA's CS/DS requirements on an ongoing basis.</p>
 </li>
 </ul>
 <p><em>Note: CS/DS professional or retainer services are optional as not everyone will need them.</em>
 </p>
-<p><strong>CS/DS Provider Standards:</strong> We are establishing clear guidelines
-for CS/DS providers on appropriate engagement practices and transparent
-pricing. Healthcare providers that encounter unethical practices by CS/DS
-providers can report them to MOH here.</p>
+<p><strong>CS/DS Service Provider Standards:</strong> We are establishing
+clear guidelines for CS/DS service providers on appropriate engagement
+practices and transparent pricing. Healthcare providers that encounter
+unethical practices by CS/DS providers can report them to MOH here.</p>
 <h2><strong>Our Calibrated Enforcement Approach</strong></h2>
 <p>We are committed to giving you the reasonable time and support needed
 to meet HIA requirements. Our approach focuses on working together to help
