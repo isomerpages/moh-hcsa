@@ -32,7 +32,7 @@ sections:
       image: /images/Homepage___One_Patient_One_Health_Record.png
       description: HIA requires healthcare providers to contribute key patient health
         data to NEHR. This improves care quality & reduces costs; less
-        duplicative tests
+        duplicative tests.
   - infopic:
       title: Enabling Outreach & Care Continuity
       id: infopic
