@@ -102,7 +102,7 @@ providers in the list linked below.</p>
 </ul>
 <p><em>Note 1: Updated in [xx 2026]</em>
 </p>
-<p><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CSDS provider. For avoidance of doubt, organisations are also free to approach any other CSDS providers which are not included in the list, which has only been provided for reference.</em>
+<p><em>Note 2: MOH does not endorse or recommend any particular organisation, individual, product, process, or service set out above, nor can MOH assure the quality of the work of any organisation or individual. Organisations should conduct their own due diligence and exercise judgment in selecting the appropriate CS/DS service provider. For avoidance of doubt, organisations are also free to approach any other CS/DS service providers which are not included in the list, which has only been provided for reference.</em>
 </p>
 <p></p>
 <p></p>
