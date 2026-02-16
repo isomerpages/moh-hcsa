@@ -27,8 +27,8 @@ for different categories of healthcare providers.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical practitioners, nurses, pharmacists, and allied health professionals
-providing direct patient care</p>
+<p>Staff such as medical practitioners, nurses, pharmacists, and allied health
+professionals providing direct patient care</p>
 </li>
 <li>
 <p>Access limited to patients under their active clinical management</p>
