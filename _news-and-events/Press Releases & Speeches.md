@@ -42,7 +42,7 @@ description: ""
 <p>Senior Minister of State (SMS), MDDI &amp; MOH, Mr Tan Kiat How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moh.gov.sg/newsroom/health-information-bill-second-reading-opening-speech-for-sms-tan-kiat-how/" rel="noopener noreferrer nofollow" target="_blank">OPENING SPEECH BY MR TAN KIAT HOW, SENIOR MINISTER OF STATE, MDDI &amp; MOH, FOR THE SECOND READING OF THE HEALTH INFORMATION BILL</a>
+<p><a href="https://www.moh.gov.sg/newsroom/health-information-bill-second-reading-opening-speech-for-sms-tan-kiat-how/" rel="noopener noreferrer nofollow" target="_blank">Opening speech by Mr Tan Kiat How, Senior Minister of State, MDDI &amp; MOH, for the Second Reading of the Health Information Bill</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ description: ""
 <p>Senior Minister of State (SMS), MDDI &amp; MOH, Mr Tan Kiat How</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moh.gov.sg/newsroom/closing-speech-by-mr-tan-kiat-how--senior-minister-of-state--mddi---moh--for-the-second-reading-of-the-health-information-bill/" rel="noopener noreferrer nofollow" target="_blank">CLOSING SPEECH BY MR TAN KIAT HOW, SENIOR MINISTER OF STATE, MDDI &amp; MOH, FOR THE SECOND READING OF THE HEALTH INFORMATION BILL</a>
+<p><a href="https://www.moh.gov.sg/newsroom/closing-speech-by-mr-tan-kiat-how--senior-minister-of-state--mddi---moh--for-the-second-reading-of-the-health-information-bill/" rel="noopener noreferrer nofollow" target="_blank">Closing speech by Mr Tan Kiat How, Senior Minister of State, MDDI &amp; MOH, for the Second Reading of the Health Information Bill</a>
 </p>
 </td>
 </tr>
