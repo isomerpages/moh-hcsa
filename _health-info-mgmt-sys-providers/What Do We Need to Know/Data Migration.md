@@ -16,6 +16,6 @@ minimum expectations for Data Migration.</p>
 Data Portability support or services and advocates best practices across
 the health information technology industry. As good practice, you and your
 healthcare provider clients should consider exit strategies that include
-comprehensive data migration and handling procedures. All HIMS providers
-listed here: [Placeholder] comply with this requirement.</p>
+comprehensive data migration and handling procedures. All HIMS listed
+<a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener nofollow" target="_blank">here</a>comply with this requirement.</p>
 <p></p>
