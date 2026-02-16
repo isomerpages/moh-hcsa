@@ -29,5 +29,4 @@ breach, notify MOH of the incident via our <a href="https://go.gov.sg/hia-incide
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/incident_response_process_1_0.png">
 </div>
-<p>If you need help to report an incident, you can refer to the incident
-resource guide.</p>
+<p>If you need help to report an incident, you can refer to the <strong><u>incident resource guide</u></strong>.</p>
