@@ -40,7 +40,7 @@ these security standards.</p>
 <p>Regular audits ensure appropriate access to NEHR information</p>
 </li>
 <li>
-<p>Strict penalties apply for <strong><em>Unauthorised Access</em></strong> to
+<p>Strict penalties apply for <strong><em>unauthorised access</em></strong> to
 NEHR information</p>
 </li>
 </ul>
