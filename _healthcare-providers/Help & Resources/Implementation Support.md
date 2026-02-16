@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2>Downloadable Resources</h2>
+<h2><strong>Downloadable Resources</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,21 +22,17 @@ third_nav_title: Help & Resources
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cybersecurity and Data Security Essentials</p>
+<p>Cybersecurity and Data Security Essentials (CS/DS Essentials)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Placeholder]</p>
 <p></p>
-<p>This infographic provides an overview of the cyber and data security requirements
-while the HIA CSDS Guidelines (Dec 2023) for Service Providers are being
-revised. The revised requirements will align with CSA’s Cyber Essentials
-(15 Apr 2025), with guidance on the handling of physical copies of health
-information, and will be published in the first quarter of 2026.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Self Assessment Tool (CSDS)</p>
+<p>Self Assessment Tool (CS/DS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Placeholder]</p>
@@ -44,7 +40,7 @@ information, and will be published in the first quarter of 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSDS Infographics</p>
+<p>CS/DS Infographics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Placeholder]</p>
@@ -52,7 +48,7 @@ information, and will be published in the first quarter of 2026.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSDS Guidebook</p>
+<p>CS/DS Guidebook</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Placeholder]</p>
@@ -60,7 +56,7 @@ information, and will be published in the first quarter of 2026.</p>
 </tr>
 </tbody>
 </table>
-<h2>Additional Support for Meeting CSDS Requirements</h2>
+<h2><strong>Additional Support for Meeting CS/DS Requirements</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -81,15 +77,23 @@ cyber and data security requirements under HIA</p>
 </tbody>
 </table>
 <p></p>
-<h2>List of HIA-Compliant HIMS</h2>
-<p>[Placeholder]</p>
+<h2><strong>List of HIA-Compliant HIMS</strong></h2>
+<p>To find out which HIMS are HIA-compliant, please refer to the list of
+HIA-compliant HIMS linked below.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener noreferrer nofollow" target="_blank">Status of System Integration with the NEHR</a>
+</p>
+</li>
+</ul>
 <h2>List of Cyber and Data Security Providers</h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
-be required to comply with cybersecurity and data security (CSDS) requirements
-under HIA, including Cybersecurity and Data Security Essentials. For assistance
-with implementing the necessary security measures, healthcare organisations
-may wish to approach any of the CSDS providers in the list linked below.</p>
+be required to comply with cybersecurity and data security (CS/DS) requirements
+under HIA, including Cybersecurity and Data Security Essentials (CS/DS
+Essentials). For assistance with implementing the necessary security measures,
+healthcare organisations may wish to approach any of the CS/DS service
+providers in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan | Cyber Security Agency of Singapore</a>
