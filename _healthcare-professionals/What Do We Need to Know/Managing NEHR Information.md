@@ -58,5 +58,11 @@ than providing raw medical records or print-outs.</p>
 <p>If you refer to NEHR information during a medical examination, validate
 or confirm relevant information with the patient during history-taking
 and capture it in your own medical records with your clinical assessment.</p>
+<p><strong>Guidelines and Support</strong>
+</p>
+<p>MOH is publishing comprehensive guidelines to support appropriate access
+and use of NEHR information for all healthcare professionals, including
+doctors, dentists, nurses, and allied health professionals. For more information,
+click <strong><u>here</u></strong>.</p>
 <p><strong><u>Report</u> </strong>inappropriate requests for NEHR information
 for insurance purposes to MOH.</p>
