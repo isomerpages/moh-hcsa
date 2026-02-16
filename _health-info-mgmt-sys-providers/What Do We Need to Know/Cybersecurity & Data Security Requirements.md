@@ -11,8 +11,8 @@ integrity and availability of health information.</p>
 <p>Confirmed cybersecurity incidents and data breaches must be reported to
 MOH, and individuals affected by significant data breaches must be informed
 in a timely manner. You are to support your healthcare provider clients
-in conducting assessment of cybersecurity incidents / data breaches, and
-in meeting notification timelines.</p>
+in conducting assessment of cybersecurity incidents and data breaches,
+and in meeting notification timelines.</p>
 <h2><strong>Becoming a HIA-Compliant HIMS Provider</strong></h2>
 <p>To become HIA-compliant, HIMS providers must undergo a comprehensive qualification
 process managed by Synapxe, the System Operator of NEHR. This qualification
@@ -44,7 +44,7 @@ certification:</p>
 <p>1.&nbsp;<strong>Cyber Essentials for HIMS Providers</strong>: You need
 to obtain Cyber Essentials (CE) for Health Information Management System
 (HIMS) Providers Certification. This involves third-party certification
-under CSA for HIMS that align with HIA CSDS Essentials.</p>
+under CSA for HIMS that align with HIA CS/DS Essentials.</p>
 <p>2.&nbsp;<strong>Code of Practice for Data Portability (CODE)</strong>:
 You must provide a self-declared adherence that sets out the practices
 HIMS Providers shall comply with in the provision of support or services,
