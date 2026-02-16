@@ -207,14 +207,14 @@ long-term approach. For more information, click <strong><u>here</u></strong>.</p
 </ul>
 <h3>Support for Cybersecurity and Data Security Requirements</h3>
 <p>We will make available comprehensive self-help resources and training
-programmes to help you meet cybersecurity and data security (CSDS) requirements.
-If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">this list of CSDS providers</a> who
-offer professional services to help you understand and implement the CSDS
+programmes to help you meet cybersecurity and data security (CS/DS) requirements.
+If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
+offer professional services to help you understand and implement the CS/DS
 requirements.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basic package to engage professional services from listed CSDS providers
-to implement the baseline CSDS requirements.</p>
+<p>Basic package to engage professional services from listed CS/DS service
+providers to implement the baseline CS/DS requirements.</p>
 </li>
 <li>
 <p>Eligible small and medium healthcare enterprises can also access <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a> to
@@ -223,14 +223,14 @@ procure cybersecurity solutions.</p>
 <li>
 <p>Resources including concise checklists, infographics, guidance materials
 and training programmes to help healthcare providers, including our community
-health partners, meet MOH's CSDS requirements on an ongoing basis.</p>
+health partners, meet MOH's CS/DS requirements on an ongoing basis.</p>
 </li>
 </ul>
-<p><em>Note: CSDS professional or retainer services are optional as not everyone will need them.</em>
+<p><em>Note: CS/DS professional or retainer services are optional as not everyone will need them.</em>
 </p>
-<p><strong>CSDS Provider Standards:</strong> We are establishing clear guidelines
-for CSDS providers on appropriate engagement practices and transparent
-pricing. Healthcare providers that encounter unethical practices by CSDS
+<p><strong>CS/DS Provider Standards:</strong> We are establishing clear guidelines
+for CS/DS providers on appropriate engagement practices and transparent
+pricing. Healthcare providers that encounter unethical practices by CS/DS
 providers can report them to MOH here.</p>
 <h2><strong>Our Calibrated Enforcement Approach</strong></h2>
 <p>We are committed to giving you the reasonable time and support needed
