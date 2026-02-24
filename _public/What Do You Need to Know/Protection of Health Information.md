@@ -13,34 +13,26 @@ controls to ensure all health information remains secure.</p>
 <h2><strong>Access Monitoring and Controls</strong></h2>
 <h3>Monitoring Access to NEHR</h3>
 <p>Synapxe, the NEHR System Operator, actively monitors for suspicious activity
-by conducting regular audits and ongoing monitoring to detect unusual behaviour,
-including:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Healthcare professionals accessing NEHR information of patients who have
-not recently visited any healthcare provider</p>
-</li>
-<li>
-<p>Atypical access patterns that do not match normal care delivery protocols</p>
-</li>
-</ul>
+by conducting regular audits and ongoing monitoring to detect unusual behaviour.</p>
 <h3>Access Logs on HealthHub</h3>
-<p>The "NEHR Access History" feature in the HealthHub app displays instances
-of all healthcare providers’ access to NEHR information over the preceding
-12 months.</p>
-<p>Access logs display NEHR information accessed by healthcare institution
-rather than individual staff members. This approach maintains system practicality
-whilst recognising that healthcare teams collaborate on patient care -
-nurses, pharmacists, and other professionals may require access to NEHR
-information at different stages during treatment.</p>
+<p>Accesses to NEHR information about you at the healthcare institution level
+over the last 12 months will be made known to you through the “NEHR Access
+History” feature in the HealthHub application.</p>
+<p>When you receive care, healthcare professionals across different roles
+in a multi-disciplinary team may access NEHR information about you at different
+times of your care journey. Depending on your condition, it is also not
+uncommon for nurses, pharmacists or allied health professionals to need
+access to NEHR information about you. In our healthcare system, the institution
+is ultimately responsible for care to its patients, which is why the logs
+are organised at this level.</p>
 <h3>Reporting Concerns</h3>
-<p>If you identify suspicious activity in your access history, report concerns
-directly through the HealthHub app reporting function. Alternatively, you
-can report it to MOH for investigation linked <strong><u>here</u></strong>.</p>
+<p>If you are concerned over potentially suspicious activity, report concerns
+directly through the HealthHub application reporting function. Alternatively,
+you can report it to MOH for investigation linked <strong><u>here</u></strong>.</p>
 <h2><strong>Controlling Access to NEHR Information</strong></h2>
-<p>MOH believes that making NEHR information available to healthcare providers
-allows them to give patients the best possible care. With access to patients’
-complete medical picture, doctors, nurses, and pharmacists can:</p>
+<p>Making NEHR information available to healthcare providers allows them
+to give you the best possible care. With access to your complete medical
+picture, doctors, nurses, and pharmacists can:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Spot dangerous drug interactions before prescribing new medications</p>
@@ -55,13 +47,6 @@ complete medical picture, doctors, nurses, and pharmacists can:</p>
 <p>Make life-saving decisions quickly during emergencies</p>
 </li>
 </ul>
-<p>Having incomplete medical records can create serious safety risks. For
-example, if a doctor asks a patient about their medication history but
-the patient cannot remember or provide incomplete information, the doctor
-might then try to access their medical records. However, if those records
-are incomplete or inaccessible, they might inadvertently prescribe something
-that could harm the patient. In emergency situations when patients are
-unable to respond, timely access to complete records could save their lives.</p>
 <h3>Access Restrictions</h3>
 <p>For those who still have privacy concerns despite all the safeguards in
 place, you can place Access Restrictions on NEHR information. However,
