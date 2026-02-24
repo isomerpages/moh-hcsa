@@ -122,14 +122,12 @@ be referred to Singapore Medical Council (SMC) for disciplinary action.</p>
 </ul>
 <h2><strong>Important Considerations</strong></h2>
 <p>Access Restrictions are designed to balance your privacy concerns with
-your safety and care quality.</p>
+your safety and care.</p>
 <p>While Access Restrictions are an option, we encourage careful considerations
 before using them as it would adversely affect the quality of care you
 receive as patients. It is only when healthcare providers have access to
 their patients' key health information that they can deliver holistic and
 effective care in a timely manner.</p>
 <p>For more information on NEHR and how to place Access Restrictions, please
-visit <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener nofollow" target="_blank">NEHR FAQ</a><strong><u>.</u></strong>
+visit <a href="https://www.synapxe.sg/healthtech/national-programmes/national-electronic-health-record-nehr/faq" rel="noopener nofollow" target="_blank">NEHR FA</a>
 </p>
-<p></p>
-<p></p>
