@@ -19,7 +19,7 @@ of health information only if it fulfils these requirements:</p>
 This includes key public healthcare stakeholders, public healthcare institutions,
 AIC, and relevant government agencies – all organisations you already trust
 with your healthcare.</p>
-<p>2.&nbsp;<strong>Your information can only be shared for specific purposes that support continuity of care and population health outreach under national programmes such as Healthier SG and Age Well SG</strong>:&nbsp;
+<p>2.&nbsp;<strong>Your information can only be shared for specified use cases that are scoped to situations that support continuity of care and outreach under national programmes such as Healthier SG and Age Well SG</strong>:&nbsp;
 For example, if you are a senior, your public healthcare institution might
 share your contact details with AIC so they can reach out and connect you
 with community services and activities based on your needs.</p>
