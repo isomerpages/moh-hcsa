@@ -14,39 +14,17 @@ governing NEHR access.</p>
 have access to the system. We have also extended access to community health
 partners who provide clinical or care-planning services, recognising how
 vital they have become in supporting your patients' ongoing care.</p>
-<p>Healthcare professionals will not need to seek patient consent every time
-they access NEHR information. This ensures you can provide timely, effective
-care when your patients need it most.</p>
 <h2><strong>Managing NEHR Access in Your Organisation</strong></h2>
 <p>As a healthcare provider, you decide who in your organisation gets NEHR
 access. <strong><a href="/files/HIA_Second_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HIA's Second Schedule</u></a></strong> sets
 out the categories of authorised individuals who may access NEHR information
 for different categories of healthcare providers.</p>
-<p>Here is who you can and cannot authorise:</p>
-<p><strong>Authorised Personnel:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Staff such as medical practitioners, nurses, pharmacists, and allied health
-professionals providing direct patient care</p>
-</li>
-<li>
-<p>Access limited to patients under their active clinical management</p>
-</li>
-</ul>
-<p><strong>Unauthorised Personnel:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Administrative staff regardless of healthcare qualifications</p>
-</li>
-<li>
-<p>Corporate or management personnel regardless of clinical credentials</p>
-</li>
-<li>
-<p>Anyone who does not directly provide patient care</p>
-</li>
-</ul>
+<p>You must only authorise NEHR access for healthcare professionals who require
+it for patient care purposes. Such professionals include doctors, nurses,
+pharmacists and allied health professionals. Individuals who only perform
+an administrative or corporate role, even if they are healthcare professionals,
+should not be given NEHR access. Authorised individuals must access NEHR
+information only for patients whom they are providing patient care to.</p>
 <h2><strong>Your Responsibilities</strong></h2>
 <p>You must ensure your authorised staff use NEHR information properly by
 providing regular training on appropriate NEHR use and conducting regular
