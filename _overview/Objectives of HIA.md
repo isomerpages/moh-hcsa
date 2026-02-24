@@ -4,7 +4,7 @@ permalink: /overview/objectives-of-hia/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Objectives of Health Information Act (HIA)</strong></h2>
+<h2><strong>Objectives of HIA</strong></h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>HIA will require all licensed healthcare providers, including private
