@@ -25,7 +25,7 @@ causes or is likely to cause significant harm to an individual—for example
 if it involves disclosure of health information that may be deemed more
 sensitive—you must notify the affected individuals upon or after notifying
 MOH.</p>
-<p><strong><em>Note:</em></strong><em> MOH will only require significant breaches to be notified, in alignment with the approach under existing legal frameworks, such as the PDPA. These details will be set out in subsidiary legislation</em>.</p>
+<p><strong><em>Note:</em></strong><em> MOH will only require significant breaches to be notified, in alignment with the approach under existing legal frameworks, such as PDPA. These details will be set out in subsidiary legislation</em>.</p>
 <h2><strong>Shared Responsibility Framework</strong></h2>
 <p>If you have exercised due diligence in choosing a HIA-compliant HIMS and
 maintained appropriate cybersecurity practices, you will not be held liable
