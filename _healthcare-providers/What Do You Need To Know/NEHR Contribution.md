@@ -191,8 +191,8 @@ assistance.</p>
 <p>The key health information required includes details crucial for continuity
 of care, such as allergies, vaccinations, diagnoses, medications, laboratory
 test results, radiological images, and discharge summaries. <strong><a href="/files/HIA_First_Schedule_Table_1_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HIA's First Schedule</u></a></strong> specifies
-exactly what health information each licensee category needs to contribute,
-based on the patient care functions they provide.</p>
+exactly what type of health information each licence category needs to
+contribute, based on the patient care functions you provide.</p>
 <p>HIA only requires you to contribute health information from care provided
 in Singapore. If patients bring overseas medical records to you, you are
 not required to contribute that overseas information directly to NEHR.
