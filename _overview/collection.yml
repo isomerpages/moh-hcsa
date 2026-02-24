@@ -2,4 +2,5 @@ collections:
   overview:
     output: true
     order:
+      - Why HIA Is Needed.md
       - Objectives of HIA.md
