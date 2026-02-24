@@ -135,9 +135,9 @@ sent over to NEHR.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submit encoded clinical data to NEHR for</p>
-<p>(i) SNOMED CT;</p>
-<p>(ii) LOINC;</p>
-<p>(iii) SDD&nbsp;</p>
+<p>(i)Systematized Nomenclature of Medicine - Clinical Terms (SNOMED CT);</p>
+<p>(ii) Logical Observation Identifiers Names and Codes (LOINC);</p>
+<p>(iii) Singapore Drug Dictionary (SDD)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
