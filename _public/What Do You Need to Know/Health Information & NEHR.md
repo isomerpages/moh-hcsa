@@ -24,19 +24,20 @@ more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_HIMS_to_NEHR_to_HH.png">
 </div>
-<p><em>Note: NEHR contains key health information such as diagnoses, medications, test results, and procedures to support coordinated care. Daily consultation notes are not contributed, as these often contain professional communications between providers with technical medical terminology that may be confusing or lead to misunderstandings.</em>
+<p><em>Note: NEHR contains key health information such as diagnoses, medications, test results, and procedures to support coordinated care. Detailed information such as raw clinical notes or detailed consultation and progress notes will not be uploaded to NEHR, as such granular information may not benefit other providers and could make NEHR difficult to navigate.</em>
 </p>
-<p><em>MOH is actively working to make more health information available to individuals through HealthHub. If you have questions about your health information, please speak with your healthcare provider.</em>
+<p><em>MOH is actively working to make more health information available to individuals through HealthHub. If you have questions regarding health information about you, please speak with your healthcare provider.</em>
 </p>
 <h2><strong>Who Can Access NEHR Information</strong></h2>
-<p>NEHR is only accessible to healthcare professionals who are directly involved
-in your care. This includes your doctors, nurses, pharmacists, and allied
-health professionals like physiotherapists or dietitians.</p>
-<p>Even qualified healthcare professionals cannot access NEHR information
-if they are only doing administrative work. They must be actively providing
-care to you to view NEHR information.</p>
+<p>In general, NEHR access is for patient care purposes only, and only healthcare
+providers and healthcare professionals whom patients are seeking care from
+will be able to access NEHR information about the patient. This includes
+doctors, nurses, pharmacists and allied health professionals.</p>
+<p>Individuals who only perform an administrative or corporate role, even
+if they are healthcare professionals, will not be given NEHR access.</p>
 <p>Healthcare institutions are required to train their staff properly and
-regularly audit who is accessing patient records to ensure regulatory compliance.</p>
+regularly audit who is accessing patient records on NEHR to ensure regulatory
+compliance.</p>
 <h2><strong>When NEHR Information Can Be Accessed</strong></h2>
 <h3>For Patient Care</h3>
 <p>When you are receiving treatment, your healthcare team can access NEHR
