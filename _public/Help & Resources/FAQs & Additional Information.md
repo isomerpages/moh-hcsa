@@ -19,11 +19,9 @@ bills and more.</p>
 <p>For more information on HealthHub, please visit <a href="https://www.synapxe.sg/healthtech/national-programmes/healthhub" rel="noopener noreferrer nofollow" target="_blank">Synapxe's website.</a>
 </p>
 <h3>Key Elements of HIA</h3>
-<p>HIA introduces important changes to how your health information is managed
-and shared across Singapore's healthcare system. This infographic linked
-below explains how these changes will improve your healthcare experience
-through better coordination between healthcare providers and enhanced support
-programmes.</p>
+<p>This infographic linked below explains how HIA will improve your healthcare
+experience through better coordination between healthcare providers and
+enhanced support programmes.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Infographic_Key_Elements_of_the_HIA_2_0.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Key Elements of HIA</u></a>
