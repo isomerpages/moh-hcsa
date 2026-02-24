@@ -18,7 +18,7 @@ sections:
           url: /public/what-do-you-need-to-know/one-patient-one-health-summary-one-care-journey/
         - title: For Healthcare Providers
           description: ""
-          url: /healthcare-providers/what-do-we-need-to-know/nehr-contribution/
+          url: /healthcare-providers/what-do-you-need-to-know/nehr-contribution/
         - title: For Healthcare Professionals
           description: ""
           url: /healthcare-professionals/what-do-we-need-to-know/managing-nehr-information/
