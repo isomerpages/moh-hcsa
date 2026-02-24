@@ -70,18 +70,18 @@ team members but not others within the same institution.</p>
 <p>Your Access Restrictions will be known only to the healthcare providers
 managing your care. All healthcare professionals are bound by their respective
 professional bodies' ethical codes and guidelines to treat all patients
-fairly and without prejudice, regardless of whether Access Restrictions
-are in place.</p>
+fairly and without prejudice, regardless whether Access Restrictions are
+in place.</p>
 <h3>Setting Up Access Restrictions</h3>
 <p>Currently, you can submit a request to place Access Restrictions at public
 healthcare institutions. From the second half of this year, you will be
-able to do this through the HealthHub app.</p>
+able to do this through the HealthHub application.</p>
 <h3>What Happens When You Place Access Restrictions</h3>
 <p>With Access Restrictions in place, several important things continue to
 happen to ensure your safety and continuity of care:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Your health information continues to be contributed to NEHR</strong>:
+<p><strong>Your key health information continues to be contributed to NEHR</strong>:
 To ensure there are no gaps in your medical records, even during emergencies,
 key health information will continue to be contributed to NEHR even when
 an Access Restriction is in place. This prevents gaps in your medical history
@@ -99,26 +99,25 @@ providers.</p>
 <h3>Emergency Access ("Break-Glass")</h3>
 <p>During medical emergencies, doctors can access NEHR information despite
 Access Restrictions through a special "break-glass" feature with strict
-controls and full auditing.</p>
-<p>The break-glass feature operates under three strict controls:</p>
+controls.</p>
+<p>The "break-glass" feature operates under three strict controls:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Doctor-Only Access</strong>: Only doctors are authorised to use
 “break-glass” functionality. Other healthcare professionals cannot "break-glass"
-during emergencies.</p>
+during medical emergencies.</p>
 </li>
 <li>
 <p><strong>Credential Verification and Declaration</strong>: Before accessing
-NEHR information, the doctor must re-verify their credentials and formally
-declare that a medical emergency has occurred. This dual verification ensures
-appropriate use of emergency access.</p>
+restricted NEHR information, the doctor must re-verify their credentials
+and formally declare that a medical emergency has occurred. This dual verification
+ensures appropriate use of emergency access.</p>
 </li>
 <li>
 <p><strong>Comprehensive Auditing and Investigation</strong>: Every “break-glass”
-instance undergoes mandatory audit review. Confirmed cases of inappropriate
-“break-glass” access will be investigated as potential breaches under HIA.
-Such cases may also be referred to the Singapore Medical Council (SMC)
-for disciplinary action.</p>
+instance will be subject to audits. Confirmed cases of inappropriate “break-glass”
+will be investigated as potential breaches under HIA. Such cases may also
+be referred to Singapore Medical Council (SMC) for disciplinary action.</p>
 </li>
 </ul>
 <h2><strong>Important Considerations</strong></h2>
