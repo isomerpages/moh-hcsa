@@ -6,14 +6,11 @@ description: ""
 third_nav_title: What Do You Need to Know
 ---
 <h2><strong>Introduction</strong></h2>
-<p>Singapore has been sharing health information across healthcare providers
-since 2011 through the National Electronic Health Record (NEHR) system,
-which has achieved comprehensive coverage across the healthcare sector.
-All public hospitals and polyclinics are fully integrated into NEHR, whilst
-the Healthier SG initiative has successfully onboarded most general practitioner
-(GP) clinics. Private hospitals are also joining the system. However, a
-small segment remains outside the system, including specialist clinics,
-clinical and radiological laboratories, and dental clinics.</p>
+<p>Singapore started sharing health information across providers since 2011
+through the implementation of National Electronic Health Record (NEHR).
+Today, all public hospitals and polyclinics are already contributing key
+health information to NEHR. With Healthier SG, most GP clinics are onboarded
+onto NEHR. Most private hospitals have also onboarded to NEHR.</p>
 <p></p>
 <blockquote>
 <h2><strong>Achieving Our Vision</strong></h2>
