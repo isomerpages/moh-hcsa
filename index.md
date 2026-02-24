@@ -21,7 +21,7 @@ sections:
           url: /healthcare-providers/what-do-you-need-to-know/nehr-contribution/
         - title: For Healthcare Professionals
           description: ""
-          url: /healthcare-professionals/what-do-we-need-to-know/managing-nehr-information/
+          url: /healthcare-professionals/what-do-you-need-to-know/managing-nehr-information/
         - title: For Health Information Management Systems Providers
           description: ""
           url: /health-info-mgmt-sys-providers/what-do-we-need-to-know/key-responsibilities/
