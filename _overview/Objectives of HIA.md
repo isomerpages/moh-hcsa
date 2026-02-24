@@ -8,7 +8,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>HIA will require all licensed healthcare providers, including private
-clinics, clinical laboratories and radiological services, and retail pharmacy
+clinics, clinical laboratories, radiological services, and retail pharmacy
 licensees to contribute key health information to National Electronic Health
 Record (NEHR). These providers will also be granted access to NEHR for
 patient care purposes to support better care continuity and safeguard patient
