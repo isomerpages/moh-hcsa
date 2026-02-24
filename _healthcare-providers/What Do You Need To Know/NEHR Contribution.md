@@ -15,12 +15,16 @@ can be gazetted under HIA to contribute key health information to NEHR.</p>
 <p>This contribution requirement applies to Singapore citizens, permanent
 residents, and patients with long-term immigration passes, as these groups
 are most likely to seek ongoing care in Singapore over time. Health information
-of transient visitors, such as tourists, does not need to be contributed.</p>
+of transient visitors, such as tourists (i.e. those on short term visit
+pass (SVP)), do not need to be contributed.</p>
 <p>HIA requires you to contribute accurate and complete health information
 in a timely manner, which ultimately benefits your patients by enabling
 you, as their healthcare providers, to access all relevant health information
 to provide the best care.</p>
 <h2><strong>Contribution Requirements</strong></h2>
+<p>Contribution applies only to medical records prospectively, once your
+system is connected to NEHR. There is no requirement to upload historical
+records.</p>
 <p>The following table outlines the key responsibilities for data contributors
 and HIMS providers:</p>
 <table style="minWidth: 75px">
