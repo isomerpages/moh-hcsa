@@ -26,7 +26,8 @@ and allows MOH to provide guidance across the healthcare sector.</p>
 breach, notify MOH of the incident via our <a href="https://go.gov.sg/hia-incident-reporting-form" rel="noopener nofollow" target="_blank">online form</a>.</p>
 <p>If you would like to report a NEHR incident, you can use this separate
 <a href="https://go.gov.sg/nehr-incident-reporting-form" rel="noopener nofollow" target="_blank">online form</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/incident_response_process_1_0.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Incident_Response_Process_1_1.png">
 </div>
 <p>If you need help to report an incident, you can refer to the <strong><u>incident resource guide</u></strong>.</p>
