@@ -2,12 +2,12 @@ collections:
   public:
     output: true
     order:
-      - What Do We Need to Know/.keep
-      - What Do We Need to Know/One Patient, One Health Summary, One Care
+      - What Do You Need to Know/.keep
+      - What Do You Need to Know/One Patient, One Health Summary, One Care
         Journey.md
-      - What Do We Need to Know/Health Information & NEHR.md
-      - What Do We Need to Know/Protection of Health Information.md
-      - What Do We Need to Know/Health Information That May Be Deemed More
+      - What Do You Need to Know/Health Information & NEHR.md
+      - What Do You Need to Know/Protection of Health Information.md
+      - What Do You Need to Know/Health Information That May Be Deemed More
         Sensitive.md
       - Other Uses of NEHR Information.md
       - Enabling Outreach & Care Continuity.md
