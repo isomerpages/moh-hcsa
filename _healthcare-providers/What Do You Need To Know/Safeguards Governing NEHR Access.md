@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: What Do You Need To Know
 ---
-<p>We understand that patients trust you to keep their health information
-confidential, which is why HIA includes strong legislative protections
+<p>We understand that patients trust you to keep health information about
+them confidential, which is why HIA includes strong legislative protections
 alongside technical controls that tightly regulate who can access what
 information. However, you will need to play your part too in maintaining
 these security standards.</p>
