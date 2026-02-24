@@ -41,12 +41,12 @@ compliance.</p>
 <h2><strong>When NEHR Information Can Be Accessed</strong></h2>
 <h3>For Patient Care</h3>
 <p>When you are receiving treatment, your healthcare team can access NEHR
-information without asking permission each time. This helps them give you
-the best possible care quickly, especially in emergencies.</p>
+information about you. This helps them give you the best possible care
+quickly, especially in medical emergencies.</p>
 <h3>Prohibited Uses</h3>
 <p>Accessing NEHR information for employment or insurance purposes is strictly
 prohibited. This means healthcare professionals cannot use NEHR information
-when:</p>
+when (including but not limited to):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Filling out medical reports required for insurance claims</p>
@@ -58,20 +58,14 @@ when:</p>
 <p>Any other employment-related medical assessments</p>
 </li>
 </ul>
-<p><em>Note: The only exceptions are for specific medical examinations required by law or court orders.</em>
-</p>
-<p>When you need medical reports for employment or insurance, doctors must
-rely on their own clinic records, direct consultation with you, and clinical
-assessment - not NEHR information.</p>
-<p><strong>Strict penalties apply</strong>: Anyone who tries to access NEHR
-for employment or insurance purposes faces severe legal consequences, with
-even higher penalties for these prohibited uses.</p>
-<p>This protection ensures health information stays where it belongs - with
-the healthcare providers caring for you - and prevents discrimination by
-employers or insurers based on your medical history.</p>
-<h3>Statutory Medical Examinations</h3>
-<p>There are specific exceptions for medical examinations required by law
-to protect public health and safety. Examples include:</p>
+<p>Note: The only exceptions are for whitelisted statutory medical examinations
+required by law or court orders.</p>
+<p><strong>Strict penalties apply</strong>: Accessing NEHR information for
+employment or insurance purposes is an offence under HIA.</p>
+<h3>Whitelisted Statutory Medical Examinations</h3>
+<p>There are medical examinations, set out in statutes, which serve to protect
+the public and safeguard the health of the individual and those around
+him. Examples include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Examinations of persons who are at risk of an infectious disease</p>
@@ -82,7 +76,7 @@ Forces, Singapore Civil Defence Force, and Singapore Police Force, as required
 under Enlistment Act</p>
 </li>
 </ul>
-<p><em>Note: The specified statutory medical examinations for which NEHR information may be accessed is listed in </em><strong><em><u>HIA's Third Schedule</u></em></strong><em>.</em>
+<p><em>Note: The whitelisted statutory medical examinations for which NEHR information may be accessed is listed in </em><strong><em><u>HIA's Third Schedule</u></em></strong><em>.</em>
 </p>
 <h2></h2>
 <p></p>
