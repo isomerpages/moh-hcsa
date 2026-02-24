@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Public
           description: ""
-          url: /public/what-do-we-need-to-know/one-patient-one-health-summary-one-care-journey/
+          url: /public/what-do-you-need-to-know/one-patient-one-health-summary-one-care-journey/
         - title: For Healthcare Providers
           description: ""
           url: /healthcare-providers/what-do-we-need-to-know/nehr-contribution/
