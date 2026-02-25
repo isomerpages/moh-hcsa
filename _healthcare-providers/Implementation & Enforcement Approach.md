@@ -248,7 +248,4 @@ where providers clearly disregard their obligations, we will pursue prosecution.
 Penalties are carefully calibrated to match both the severity and impact
 of the violation.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_Our_Calibrated_Enforcement_Approach_1_0.png">
-</div>
 <p></p>
