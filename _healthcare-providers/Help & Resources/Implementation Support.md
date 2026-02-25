@@ -78,14 +78,9 @@ cyber and data security requirements under HIA</p>
 </table>
 <p></p>
 <h2><strong>List of HIA-Compliant HIMS</strong></h2>
-<p>To find out which HIMS are HIA-compliant, please refer to the list of
-HIA-compliant HIMS linked below.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener noreferrer nofollow" target="_blank">Status of System Integration with the NEHR</a>
+<p>The list of HIMS that have achieved HIA-compliance certification will
+be made available and progressively updated from March 2026 linked <strong><a href="https://for.sg/nehrintegratedsystems" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-</li>
-</ul>
 <h2>List of Cyber and Data Security Providers</h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
@@ -96,7 +91,7 @@ healthcare organisations may wish to approach any of the CS/DS service
 providers in the list linked below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan | Cyber Security Agency of Singapore</a>
+<p><a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan | Cyber Security Agency of Singapore</a>
 </p>
 </li>
 </ul>
