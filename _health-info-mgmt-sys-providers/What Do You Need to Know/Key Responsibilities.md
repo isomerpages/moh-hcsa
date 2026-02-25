@@ -101,9 +101,8 @@ incident or data breaches</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maintain health information such that the information can be easily transferred
-if the healthcare provider decides to switch to another HIMS as per the
-Code of Practice for Data Portability. Information must be structured,
-commonly used, and machine-readable.</p>
+if the healthcare provider decides to switch to another HIMS as per the <strong><u>Code of Practice for Data Portability</u></strong>.
+Information must be structured, commonly used, and machine-readable.</p>
 <p></p>
 <p>For more information, please see “Data Migration”</p>
 </td>
