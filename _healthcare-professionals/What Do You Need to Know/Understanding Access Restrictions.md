@@ -14,7 +14,9 @@ life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only for medical emergencies</p>
+<p>Only for medical emergencies: threatening conditions such as a heart attack,
+a stroke or a severe allergic reaction that affects an individual's ability
+to breathe</p>
 </li>
 <li>
 <p>Cannot be used simply because a patient asks you to access restricted
