@@ -181,8 +181,7 @@ different healthcare services.</p>
 <h2><strong>Support for Healthcare Providers</strong></h2>
 <p>MOH recognises the importance of providing healthcare providers with reasonable
 time to comply with HIA requirements and views you as valuable partners
-in supporting continuity of care in the community. Read on for more details
-on our comprehensive support package.</p>
+in supporting continuity of care in the community.</p>
 <h3>Support for NEHR Contribution</h3>
 <p>MOH encourages all healthcare providers to adopt HIA-compliant HIMS which
 automate the process of contributing key health information to NEHR.</p>
