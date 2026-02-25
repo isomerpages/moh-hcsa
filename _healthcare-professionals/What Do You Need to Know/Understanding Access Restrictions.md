@@ -31,5 +31,5 @@ information</p>
 </ul>
 <p><strong>Consequences:</strong> Every “break-glass” instance is automatically
 logged and audited. Inappropriate use will be investigated as a potential
-breach and may result in referral to the Singapore Medical Council (SMC)
-for disciplinary action.</p>
+breach and may result in referral to Singapore Medical Council (SMC) for
+disciplinary action.</p>
