@@ -28,5 +28,10 @@ of phishing and good password management. We will provide training resources,
 programmes, and funding support to help you get started.</p>
 <p>For more information on available support to subscribe to a HIA-compliant
 HIMS, please refer to: <a href="/healthcare-providers/help-and-resources/implementation-support/" rel="noopener nofollow" target="_blank">Implementation Support</a>.</p>
+<p>For providers requiring additional time to implement a HIA-compliant HIMS,
+MOH will work with you to meet NEHR contribution requirements through an
+alternative mechanism while completing your digitisation journey. Automated
+data transmission from a HIA-compliant HIMS to NEHR remains the preferred
+long-term approach.</p>
 <p><em>*Note: This list of HIA-compliant HIMS will be made available and progressively updated from March 2026.</em>
 </p>
