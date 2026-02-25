@@ -18,36 +18,36 @@ and in meeting notification timelines.</p>
 process managed by Synapxe, the System Operator of NEHR. This qualification
 ensures that only authorised systems can connect to NEHR, maintaining the
 integrity and security of patient health information.</p>
-<h2><strong>HIA-Compliant Certification Framework</strong></h2>
-<h3>NEHR Integration Requirements</h3>
-<p>To achieve HIA compliance certification, your system must meet three core
-NEHR integration requirements:</p>
-<p>1.&nbsp;<strong>System Integration Requirement</strong>: You must implement
+<h2><strong>HIA-Compliant HIMS Certification Framework</strong></h2>
+<h3>HIMS Compliance - NEHR Connectivity</h3>
+<p>To achieve HIA-compliance certification, your system must meet three core
+NEHR connectivity requirements:</p>
+<p>1.&nbsp;<strong>System Integration Requirements</strong>: You must implement
 secure digital certification by ensuring the necessary digital certificates
 are signed, installed and exchanged between systems. Additionally, you
 need to establish robust authentication and authorisation measures to protect
 data during exchange and implement ContextSwitch for safe and secured access
 to NEHR.</p>
-<p>2.&nbsp;<strong>Data Integration Requirement</strong>: Your system must
+<p>2.&nbsp;<strong>Data Integration Requirements</strong>: Your system must
 adhere to interface specifications that ensure contribution follows the
 technical mapping, mapping guidelines, message specification, standards,
-quality and integrity requirements. You must also ensure your contribution
-covers HIA datasets compliance requirements.</p>
+quality and integrity requirements. You must also ensure contribution covers
+HIA datasets compliance requirements.</p>
 <p>3.&nbsp;<strong>National Coding Standards</strong>: Your system must demonstrate
-code sets compliance by adhering to national code sets, including National
-Health Data Dictionary, Systematized Nomenclature of Medicine – Clinical
-Terms, Logical Observation Identifiers Names and Codes, Singapore Medicine
-Supporting Terminology, and Singapore Drug Dictionary.</p>
+codesets compliance by adhering to national code sets (e.g. National Health
+Data Dictionary, Systematized Nomenclature of Medicine – Clinical Terms,
+Logical Observation Identifiers Names and Codes, Singapore Medicine Supporting
+Terminology, and Singapore Drug Dictionary).</p>
 <h3>HIMS Provider Governance and Compliance</h3>
 <p>You must also meet governance and compliance requirements to obtain HIA-compliant
 certification:</p>
-<p>1.&nbsp;<strong>Cyber Essentials for HIMS Providers</strong>: You need
-to obtain Cyber Essentials (CE) for Health Information Management System
-(HIMS) Providers Certification. This involves third-party certification
-under CSA for HIMS that align with HIA CS/DS Essentials.</p>
-<p>2.&nbsp;<strong>Code of Practice for Data Portability (CODE)</strong>:
-You must provide a self-declared adherence that sets out the practices
-HIMS Providers shall comply with in the provision of support or services,
-including data migration and data portability.</p>
+<p>1.&nbsp;<strong>Cybersecurity/Data security (CS/DS) Certification</strong>:
+You need to obtain Cyber Essentials (CE) for HIMS Providers Certification,
+which is a third-party certification under CSA for HIMS that align with
+HIA CS/DS Essentials.</p>
+<p>2.&nbsp;<strong>Data Portability</strong>: You must provide a Self-declared
+Adherence for Code of Practice for Data Portability (CODE). CODE sets out
+the practices HIMS Providers shall comply with in the provision of support
+or services, including data migration and data portability.</p>
 <p>For more information about becoming a HIA-compliant HIMS provider, please
 visit [Placeholder].</p>
