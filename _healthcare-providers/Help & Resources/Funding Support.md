@@ -11,21 +11,22 @@ contribute to NEHR, to support adoption of HIA-compliant systems. More
 details will be published in due course.</p>
 <h2><strong>Funding Support for CS/DS Implementation</strong></h2>
 <p>Eligible healthcare Small and Medium-sized Enterprises (SMEs) that are
-subject to HIA can enjoy co-funding support when you sign up for CISOaaS
-(Chief Information Security Officer as-a-Service) with DSaaS (Data Security
-as-a-Service) (MOH) as an add-on.</p>
+subject to HIA can enjoy <strong>co-funding support</strong> when you sign
+up for&nbsp;CISOaaS&nbsp;(Chief Information Security Officer as-a-Service)
+for HIA Cybersecurity and Data Security Essentials.&nbsp;</p>
 <p>To sign up for these services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Eligible healthcare SMEs : Please identify your choice of CISOaaS consultant
+<p>Eligible healthcare SMEs: Please identify your choice of CISOaaS consultant
 and/or package and sign up at <a href="https://services2.imda.gov.sg/CTOaaS/Category/csa_1/cybersecurity-consultancy" rel="noopener noreferrer nofollow" target="_blank">IMDA's&nbsp;CTOaaS&nbsp;portal</a>.
 Please note that funding support is only available for MOH-approved service
 providers.</p>
 </li>
 <li>
-<p>Organisations that are subject to HIA and not eligible for funding support:
-Please approach your choice of CISOaaS consultant directly - see (b)(iii)
-above for the "CSA CISOaaS Providers Listing".</p>
+<p>Organisatio that are subject to&nbsp;HIA&nbsp;and not eligible for funding
+support: Please approach your choice of&nbsp;CISOaaS&nbsp;consultant directly
+– click <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information.&nbsp;</p>
 </li>
 </ul>
 <p>The Productivity Solutions Grant (PSG) provides financial support for
