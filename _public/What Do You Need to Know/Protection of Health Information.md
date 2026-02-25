@@ -27,8 +27,7 @@ is ultimately responsible for care to its patients, which is why the logs
 are organised at this level.</p>
 <h3>Reporting Concerns</h3>
 <p>If you are concerned over potentially suspicious activity, report concerns
-directly through the HealthHub application reporting function. Alternatively,
-you can report it to MOH for investigation linked <strong><u>here</u></strong>.</p>
+directly through the HealthHub application reporting function.</p>
 <h2><strong>Controlling Access to NEHR Information</strong></h2>
 <p>Making NEHR information available to healthcare providers allows them
 to give you the best possible care. With access to your complete medical
