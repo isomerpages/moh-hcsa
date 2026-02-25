@@ -23,5 +23,5 @@ secure and never share them with others.</p>
 <p>Handle such health information with utmost discretion and professionalism.
 Use this health information solely for legitimate clinical purposes and
 ensure appropriate confidentiality.</p>
-<p>All access to such health information is closely monitored, and you will
-be held accountable for any unauthorised access or misuse.</p>
+<p>All access to such health information is more closely audited by Synapxe,
+and you will be held accountable for any unauthorised access or misuse.</p>
