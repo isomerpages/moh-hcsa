@@ -36,9 +36,9 @@ sections:
   - infopic:
       title: Enabling Outreach & Care Continuity
       id: infopic
-      description: HIA enables sharing of non-NEHR health information (e.g. contact
-        details) among public healthcare stakeholders to support national
-        programmes like Healthier SG.
+      description: HIA enables the scoped sharing of non-NEHR health information among
+        public healthcare stakeholders to support national programmes like
+        Healthier SG.
       alt: Image alt text
       image: /images/Homepage___Adopting_Best_Practices.png
   - infopic:
