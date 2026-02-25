@@ -201,7 +201,7 @@ long-term approach. For more information, click <strong><u>here</u></strong>.</p
 <h3>Support for Cybersecurity and Data Security Requirements</h3>
 <p>We will make available comprehensive self-help resources and training
 programmes to help you meet cybersecurity and data security (CS/DS) requirements.
-If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
+If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
 offer professional services to help you understand and implement the CS/DS
 requirements.</p>
 <ul data-tight="true" class="tight">
@@ -221,10 +221,13 @@ health partners, meet HIA's CS/DS requirements on an ongoing basis.</p>
 </ul>
 <p><em>Note: CS/DS professional or retainer services are optional as not everyone will need them.</em>
 </p>
-<p><strong>CS/DS Service Provider Standards:</strong> We are establishing
-clear guidelines for CS/DS service providers on appropriate engagement
-practices and transparent pricing. Healthcare providers that encounter
-unethical practices by CS/DS providers can report them to MOH here.</p>
+<p><strong>CS/DS Service Provider Standards:</strong> MOH is engaging cyber
+and data security consultants qualified by CSA to develop standardised
+basic security packages for healthcare providers, with transparent pricing
+structures. These consultancies will also be asked to clearly distinguish
+between services to address essential requirements versus optional services.
+Healthcare providers that encounter unethical practices by such consultancies
+can report them to MOH and CSA <strong><u>here</u></strong>.</p>
 <h2><strong>Our Calibrated Enforcement Approach</strong></h2>
 <p>We are committed to giving you the reasonable time and support needed
 to meet HIA requirements. Our approach focuses on working together to help
