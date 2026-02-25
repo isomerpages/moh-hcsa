@@ -24,7 +24,7 @@ more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/From_HIMS_to_NEHR_to_HH.png">
 </div>
-<p><em>Note: NEHR contains key health information such as diagnoses, medications, test results, and procedures to support coordinated care. Detailed information such as raw clinical notes or detailed consultation and progress notes will not be uploaded to NEHR, as such granular information may not benefit other providers and could make NEHR difficult to navigate.</em>
+<p><em>*Note: NEHR contains key health information such as diagnoses, medications, test results, and procedures to support coordinated care. Detailed information such as raw clinical notes or detailed consultation and progress notes will not be uploaded to NEHR, as such granular information may not benefit other providers and could make NEHR difficult to navigate.</em>
 </p>
 <p><em>MOH is actively working to make more health information available to individuals through HealthHub. If you have questions regarding health information about you, please speak with your healthcare provider.</em>
 </p>
