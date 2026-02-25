@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Help & Resources
 ---
-<h2><strong>NEHR Guidelines: Appropriate Contribution, Access and Use of NEHR Information</strong></h2>
+<h2><strong>Guiding Principles for NEHR: Appropriate Contribution, Access and Use of NEHR Information</strong></h2>
 <p>[Placeholder]</p>
