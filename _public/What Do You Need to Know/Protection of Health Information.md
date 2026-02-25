@@ -81,7 +81,7 @@ happen to ensure your safety and continuity of care:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Your key health information continues to be contributed to NEHR</strong>:
-To ensure there are no gaps in your medical records, even during emergencies,
+To ensure there are no gaps in your medical history, even during emergencies,
 key health information will continue to be contributed to NEHR even when
 an Access Restriction is in place. This prevents gaps in your medical history
 if you decide to remove Access Restrictions later.</p>
