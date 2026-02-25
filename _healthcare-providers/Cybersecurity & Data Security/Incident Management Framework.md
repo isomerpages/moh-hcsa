@@ -11,10 +11,10 @@ security incidents and having mechanisms to detect and respond to threats
 like ransomware attacks or unauthorised access to NEHR information.</p>
 <h2><strong>Data Breach Management</strong></h2>
 <p>1.&nbsp;<strong>Notification Requirements</strong>: You will need to notify
-MOH and affected individuals of significant data breaches. Once notified,
-MOH will work with you to understand the root cause of the breach, the
-extent of data exposed, the potential harm to patients, and the containment
-and mitigation measures that need to be implemented.</p>
+MOH and affected individuals if the data breach is of significant harm.
+Once notified, MOH will work with you to understand the root cause of the
+breach, the extent of data exposed, the potential harm to patients, and
+the containment and mitigation measures that need to be implemented.</p>
 <p>2.&nbsp;<strong>Remediation Expectations: </strong>You are expected to
 take necessary measures to remediate the situation and prevent such incidents
 from occurring again. Where MOH is of the view that the mitigation or preventive
