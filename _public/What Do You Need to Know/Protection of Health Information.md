@@ -48,8 +48,8 @@ picture, doctors, nurses, and pharmacists can:</p>
 </ul>
 <h3>Access Restrictions</h3>
 <p>For those who still have privacy concerns despite all the safeguards in
-place, you can place Access Restrictions on NEHR information. However,
-you should understand that such restrictions may limit your healthcare
+place, you can place Access Restrictions on NEHR information about you.
+However, you should understand that such restrictions may limit your healthcare
 providers' ability to deliver optimal care.</p>
 <h3>How Access Restrictions Work</h3>
 <p>If you choose to place Access Restrictions, you can:</p>
