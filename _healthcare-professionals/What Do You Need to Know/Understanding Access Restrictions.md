@@ -6,9 +6,10 @@ description: ""
 third_nav_title: What Do You Need to Know
 ---
 <h2><strong>Emergency Access (“Break-Glass”)</strong></h2>
-<p>When patients place Access Restrictions on their NEHR information, only
-doctors can use the "break-glass" feature during genuine medical emergencies
-when a patient's life or health is at immediate risk.</p>
+<p>In the event of medical emergencies, only doctors will be able to activate
+a “break-glass” feature, so that you still have access to NEHR despite
+Access Restrictions to provide timely and effective care, to save the patient’s
+life.</p>
 <p><strong>Key Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">
