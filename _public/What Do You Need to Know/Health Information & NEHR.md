@@ -58,8 +58,8 @@ when (including but not limited to):</p>
 <p>Any other employment-related medical assessments</p>
 </li>
 </ul>
-<p>Note: The only exceptions are for whitelisted statutory medical examinations
-required by law or court orders.</p>
+<p><em>Note: The only exceptions are for whitelisted statutory medical examinations required by law or court orders.</em>
+</p>
 <p><strong>Strict penalties apply</strong>: Accessing NEHR information for
 employment or insurance purposes is an offence under HIA.</p>
 <h3>Whitelisted Statutory Medical Examinations</h3>
