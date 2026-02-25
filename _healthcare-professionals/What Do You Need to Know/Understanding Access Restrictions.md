@@ -14,7 +14,7 @@ life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only for genuine medical emergencies</p>
+<p>Only for medical emergencies</p>
 </li>
 <li>
 <p>Cannot be used simply because a patient asks you to access restricted
