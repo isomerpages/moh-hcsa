@@ -16,7 +16,7 @@ digital hub for collecting, storing, managing, and sharing health information.
 To contribute key health information to NEHR seamlessly, you will need
 an authorised, HIA-compliant system that connects securely to NEHR.</p>
 <p>MOH has approved a list* of HIMS with all necessary technical features
-linked <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">here</a>.
+linked <a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener nofollow" target="_blank">here</a>.
 These systems are HIA-compliant and meet HIA's cybersecurity and data security
 (CS/DS) requirements. We strongly encourage you to adopt a HIA-compliant
 HIMS which automates the process of contributing key health information
