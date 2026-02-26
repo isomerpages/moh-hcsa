@@ -79,8 +79,8 @@ cyber and data security requirements under HIA</p>
 <p></p>
 <h2><strong>List of HIA-Compliant HIMS</strong></h2>
 <p>The list of HIMS that have achieved HIA-compliance certification will
-be made available and progressively updated from March 2026 linked <strong><a href="https://for.sg/nehrintegratedsystems" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
-</p>
+be made available and progressively updated from March 2026 on <a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener noreferrer nofollow" target="_blank">Status of System Integration with the NEHR</a> on
+Synapxe’s official website.</p>
 <h2><strong>List of Cyber and Data Security Service Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
