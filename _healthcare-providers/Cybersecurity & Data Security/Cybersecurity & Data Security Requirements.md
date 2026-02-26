@@ -19,8 +19,6 @@ Cyber Security Agency of Singapore (CSA), Infocomm Media Development Authority
 policy guidance on security measures for health information.</p>
 <p>This includes essential security measures like anti-malware solutions,
 firewalls, proper data backup procedures, and secure storage practices.
-You will also need to train your staff on cyber-hygiene and data governance.
-For detailed information, refer <strong><u>here.</u></strong>
-</p>
+You will also need to train your staff on cyber-hygiene and data governance.</p>
 <p></p>
 <p></p>
