@@ -25,8 +25,8 @@ providers.</p>
 <li>
 <p>Organisatio that are subject to&nbsp;HIA&nbsp;and not eligible for funding
 support: Please approach your choice of&nbsp;CISOaaS&nbsp;consultant directly
-– click <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information.&nbsp;</p>
+– visit <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a> on
+CSA’s official website for more information.&nbsp;</p>
 </li>
 </ul>
 <p>The Productivity Solutions Grant (PSG) provides financial support for
