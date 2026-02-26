@@ -31,7 +31,7 @@ CSA’s official website for more information.&nbsp;</p>
 </ul>
 <p>The Productivity Solutions Grant (PSG) provides financial support for
 eligible SMEs adopting cybersecurity solutions. Please visit <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness&nbsp;Gov Assist</a> for
-the list of pre-approved solutions. You may apply for PSG through the 
+the list of pre-approved solutions. You may apply for PSG through the
 <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Business Grants Portal</a>.</p>
 <p>Licensees that are members of the National Council of Social Services
 (NCSS) should refer to <a href="https://www.ncss.gov.sg/our-initiatives/tech-and-go/funding-support/social-service-agencies---consultancy-subsidy" rel="noopener noreferrer nofollow" target="_blank">NCSS’s Tech-and-GO! consultancy programme</a>.</p>
