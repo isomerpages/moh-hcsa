@@ -81,7 +81,7 @@ cyber and data security requirements under HIA</p>
 <p>The list of HIMS that have achieved HIA-compliance certification will
 be made available and progressively updated from March 2026 linked <strong><a href="https://for.sg/nehrintegratedsystems" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<h2><strong>List of Cyber and Data Security Providers</strong></h2>
+<h2><strong>List of Cyber and Data Security Service Providers</strong></h2>
 <p>In today’s digital landscape, cybersecurity and data security are paramount
 for organisations of all sizes. Healthcare organisations will accordingly
 be required to comply with cybersecurity and data security (CS/DS) requirements
