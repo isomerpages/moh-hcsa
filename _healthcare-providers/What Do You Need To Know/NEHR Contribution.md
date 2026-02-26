@@ -8,10 +8,7 @@ third_nav_title: What Do You Need To Know
 <h2><strong>Who Needs to Contribute to NEHR</strong></h2>
 <p>Under HIA, all healthcare providers licensed under Healthcare Services
 Act (HCSA) 2020 and retail pharmacies licensed under Health Products Act
-(HPA) 2007 must contribute key health information about patients to NEHR.
-Additionally, certain public agencies that provide patient care, such as
-Singapore Armed Forces (SAF) and Singapore Civil Defence Force (SCDF),
-can be gazetted under HIA to contribute key health information to NEHR.</p>
+(HPA) 2007 must contribute key health information about patients to NEHR.</p>
 <p>This contribution requirement applies to Singapore citizens, permanent
 residents, and patients with long-term immigration passes, as these groups
 are most likely to seek ongoing care in Singapore over time. Health information
@@ -19,8 +16,8 @@ of transient visitors, such as tourists (i.e. those on short term visit
 pass (SVP)), do not need to be contributed.</p>
 <p>HIA requires you to contribute accurate and complete health information
 in a timely manner, which ultimately benefits your patients by enabling
-you, as their healthcare providers, to access all relevant health information
-to provide the best care.</p>
+healthcare providers to access all relevant health information to provide
+the best care.</p>
 <h2><strong>Contribution Requirements</strong></h2>
 <p>Contribution applies only to medical records prospectively, once your
 system is connected to NEHR. There is no requirement to upload historical
