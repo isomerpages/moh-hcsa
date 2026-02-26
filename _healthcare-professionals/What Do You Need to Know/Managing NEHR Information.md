@@ -64,5 +64,5 @@ and use of NEHR information for all healthcare professionals, including
 doctors, dentists, nurses, and allied health professionals. For more information,
 you may refer to the <strong><u>NEHR Guidelines</u></strong> webpage on this
 website.</p>
-<p><strong><u>Report</u> </strong>inappropriate requests for NEHR information
-for insurance purposes to MOH.</p>
+<p>Report inappropriate requests for NEHR information for insurance purposes
+to MOH via <strong><u>[Placeholder]</u></strong>.</p>
