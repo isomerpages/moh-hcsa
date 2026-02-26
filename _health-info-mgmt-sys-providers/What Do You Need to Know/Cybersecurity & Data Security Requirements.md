@@ -50,4 +50,4 @@ Adherence for Code of Practice for Data Portability (CODE). CODE sets out
 the practices HIMS Providers shall comply with in the provision of support
 or services, including data migration and data portability.</p>
 <p>For more information about becoming a HIA-compliant HIMS provider, please
-visit [Placeholder].</p>
+visit <strong><u>[Placeholder]</u></strong>.</p>
