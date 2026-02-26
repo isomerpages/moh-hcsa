@@ -16,8 +16,8 @@ healthcare e-Services.
 <br>It is integrated with key healthcare systems such as NEHR and National
 Billing System to allow a synchronised viewing of records, appointments,
 bills and more.</p>
-<p>For more information on HealthHub, please visit <a href="https://www.synapxe.sg/healthtech/national-programmes/healthhub" rel="noopener noreferrer nofollow" target="_blank">Synapxe's website.</a>
-</p>
+<p>For more information on HealthHub, please visit <a href="https://www.synapxe.sg/healthtech/national-programmes/healthhub" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a> on
+Synapxe’s official website.</p>
 <h3>Key Elements of HIA</h3>
 <p>This infographic linked below explains how HIA will improve your healthcare
 experience through better coordination between healthcare providers and
