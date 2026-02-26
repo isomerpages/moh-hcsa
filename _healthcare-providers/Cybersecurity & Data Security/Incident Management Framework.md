@@ -31,5 +31,5 @@ MOH.</p>
 maintained appropriate cybersecurity practices, you will not be held liable
 for lapses arising solely from the HIMS itself. However, you will still
 need proper standard operating procedures and staff training. For guidance,
-resources, and support, click <strong><u>here (CS/DS Guidebook)</u></strong>.</p>
+resources, and support, please refer to the <strong><u>CS/DS Guidebook</u></strong>.</p>
 <p></p>
