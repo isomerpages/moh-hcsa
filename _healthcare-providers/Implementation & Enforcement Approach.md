@@ -195,7 +195,7 @@ to a HIA-compliant HIMS to contribute key health information to NEHR.</p>
 MOH will work with you to meet NEHR contribution requirements through an
 alternative mechanism while completing your digitisation journey. Automated
 data transmission from a HIA-compliant HIMS to NEHR remains the preferred
-long-term approach. For more information, click <strong><u>here</u></strong>.</p>
+long-term approach. For more information, click <strong><u>[Placeholder]</u></strong>.</p>
 </li>
 </ul>
 <h3>Support for Cybersecurity and Data Security Requirements</h3>
@@ -203,7 +203,7 @@ long-term approach. For more information, click <strong><u>here</u></strong>.</p
 programmes to help you meet cybersecurity and data security (CS/DS) requirements.
 If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
 offer professional services to help you understand and implement the CS/DS
-requirements.</p>
+requirements on CSA's official website.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Basic package to engage professional services from listed CS/DS service
@@ -227,7 +227,7 @@ basic security packages for healthcare providers, with transparent pricing
 structures. These consultancies will also be asked to clearly distinguish
 between services to address essential requirements versus optional services.
 Healthcare providers that encounter unethical practices by such consultancies
-can report them to MOH and CSA <strong><u>here</u></strong>.</p>
+can report them to MOH and CSA on <strong><u>[Placeholder]</u></strong>.</p>
 <h2><strong>Our Calibrated Enforcement Approach</strong></h2>
 <p>We are committed to giving you the reasonable time and support needed
 to meet HIA requirements. Our approach focuses on working together to help
