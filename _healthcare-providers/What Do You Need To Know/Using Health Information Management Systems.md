@@ -15,19 +15,20 @@ for clinic management and billing are becoming standard practice.</p>
 digital hub for collecting, storing, managing, and sharing health information.
 To contribute key health information to NEHR seamlessly, you will need
 an authorised, HIA-compliant system that connects securely to NEHR.</p>
-<p>MOH has approved a list* of HIMS with all necessary technical features
-linked <a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener nofollow" target="_blank">here</a>.
-These systems are HIA-compliant and meet HIA's cybersecurity and data security
-(CS/DS) requirements. We strongly encourage you to adopt a HIA-compliant
-HIMS which automates the process of contributing key health information
-to NEHR.</p>
+<p>MOH has approved a list* of HIMS with all necessary technical features,
+which can be found on <a href="https://cms.synapxe.sg/sites/connectnehr/Pages/Integration-Status.aspx" rel="noopener noreferrer nofollow" target="_blank">Status of System Integration with the NEHR</a> on
+Synapxe’s official website. These systems are HIA-compliant and meet HIA's
+cybersecurity and data security (CS/DS) requirements. We strongly encourage
+you to adopt a HIA-compliant HIMS which automates the process of contributing
+key health information to NEHR.</p>
 <p>Even when using a HIA-compliant HIMS, you should ensure that your clinic
 processes and staff meet HIA’s CS/DS requirements. For instance, ensure
 that staff are familiar with basic cyber practices, such as the prevention
 of phishing and good password management. We will provide training resources,
 programmes, and funding support to help you get started.</p>
 <p>For more information on available support to subscribe to a HIA-compliant
-HIMS, please refer to: <a href="/healthcare-providers/help-and-resources/implementation-support/" rel="noopener nofollow" target="_blank">Implementation Support</a>.</p>
+HIMS, please refer to the <a href="/healthcare-providers/help-and-resources/implementation-support/" rel="noopener nofollow" target="_blank">Implementation Support</a> webpage
+on this website.</p>
 <p>For providers requiring additional time to implement a HIA-compliant HIMS,
 MOH will work with you to meet NEHR contribution requirements through an
 alternative mechanism while completing your digitisation journey. Automated
