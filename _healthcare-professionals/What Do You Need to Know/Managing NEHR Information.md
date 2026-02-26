@@ -16,8 +16,8 @@ for you to access NEHR for every single consultation.</p>
 <p>NEHR is an adjunctive source of information for you if you require further
 clinical information about the patients or if patients cannot recall their
 information clearly. NEHR and the information within should be used in
-accordance with relevant professional standards in their Ethical Code and
-Ethical Guidelines.</p>
+accordance with relevant professional standards in your respective Ethical
+Code and Ethical Guidelines.</p>
 <p>Consider factors like whether you need additional information beyond what
 you have gathered from patient interviews or examinations, or whether NEHR
 information would be relevant to the current consultation.</p>
