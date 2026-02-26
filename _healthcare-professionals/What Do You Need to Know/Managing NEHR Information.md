@@ -31,7 +31,7 @@ to review every record when you do access it.</p>
 <p>Delivering patient care</p>
 </li>
 <li>
-<p>Conducting statutory medical examinations whitelisted in <strong><u>HIA's Third Schedule</u></strong>
+<p>Conducting whitelisted statutory medical examinations listed in <strong><u>HIA's Third Schedule</u></strong>
 </p>
 </li>
 <li>
