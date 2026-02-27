@@ -187,8 +187,10 @@ in supporting continuity of care in the community.</p>
 automate the process of contributing key health information to NEHR.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOH will provide one-off grant support for healthcare providers to subscribe
-to a HIA-compliant HIMS to contribute key health information to NEHR.</p>
+<p>MOH will provide MOH NEHR Connect Grant (NCG) which is a one-off grant
+support for eligible healthcare providers to subscribe to a HIA-compliant
+HIMS to contribute key health information to NEHR. Details will be published
+in due course.</p>
 </li>
 <li>
 <p>For providers requiring additional time to implement a HIA-compliant HIMS,
