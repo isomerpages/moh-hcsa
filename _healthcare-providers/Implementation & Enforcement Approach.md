@@ -205,7 +205,7 @@ long-term approach. For more information, click <strong><u>[Placeholder]</u></st
 programmes to help you meet cybersecurity and data security (CS/DS) requirements.
 If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
 offer professional services to help you understand and implement the CS/DS
-requirements on CSA's official website.</p>
+requirements, on CSA's official website.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Basic package to engage professional services from listed CS/DS service
