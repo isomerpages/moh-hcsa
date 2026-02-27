@@ -46,7 +46,7 @@ different healthcare services.</p>
 <p>1.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acute Hospital</p>
+<p>Acute Hospital / Community Hospital</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>February 2027</p>
