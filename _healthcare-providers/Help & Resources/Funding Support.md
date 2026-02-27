@@ -10,15 +10,15 @@ third_nav_title: Help & Resources
 contribute to NEHR, to support adoption of HIA-compliant systems. More
 details will be published in due course.</p>
 <h2><strong>Funding Support for CS/DS Implementation</strong></h2>
-<p>Eligible healthcare Small and Medium-sized Enterprises (SMEs) that are
-subject to HIA can enjoy <strong>co-funding support</strong> when you sign
-up for&nbsp;CISOaaS&nbsp;(Chief Information Security Officer as-a-Service)
-for HIA Cybersecurity and Data Security Essentials.&nbsp;</p>
+<p>Eligible Small and Medium-sized healthcare providers that are subject
+to HIA can enjoy <strong>co-funding support</strong> when you sign up for&nbsp;CISOaaS&nbsp;(Chief
+Information Security Officer as-a-Service) for HIA Cybersecurity and Data
+Security Essentials.&nbsp;</p>
 <p>To sign up for these services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Eligible healthcare SMEs: Please identify your choice of CISOaaS consultant
-and/or package and sign up at <a href="https://services2.imda.gov.sg/CTOaaS/Category/csa_1/cybersecurity-consultancy" rel="noopener noreferrer nofollow" target="_blank">IMDA's&nbsp;CTOaaS&nbsp;portal</a>.
+<p>Eligible Small and Medium-sized healthcare providers: Please identify
+your choice of CISOaaS consultant and/or package and sign up at <a href="https://services2.imda.gov.sg/CTOaaS/Category/csa_1/cybersecurity-consultancy" rel="noopener noreferrer nofollow" target="_blank">IMDA's&nbsp;CTOaaS&nbsp;portal</a>.
 Please note that funding support is only available for MOH-approved service
 providers.</p>
 </li>
