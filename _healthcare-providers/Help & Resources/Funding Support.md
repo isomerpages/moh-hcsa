@@ -11,15 +11,15 @@ which is a one-off funding support to defray the costs of adopting a HIA-complia
 HIMS or enhancing their existing HIMS to be HIA-compliant. More details
 will be published in due course.</p>
 <h2><strong>Funding Support for CS/DS Implementation</strong></h2>
-<p>Eligible Small and Medium-sized healthcare providers that are subject
+<p>Eligible healthcare Small and Medium-sized Enterprises that are subject
 to HIA can enjoy <strong>co-funding support</strong> when you sign up for&nbsp;CISOaaS&nbsp;(Chief
 Information Security Officer as-a-Service) for HIA Cybersecurity and Data
 Security Essentials.&nbsp;</p>
 <p>To sign up for these services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Eligible Small and Medium-sized healthcare providers: Please identify
-your choice of CISOaaS consultant and/or package and sign up at <a href="https://services2.imda.gov.sg/CTOaaS/Category/csa_1/cybersecurity-consultancy" rel="noopener noreferrer nofollow" target="_blank">IMDA's&nbsp;CTOaaS&nbsp;portal</a>.
+<p>Eligible SMEs: Please identify your choice of CISOaaS consultant and/or
+package and sign up at <a href="https://services2.imda.gov.sg/CTOaaS/Category/csa_1/cybersecurity-consultancy" rel="noopener noreferrer nofollow" target="_blank">IMDA's&nbsp;CTOaaS&nbsp;portal</a>.
 Please note that funding support is only available for MOH-approved service
 providers.</p>
 </li>
@@ -31,8 +31,7 @@ CSA’s official website for more information.&nbsp;</p>
 </li>
 </ul>
 <p>The Productivity Solutions Grant (PSG) provides financial support for
-eligible Small and Medium-sized healthcare providers adopting cybersecurity
-solutions. Please visit <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness&nbsp;Gov Assist</a> for
+eligible SMEs adopting cybersecurity solutions. Please visit <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness&nbsp;Gov Assist</a> for
 the list of pre-approved solutions. You may apply for PSG through the
 <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Business Grants Portal</a>.</p>
 <p><a href="https://www.ncss.gov.sg/our-initiatives/tech-and-go/funding-support/social-service-agencies---consultancy-subsidy" rel="noopener noreferrer nofollow" target="_blank">NCSS’s Tech-and-GO! consultancy programme</a> provides
