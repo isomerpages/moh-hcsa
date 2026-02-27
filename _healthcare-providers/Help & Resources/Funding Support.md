@@ -6,9 +6,10 @@ description: ""
 third_nav_title: Help & Resources
 ---
 <h2><strong>Funding Support for HIMS Adoption</strong></h2>
-<p>MOH is planning to launch one-off funding support for those mandated to
-contribute to NEHR, to support adoption of HIA-compliant systems. More
-details will be published in due course.</p>
+<p>Eligible healthcare providers may apply for MOH NEHR Connect Grant (NCG),
+which is a one-off funding support to defray the costs of adopting a HIA-compliant
+HIMS or enhancing their existing HIMS to be HIA-compliant. More details
+will be published in due course.</p>
 <h2><strong>Funding Support for CS/DS Implementation</strong></h2>
 <p>Eligible Small and Medium-sized healthcare providers that are subject
 to HIA can enjoy <strong>co-funding support</strong> when you sign up for&nbsp;CISOaaS&nbsp;(Chief
