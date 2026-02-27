@@ -24,14 +24,15 @@ Please note that funding support is only available for MOH-approved service
 providers.</p>
 </li>
 <li>
-<p>Organisatio that are subject to&nbsp;HIA&nbsp;and not eligible for funding
+<p>Organisations that are subject to&nbsp;HIA&nbsp;and not eligible for funding
 support: Please approach your choice of&nbsp;CISOaaS&nbsp;consultant directly
 – visit <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener noreferrer nofollow" target="_blank">CISO as-a-Service to develop Cybersecurity Health Plan</a> on
 CSA’s official website for more information.&nbsp;</p>
 </li>
 </ul>
 <p>The Productivity Solutions Grant (PSG) provides financial support for
-eligible SMEs adopting cybersecurity solutions. Please visit <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness&nbsp;Gov Assist</a> for
+eligible Small and Medium-sized healthcare providers adopting cybersecurity
+solutions. Please visit <a href="https://www.gobusiness.gov.sg/productivity-solutions-grant/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness&nbsp;Gov Assist</a> for
 the list of pre-approved solutions. You may apply for PSG through the
 <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Business Grants Portal</a>.</p>
 <p>Licensees that are members of the National Council of Social Services
