@@ -41,10 +41,10 @@ Terminology, and Singapore Drug Dictionary).</p>
 <h3>HIMS Provider Governance and Compliance</h3>
 <p>You must also meet governance and compliance requirements to obtain HIA-compliant
 certification:</p>
-<p>1.&nbsp;<strong>Cybersecurity/Data security (CS/DS) Certification</strong>:
+<p>1.&nbsp;<strong>Cybersecurity/Data security (CSDS) Certification</strong>:
 You need to obtain Cyber Essentials (CE) for HIMS Providers Certification,
 which is a third-party certification under CSA for HIMS that align with
-HIA CS/DS Essentials.</p>
+HIA CSDS Essentials.</p>
 <p>2.&nbsp;<strong>Data Portability</strong>: You must provide a Self-declared
 Adherence for Code of Practice for Data Portability (CODE). CODE sets out
 the practices HIMS Providers shall comply with in the provision of support
