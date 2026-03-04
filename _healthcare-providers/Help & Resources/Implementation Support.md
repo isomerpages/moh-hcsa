@@ -56,7 +56,7 @@ third_nav_title: Help & Resources
 </tr>
 </tbody>
 </table>
-<h2><strong>Additional Support for Meeting CS/DS Requirements</strong></h2>
+<h2><strong>Additional Support for Meeting CSDS Requirements</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
