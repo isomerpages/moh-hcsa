@@ -18,7 +18,7 @@ of such health information only if it fulfils these requirements:</p>
 This includes key public healthcare stakeholders, public healthcare institutions,
 AIC, and relevant government agencies – all organisations you already trust
 with your healthcare.</p>
-<p>2.&nbsp;<strong>Your information can only be shared for specified use cases that are scoped to situations that support continuity of care and outreach under national programmes such as Healthier SG and Age Well SG</strong>:&nbsp;Here
+<p>2.&nbsp;<strong>Health information about you can only be shared for specified use cases that are scoped to situations that support continuity of care and outreach under national programmes such as Healthier SG and Age Well SG</strong>:&nbsp;Here
 is an example.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Example_of_specified_use_case.png">
