@@ -10,7 +10,7 @@ third_nav_title: Help & Resources
 which is a one-off funding support to defray the costs of adopting a HIA-compliant
 HIMS or enhancing their existing HIMS to be HIA-compliant. More details
 will be published in due course.</p>
-<h2><strong>Funding Support for CS/DS Implementation</strong></h2>
+<h2><strong>Funding Support for CSDS Implementation</strong></h2>
 <p>Eligible healthcare Small and Medium-sized Enterprises that are subject
 to HIA can enjoy <strong>co-funding support</strong> when you sign up for&nbsp;CISOaaS&nbsp;(Chief
 Information Security Officer as-a-Service) for HIA Cybersecurity and Data
