@@ -7,8 +7,8 @@ third_nav_title: What Do You Need to Know
 ---
 <h2><strong>Your Responsibilities</strong></h2>
 <p>You have heightened responsibilities when accessing and handling health
-information that may be deemed more sensitive, including sexually transmitted
-infections, delusional disorders, and schizophrenia.</p>
+information that may be deemed more sensitive, including those such as
+sexually transmitted infections, delusional disorders, and schizophrenia.</p>
 <h3>Access Controls</h3>
 <p>Your access to such health information is carefully controlled based on
 your specific role and direct involvement in patient care. Only access
