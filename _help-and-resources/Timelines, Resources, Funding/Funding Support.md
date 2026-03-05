@@ -8,7 +8,7 @@ third_nav_title: Timelines, Resources, Funding
 <h2><strong>Funding Support for Healthcare Providers</strong></h2>
 <h4>National Electronic Health Record (NEHR) Connect Grant</h4>
 <p>The NEHR Connect Grant will cover all licensees required to contribute
-to NEHR under the Healthcare Information Act, including General Practitioner
+to NEHR under the Health Information Act, including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
 <p>It succeeds previous digitalisation grants such as the GP IT Enablement
 Grant and Early Contribution Incentive Grant, both of which have closed
