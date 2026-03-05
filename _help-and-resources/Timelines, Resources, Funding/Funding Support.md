@@ -19,7 +19,7 @@ for the NEHR Connect Grant.</p>
 other government grants to support the purchase of cybersecurity solutions,
 and engagement of CISO-as-a-Service consultancy services.&nbsp; Details
 are in the table below.</p>
-<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cyber/Data Security from Other Agencies</u></strong>
+<p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -73,12 +73,13 @@ System<sup>2 </sup>(HIMS) or adopt a HIMS that is able to securely contribute
 to the NEHR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To help defray the cost of purchasing solutions to meet CSDS requirements.
+<p>To help defray the cost of purchasing solutions to meet CS/DS requirements.
 (E.g. firewall, antivirus software)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For those who need additional help to meet cybersecurity and data security
-(CSDS) requirements by subsidising the cost of hiring qualified CSDS consultants.</p>
+(CS/DS) requirements by subsidising the cost of hiring qualified CS/DS
+consultants.</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +114,7 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 <p>50% of cost of package capped at $30k</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 70% of the cost of CSDS Consultancy packages</p>
+<p>Up to 70% of the cost of CS/DS Consultancy packages</p>
 </td>
 </tr>
 <tr>
