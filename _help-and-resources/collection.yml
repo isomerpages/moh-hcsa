@@ -4,5 +4,4 @@ collections:
     order:
       - Timeline, Resources, Funding/Funding Support.md
       - Timeline, Resources, Funding/.keep
-      - Implementation Resources.md
       - Implementation Timeline.md
