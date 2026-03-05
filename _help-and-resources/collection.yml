@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Timeline, Resources, Funding/.keep
-      - Funding Support.md
       - Implementation Resources.md
       - Implementation Timeline.md
