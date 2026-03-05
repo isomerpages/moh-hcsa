@@ -2,5 +2,6 @@ collections:
   help-and-resources:
     output: true
     order:
+      - Funding Support.md
       - Implementation Resources.md
       - Implementation Timeline.md
