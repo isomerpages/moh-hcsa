@@ -43,7 +43,7 @@ are in the table below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CISO-as-a-Service<sup>1</sup> for HIA Cybersecurity and Data Security Essentials</strong>
+<p><strong>CISO-as-a-Service<sup>1</sup> for Health Information Act Cybersecurity and Data Security Essentials</strong>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ similar grants</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Small and Medium Enterprises (SMEs)</p>
-<p>More details: <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank"><u>Productivity Solutions Grant (PSG)</u></a>
+<p>More details: <a href="https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,15 +137,14 @@ the licensee's own HIMS. (Refer to the table below for details)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Details will be made available closer to July 2026</strong>
+<p>Details will be made available closer to July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener nofollow" target="_blank">https://www.apply.gov.sg/grants/business</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Apply via Business Grants Portal: <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.apply.gov.sg/grants/business</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank"><u>https://services2.imda.gov.sg/ctoaas/tag/hia</u></a></strong>
+<p>Apply via IMDA's CTOaaS portal: <a href="https://services2.imda.gov.sg/ctoaas/tag/hia" rel="noopener noreferrer nofollow" target="_blank">https://services2.imda.gov.sg/ctoaas/tag/hia</a>
 </p>
 </td>
 </tr>
@@ -307,7 +306,5 @@ and data security measures:</p>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p></p>
