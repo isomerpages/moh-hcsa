@@ -8,7 +8,7 @@ third_nav_title: Timelines, Resources, Funding
 <h2><strong>Funding Support for Healthcare Providers</strong></h2>
 <h4>National Electronic Health Record (NEHR) Connect Grant</h4>
 <p>The NEHR Connect Grant will cover all licensees required to contribute
-to NEHR under the Health Information Act, including General Practitioner
+to NEHR under the Health Information Act (HIA), including General Practitioner
 (GP) clinics, laboratories, dental clinics, and retail pharmacies. &nbsp;</p>
 <p>It succeeds previous digitalisation grants such as the GP IT Enablement
 Grant and Early Contribution Incentive Grant, both of which have closed
@@ -43,7 +43,7 @@ are in the table below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CISO-as-a-Service<sup>1</sup> for Health Information Act Cybersecurity and Data Security Essentials</strong>
+<p><strong>CISO-as-a-Service<sup>1</sup> for HIA Cybersecurity and Data Security Essentials</strong>
 </p>
 </td>
 </tr>
