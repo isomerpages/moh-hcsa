@@ -17,7 +17,7 @@ that previously received funding under those grants will not be eligible
 for the NEHR Connect Grant.</p>
 <p>Other than the NEHR Connect Grant, licensees will also be able to tap
 other government grants to support the purchase of cybersecurity solutions,
-and engagement of CISO-as-a-Service consultancy services.&nbsp; Details
+and engagement of CISO-as-a-Service consultancy services.&nbsp;Details
 are in the table below.</p>
 <p><strong><u>Details on the NEHR Connect Grant and Funding Support for Cybersecurity/Data Security from Other Agencies</u></strong>
 </p>
