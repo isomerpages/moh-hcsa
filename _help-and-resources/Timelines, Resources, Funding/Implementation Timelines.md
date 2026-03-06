@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Timelines, Resources, Funding
 ---
-<h2><strong>IImplementation Timelines for Healthcare Providers</strong></h2>
+<h2><strong>Implementation Timelines for Healthcare Providers</strong></h2>
 <p>Under the Health Information Act, licensed healthcare service providers
 will need to contribute patient medical information to the National Electronic
 Health Record (NEHR) and comply with cybersecurity and data security requirements.&nbsp;
