@@ -32,7 +32,7 @@ third_nav_title: Timelines, Resources, Funding
 <p>Overview of the HIA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key information for Healthcare Providers and Healthcare Professionals</p>
+<p>Key Information for Healthcare Providers and Healthcare Professionals</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Available now at <a href="http://www.healthinfo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.healthinfo.gov.sg</a>
