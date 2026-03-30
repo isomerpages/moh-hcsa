@@ -41,7 +41,7 @@ Terminology, and Singapore Drug Dictionary).</p>
 <h3>HIMS Provider Governance and Compliance</h3>
 <p>You must also meet governance and compliance requirements to obtain HIA-compliant
 certification:</p>
-<p>1.&nbsp;<strong>Cybersecurity/Data security (CSDS) Certification</strong>:
+<p>1.&nbsp;<strong>Cybersecurity/Data security (CS/DS) Certification</strong>:
 You need to obtain Cyber Essentials (CE) for HIMS Providers Certification,
 which is a third-party certification under CSA for HIMS that align with
 HIA CS/DS Essentials.</p>
