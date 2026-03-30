@@ -8,8 +8,8 @@ third_nav_title: What Do You Need to Know
 <h2><strong>Your Key Responsibilities</strong></h2>
 <p>Both healthcare providers and health information management system (HIMS)
 providers have obligations under HIA to protect and secure health information.
-As such, the cybersecurity and data security (CSDS) requirements, and the
-corresponding penalties in the event of non-compliances under HIA also
+As such, the cybersecurity and data security (CS/DS) requirements, and
+the corresponding penalties in the event of non-compliances under HIA also
 apply to HIMS providers.</p>
 <p>As HIMS providers process health information on behalf of healthcare providers
 and provide support for the purpose of contribution and access to NEHR,
