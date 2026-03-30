@@ -6,7 +6,7 @@ description: ""
 third_nav_title: What Do You Need to Know
 ---
 <p>As a HIMS provider supporting connection to NEHR, you and your healthcare
-provider clients must meet CSDS requirements to protect confidentiality,
+provider clients must meet CS/DS requirements to protect confidentiality,
 integrity and availability of health information.</p>
 <p>Confirmed cybersecurity incidents and data breaches must be reported to
 MOH, and individuals affected by significant data breaches must be informed
@@ -44,7 +44,7 @@ certification:</p>
 <p>1.&nbsp;<strong>Cybersecurity/Data security (CSDS) Certification</strong>:
 You need to obtain Cyber Essentials (CE) for HIMS Providers Certification,
 which is a third-party certification under CSA for HIMS that align with
-HIA CSDS Essentials.</p>
+HIA CS/DS Essentials.</p>
 <p>2.&nbsp;<strong>Data Portability</strong>: You must provide a Self-declared
 Adherence for Code of Practice for Data Portability (CODE). CODE sets out
 the practices HIMS Providers shall comply with in the provision of support
