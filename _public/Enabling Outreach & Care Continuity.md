@@ -4,7 +4,7 @@ permalink: /public/enabling-outreach-and-care-continuity/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Sharing of Non-NEHR Health Information for Community-based Care</strong></h2>
+<h2><strong>Sharing of Non-NEHR Information for Community-based Care</strong></h2>
 <p>HIA has also provided the legal basis to enable sharing of health information
 to facilitate shared care and coordination across prescribed settings and
 between prescribed entities. While the sharing of such information has
