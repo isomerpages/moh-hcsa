@@ -12,7 +12,8 @@ Services Act 2020 (HCSA). HIA builds on these foundations with enhanced
 security standards specifically designed for healthcare, and consolidates
 existing security requirements specifically for health information, rather
 than creating entirely new obligations.</p>
-<p>All HIA entities must meet CS/DS requirements outlined in the <strong><u>Cybersecurity and Data Security Essentials (CS/DS Essentials)</u></strong>.
+<p>All HIA entities must meet cybersecurity and data security (CS/DS) requirements
+outlined in the <strong><u>Cybersecurity and Data Security Essentials (CS/DS Essentials)</u></strong>.
 These security controls have been developed by MOH in consultation with
 Cyber Security Agency of Singapore (CSA), Infocomm Media Development Authority
 (IMDA), and Personal Data Protection Commission (PDPC) to provide clear
