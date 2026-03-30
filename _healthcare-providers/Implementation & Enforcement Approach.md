@@ -202,14 +202,14 @@ long-term approach. For more information, click <strong><u>[Placeholder]</u></st
 </ul>
 <h3>Support for Cybersecurity and Data Security Requirements</h3>
 <p>We will make available comprehensive self-help resources and training
-programmes to help you meet cybersecurity and data security (CSDS) requirements.
-If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">this list of CSDS service providers</a> who
-offer professional services to help you understand and implement the CSDS
+programmes to help you meet cybersecurity and data security (CS/DS) requirements.
+If you still require further assistance, you may access <a href="https://www.csa.gov.sg/our-programmes/support-for-enterprises/sg-cyber-safe-programme/cybersecurity-certification-for-organisations/ciso-as-a-service-to-develop-cybersecurity-health-plan/#7b1f437b924c56fdd61511b8d16e12e7" rel="noopener nofollow" target="_blank">this list of CS/DS service providers</a> who
+offer professional services to help you understand and implement the CS/DS
 requirements, on CSA's official website.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Basic package to engage professional services from listed CSDS service
-providers to implement the baseline CSDS requirements.</p>
+<p>Basic package to engage professional services from listed CS/DS service
+providers to implement the baseline CS/DS requirements.</p>
 </li>
 <li>
 <p>Eligible small and medium healthcare enterprises can also access <a href="https://www.apply.gov.sg/grants/business" rel="noopener noreferrer nofollow" target="_blank">Productivity Solutions Grant (PSG)</a> to
@@ -218,12 +218,12 @@ procure cybersecurity solutions.</p>
 <li>
 <p>Resources including concise checklists, infographics, guidance materials
 and training programmes to help healthcare providers, including our community
-health partners, meet HIA's CSDS requirements on an ongoing basis.</p>
+health partners, meet HIA's CS/DS requirements on an ongoing basis.</p>
 </li>
 </ul>
-<p><em>Note: CSDS professional or retainer services are optional as not everyone will need them.</em>
+<p><em>Note: CS/DS professional or retainer services are optional as not everyone will need them.</em>
 </p>
-<p><strong>CSDS Service Provider Standards:</strong> MOH is engaging cyber
+<p><strong>CS/DS Service Provider Standards:</strong> MOH is engaging cyber
 and data security consultants qualified by CSA to develop standardised
 basic security packages for healthcare providers, with transparent pricing
 structures. These consultancies will also be asked to clearly distinguish
